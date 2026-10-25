@@ -6,3 +6,4 @@ pharmrevise/keystore/
 pharmrevise/build/
 pharmrevise/app/data/
 pharmrevise/app/icon-192.png
+__pycache__/
