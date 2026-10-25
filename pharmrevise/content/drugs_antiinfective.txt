@@ -1,0 +1,1566 @@
+# Drug monographs — anti-infectives. AWaRe group shown in the class line (NEMLIT 2021 adopts WHO AWaRe).
+
+=== drug: amoxicillin
+name: Amoxicillin
+class: Aminopenicillin (beta-lactam) — AWaRe ACCESS
+group: Anti-infective
+nemlit: A (capsule 250 mg; dispersible tablet 125, 250 mg; suspension)
+forms: Capsule 250 mg, 500 mg; dispersible tablet 125 mg, 250 mg; suspension 125 mg/5 mL, 250 mg/5 mL
+moa: Binds penicillin-binding proteins → inhibits bacterial cell-wall cross-linking → bactericidal; destroyed by β-lactamase.
+uses:
+- Pneumonia in children (dispersible tablets — first-line) and community-acquired pneumonia in adults
+- Acute otitis media, sinusitis, streptococcal pharyngotonsillitis
+- H. pylori eradication; UTI (if sensitive); dental infections; enterococcal infection; prophylaxis of endocarditis
+dose:
+- Adults: 500 mg every 8 hours (1 g every 8 hours for pneumonia), 5–7 days
+- Children: 40–50 mg/kg/dose twice daily (pneumonia, otitis) for 5 days — STG paediatric pneumonia uses 40 mg/kg BD
+- H. pylori: 1 g twice daily for 14 days (with PPI + clarithromycin)
+ci:
+- Penicillin allergy (anaphylaxis history)
+- Infectious mononucleosis (very high rate of maculopapular rash)
+se:
+- Diarrhoea, nausea, rash (maculopapular), candidiasis
+- Anaphylaxis (rare), antibiotic-associated colitis
+ddi:
+- Methotrexate :: Reduced methotrexate excretion → toxicity :: Monitor
+- Warfarin :: May increase INR :: Monitor INR
+- Allopurinol :: Increased rash risk :: Monitor
+- Combined oral contraceptives :: Clinically insignificant (no extra precaution needed per current guidance) :: Counsel if vomiting/diarrhoea
+food:
+- Food :: Does not affect absorption :: Take with or without food
+preg: Safe.
+lact: Compatible.
+renal: Reduce frequency if eGFR <30.
+monitor:
+- Clinical response in 48–72 h; rash
+advice:
+- Complete the full course even if you feel better
+- Shake suspension well; keep reconstituted suspension in a cool place and discard after 7–14 days (check label)
+- Stop and seek help immediately if you develop swelling, wheeze or widespread rash
+storage: Dry powder below 25°C; reconstituted suspension in fridge (or cool place), discard after 7–14 days.
+pearls:
+- Always ask about penicillin allergy before dispensing any beta-lactam
+
+=== drug: amoxicillin-clavulanate
+name: Amoxicillin + clavulanic acid (co-amoxiclav)
+class: Aminopenicillin + beta-lactamase inhibitor — AWaRe ACCESS
+group: Anti-infective
+nemlit: B/C (tablet 500/125 mg; suspension 125/31.25, 250/62.5 per 5 mL)
+forms: Tablet 375 mg (250/125), 625 mg (500/125), 1 g (875/125); suspension; injection 1.2 g
+moa: Clavulanate irreversibly inhibits many β-lactamases, extending amoxicillin's spectrum to β-lactamase producers (S. aureus, H. influenzae, M. catarrhalis, anaerobes).
+uses:
+- Animal and human bites, cellulitis, diabetic foot infection (mild)
+- Sinusitis/otitis media failing amoxicillin, aspiration pneumonia, dental abscess, UTI (resistant)
+dose:
+- Adults: 625 mg every 8 hours or 1 g every 12 hours for 5–7 days
+- Children: 25–45 mg/kg/day (amoxicillin component) in 2–3 doses
+ci:
+- Penicillin allergy; previous cholestatic jaundice with co-amoxiclav
+se:
+- Diarrhoea (more than amoxicillin), nausea, candidiasis, rash
+- Cholestatic hepatitis (especially elderly men, long courses)
+ddi:
+- Warfarin :: Raised INR :: Monitor
+- Methotrexate :: Toxicity :: Monitor
+food:
+- Food :: Improves clavulanate absorption and reduces GI upset :: Take at the start of a meal
+preg: Generally safe (avoid in preterm rupture of membranes — NEC risk).
+lact: Compatible.
+hepatic: Monitor LFTs.
+monitor:
+- LFTs if prolonged therapy
+advice:
+- Take at the start of a meal; complete the course
+- Report yellow skin/eyes or dark urine
+storage: Below 25°C; suspension refrigerated, discard after 7 days.
+pearls:
+- Diarrhoea is mainly from the clavulanate component
+
+=== drug: benzylpenicillin
+name: Benzylpenicillin (penicillin G, crystalline penicillin)
+class: Natural penicillin (beta-lactam) — AWaRe ACCESS
+group: Anti-infective
+nemlit: A/B (powder for injection 600 mg = 1 MU, 3 g = 5 MU)
+forms: Powder for injection 600 mg (1 million units), 3 g (5 million units)
+moa: Cell-wall synthesis inhibitor; excellent against streptococci, pneumococci (sensitive), meningococci, Treponema, Clostridium.
+uses:
+- Severe pneumonia in children (with gentamicin), neonatal sepsis (with gentamicin)
+- Meningococcal disease (pre-referral), tetanus, neurosyphilis, streptococcal cellulitis/erysipelas, endocarditis
+dose:
+- Adults: 1.2–2.4 g (2–4 MU) IV/IM every 4–6 hours (meningitis up to 2.4 g every 4 h)
+- Children: 50,000 IU/kg (30 mg/kg) IV/IM every 6 hours (neonates every 12 h in week 1)
+ci:
+- Penicillin hypersensitivity
+se:
+- Hypersensitivity (urticaria, anaphylaxis), pain at injection site
+- High doses: seizures (especially renal failure), electrolyte disturbance; Jarisch–Herxheimer reaction in syphilis
+ddi:
+- Probenecid :: Raises penicillin levels (used deliberately) :: —
+- Methotrexate :: Toxicity :: Monitor
+- Tetracyclines / chloramphenicol :: Bacteriostatic drugs may antagonise penicillin :: Avoid combination in meningitis
+food:
+- Not applicable (injection)
+preg: Safe.
+lact: Compatible.
+renal: Reduce dose in severe renal impairment (seizure risk).
+monitor:
+- Clinical response; signs of hypersensitivity for 30 min after first dose
+advice:
+- Inform staff about any previous penicillin reaction
+storage: Powder below 25°C; use reconstituted solution immediately.
+pearls:
+- Have adrenaline ready whenever giving parenteral penicillin
+
+=== drug: benzathine-penicillin
+name: Benzathine benzylpenicillin
+class: Long-acting depot penicillin — AWaRe ACCESS
+group: Anti-infective
+nemlit: A/B (powder for injection 1.44 g = 2.4 MU)
+forms: Powder for injection 1.44 g (2.4 million units)
+moa: Slowly hydrolysed to benzylpenicillin → low, prolonged (2–4 week) penicillin levels.
+uses:
+- Syphilis (primary, secondary, early latent; late latent weekly × 3); genital ulcer syndrome (syndromic)
+- Secondary prophylaxis of rheumatic fever; streptococcal pharyngitis (single dose)
+dose:
+- Early syphilis/GUD: 2.4 MU deep IM single dose (1.2 MU into each buttock)
+- Late latent syphilis: 2.4 MU IM weekly for 3 weeks
+- Rheumatic fever prophylaxis: adults 1.2 MU IM every 3–4 weeks (children <30 kg: 600,000 IU)
+ci:
+- Penicillin allergy; NEVER give intravenously (cardiac arrest, death)
+se:
+- Painful injection, sterile abscess; Jarisch–Herxheimer reaction (fever, chills within 24 h in syphilis); anaphylaxis
+ddi:
+- Tetracyclines :: Possible antagonism :: Avoid combining
+food:
+- Not applicable
+preg: Safe — the ONLY effective treatment for syphilis in pregnancy (prevents congenital syphilis).
+lact: Compatible.
+monitor:
+- Observe for 30 minutes after injection; syphilis serology (RPR) at 3, 6, 12 months
+advice:
+- Abstain from sex until you and your partner(s) are treated; partners must be treated too
+- Fever and aches within a day of the injection may occur (Jarisch–Herxheimer) — not an allergy; take paracetamol
+storage: Below 25°C.
+pearls:
+- Deep IM only, upper outer quadrant of buttock; aspirate before injecting
+
+=== drug: phenoxymethylpenicillin
+name: Phenoxymethylpenicillin (penicillin V)
+class: Oral natural penicillin — AWaRe ACCESS
+group: Anti-infective
+nemlit: A (tablet 250 mg; suspension 125 mg/5 mL)
+forms: Tablet 250 mg; suspension 125 mg/5 mL
+moa: Acid-stable oral penicillin; narrow spectrum (streptococci).
+uses:
+- Streptococcal pharyngotonsillitis (10 days); erysipelas follow-on
+- Pneumococcal prophylaxis in sickle cell disease and asplenia; rheumatic fever prophylaxis (oral alternative)
+dose:
+- Pharyngitis adults: 500 mg every 6 hours (or 250–500 mg every 6 h) for 10 days
+- Sickle cell prophylaxis: <3 years 125 mg twice daily; ≥3 years 250 mg twice daily (to at least age 5)
+ci:
+- Penicillin allergy
+se:
+- Diarrhoea, nausea, rash, hypersensitivity
+ddi:
+- Methotrexate :: Toxicity :: Monitor
+food:
+- Food :: Reduces absorption :: Take 1 hour before or 2 hours after food
+preg: Safe.
+lact: Compatible.
+monitor:
+- Adherence (prophylaxis)
+advice:
+- Take on an empty stomach; full 10 days for sore throat (prevents rheumatic fever)
+- Sickle cell: give every day without missing; seek care urgently for any fever
+storage: Suspension refrigerated, discard after 7 days.
+pearls:
+- 10-day course is needed to eradicate Group A Strep and prevent rheumatic fever
+
+=== drug: cloxacillin
+name: Cloxacillin / flucloxacillin
+class: Penicillinase-resistant (anti-staphylococcal) penicillin — AWaRe ACCESS
+group: Anti-infective
+nemlit: B (cloxacillin injection 250, 500 mg); flucloxacillin C
+forms: Capsule 250 mg, 500 mg; injection 250 mg, 500 mg
+moa: β-lactam stable to staphylococcal penicillinase.
+uses:
+- Staphylococcal skin and soft-tissue infections: impetigo (extensive), cellulitis, abscess, mastitis, wound infection
+- Osteomyelitis, septic arthritis, staphylococcal pneumonia (IV)
+dose:
+- Adults: 500 mg every 6 hours orally (1 hour before food); IV 1–2 g every 6 hours for severe infection
+- Children: 12.5–25 mg/kg every 6 hours
+ci:
+- Penicillin allergy; flucloxacillin-associated jaundice history
+se:
+- GI upset, rash; cholestatic jaundice/hepatitis (can occur weeks after stopping), phlebitis
+ddi:
+- Methotrexate :: Toxicity :: Monitor
+food:
+- Food :: Reduces absorption significantly :: Take 1 hour before or 2 hours after meals
+preg: Safe.
+lact: Compatible.
+hepatic: Caution.
+monitor:
+- Clinical response; LFTs with prolonged courses
+advice:
+- Take on an empty stomach, four times a day, for the full course
+storage: Below 25°C.
+pearls:
+- Not active against MRSA
+
+=== drug: ampicillin
+name: Ampicillin
+class: Aminopenicillin — AWaRe ACCESS
+group: Anti-infective
+nemlit: A (powder for injection 250, 500 mg)
+forms: Powder for injection 250 mg, 500 mg, 1 g
+moa: β-lactam cell-wall inhibitor; active against Listeria and enterococci.
+uses:
+- Neonatal sepsis and severe pneumonia in young infants (with gentamicin)
+- Meningitis in neonates (Listeria cover), enterococcal infection, intra-abdominal/obstetric infection (with gentamicin + metronidazole)
+dose:
+- Neonates/children: 50 mg/kg IV/IM every 6–12 hours (12-hourly in first week of life); meningitis 100 mg/kg
+- Adults: 500 mg–2 g IV every 6 hours
+ci:
+- Penicillin allergy; infectious mononucleosis
+se:
+- Rash, diarrhoea, hypersensitivity
+ddi:
+- Allopurinol :: Rash :: Monitor
+- Methotrexate :: Toxicity :: Monitor
+food:
+- Not applicable
+preg: Safe.
+lact: Compatible.
+renal: Adjust dose if eGFR <10.
+monitor:
+- Response; IV site
+advice:
+- Inform staff of any allergy
+storage: Use reconstituted solution immediately.
+pearls:
+- Ampicillin + gentamicin = WHO/STG first-line for neonatal sepsis
+
+=== drug: gentamicin
+name: Gentamicin
+class: Aminoglycoside — AWaRe ACCESS
+group: Anti-infective
+nemlit: A/B (injection 40 mg/mL, 20 mg/mL in 2 mL)
+forms: Injection 40 mg/mL (2 mL), 10 mg/mL paediatric; eye/ear drops 0.3%
+moa: Binds 30S ribosomal subunit → misreading of mRNA → bactericidal (concentration-dependent, with post-antibiotic effect); needs oxygen for uptake (inactive against anaerobes).
+uses:
+- Neonatal sepsis and severe pneumonia in children (with ampicillin/benzylpenicillin)
+- Pyelonephritis, intra-abdominal and pelvic sepsis (with ampicillin/metronidazole), endocarditis (synergy)
+- Gonorrhoea (single 240 mg IM dose with azithromycin, alternative)
+dose:
+- Adults: 5–7 mg/kg IV/IM once daily
+- Children: 7.5 mg/kg once daily; neonates 5 mg/kg once daily (every 36–48 h if preterm/low birth weight)
+ci:
+- Myasthenia gravis; previous aminoglycoside ototoxicity; pregnancy (avoid)
+se:
+- Nephrotoxicity (usually reversible), ototoxicity (vestibular and cochlear — irreversible)
+- Neuromuscular blockade (high doses, with anaesthetics or MgSO4)
+ddi:
+- Furosemide :: Additive ototoxicity :: Avoid or monitor
+- Vancomycin / amphotericin B / cisplatin / NSAIDs :: Additive nephrotoxicity :: Monitor creatinine and levels
+- Neuromuscular blockers / MgSO4 :: Enhanced neuromuscular blockade :: Caution
+food:
+- Not applicable
+preg: Avoid — risk of fetal eighth-nerve damage (use only if life-threatening).
+lact: Compatible (poor oral absorption by infant).
+renal: Extend interval and reduce dose; monitor levels.
+monitor:
+- Creatinine before and every 2–3 days; trough levels (<1 mg/L for once-daily dosing); hearing/balance
+advice:
+- Report ringing in ears, hearing loss, dizziness or reduced urine
+storage: Below 25°C.
+pearls:
+- Limit courses to ≤7 days where possible; once-daily dosing is as effective and less toxic
+
+=== drug: ceftriaxone
+name: Ceftriaxone
+class: Third-generation cephalosporin — AWaRe WATCH
+group: Anti-infective
+nemlit: B (injection 250 mg, 500 mg, 1 g) — level A for STI only
+forms: Powder for injection 250 mg, 500 mg, 1 g
+moa: β-lactam cell-wall inhibitor; broad Gram-negative cover, good CNS penetration; long half-life allows once-daily dosing.
+uses:
+- Severe pneumonia, bacterial meningitis, sepsis, severe malaria with suspected bacterial co-infection
+- Gonorrhoea/urethral and vaginal discharge (STI syndromic), PID, acute pyelonephritis, typhoid fever (severe), SBP
+dose:
+- Adults: 1–2 g IV/IM once daily; meningitis 2 g every 12 hours
+- Gonorrhoea: 500 mg IM single dose (STG 2021 lists 250 mg IM with azithromycin 1 g — check current guideline)
+- Children: 50–80 mg/kg once daily; meningitis 100 mg/kg/day (max 4 g)
+ci:
+- Severe penicillin allergy (anaphylaxis) — cross-reactivity low but caution
+- Neonates with hyperbilirubinaemia; neonates receiving IV calcium (fatal precipitates)
+se:
+- Diarrhoea, C. difficile, rash, injection-site pain
+- Biliary sludge/pseudolithiasis, raised LFTs; haemolytic anaemia (rare)
+ddi:
+- Calcium-containing IV fluids (Ringer's lactate) :: Ceftriaxone–calcium precipitates in lungs/kidneys :: Never mix or co-infuse; flush line; avoid in neonates
+- Warfarin :: Raised INR :: Monitor
+food:
+- Not applicable
+preg: Safe.
+lact: Compatible.
+renal: No adjustment usually needed (dual elimination).
+monitor:
+- Response at 48–72 h; switch to oral when improving (IV-to-oral switch)
+advice:
+- IM injection is painful — usually reconstituted with 1% lidocaine for IM use (never give lidocaine-reconstituted drug IV)
+storage: Powder below 25°C; use reconstituted solution promptly.
+pearls:
+- WATCH antibiotic: reserve for indications in STG; misuse drives ESBL resistance
+
+=== drug: cefixime
+name: Cefixime
+class: Oral third-generation cephalosporin — AWaRe WATCH
+group: Anti-infective
+nemlit: S (capsule 200 mg, 400 mg) — level A for STI and typhoid
+forms: Capsule/tablet 200 mg, 400 mg; suspension 100 mg/5 mL
+moa: Oral cell-wall synthesis inhibitor; good Gram-negative activity (N. gonorrhoeae, Salmonella typhi, E. coli).
+uses:
+- Uncomplicated gonorrhoea (oral alternative to ceftriaxone)
+- Typhoid fever (oral); UTI (resistant organisms); IV-to-oral switch
+dose:
+- Gonorrhoea: 400 mg single oral dose (with azithromycin 1 g)
+- Typhoid: 10–20 mg/kg/day in 2 doses for 7–14 days (adults 200 mg twice daily)
+ci:
+- Cephalosporin allergy; severe penicillin anaphylaxis
+se:
+- Diarrhoea, abdominal pain, nausea, rash
+ddi:
+- Warfarin :: Raised INR :: Monitor
+food:
+- Food :: No major effect :: Take with or without food
+preg: Safe.
+lact: Compatible.
+renal: Reduce if eGFR <20.
+monitor:
+- Clinical response
+advice:
+- Complete course; partner treatment for STIs
+storage: Below 25°C.
+pearls:
+- Restricted (S) except for STI and typhoid at lower levels
+
+=== drug: ciprofloxacin
+name: Ciprofloxacin
+class: Fluoroquinolone — AWaRe WATCH
+group: Anti-infective
+nemlit: A (tablet 250, 500 mg); C (IV)
+forms: Tablet 250 mg, 500 mg; IV 2 mg/mL; eye/ear drops 0.3%
+moa: Inhibits bacterial DNA gyrase (topoisomerase II) and topoisomerase IV → bactericidal; strong Gram-negative and Pseudomonas activity.
+uses:
+- Dysentery (shigellosis), typhoid (if sensitive), cholera (adults — single dose)
+- Complicated UTI/pyelonephritis, prostatitis; SBP prophylaxis
+- Anthrax and plague; bone and joint infections (Gram-negative)
+dose:
+- Adults: 500 mg every 12 hours (250–750 mg); UTI 3 days (uncomplicated) to 7–14 days
+- Shigellosis: adults 500 mg twice daily for 3 days; children 15 mg/kg twice daily for 3 days
+- Cholera: adults 1 g single dose
+ci:
+- History of tendon disorder with quinolones; myasthenia gravis
+- Children and adolescents (relative — use only when benefit clear, e.g. shigellosis); pregnancy (relative)
+se:
+- GI upset, dizziness, headache, photosensitivity
+- Tendinitis/tendon rupture (elderly, steroids), QT prolongation, seizures, C. difficile, peripheral neuropathy, dysglycaemia
+ddi:
+- Antacids / iron / zinc / calcium / dairy :: Chelation → large fall in absorption :: Take ciprofloxacin 2 h before or 6 h after
+- Theophylline / aminophylline :: Theophylline toxicity (seizures) :: Avoid or reduce dose
+- Warfarin :: Raised INR :: Monitor
+- NSAIDs :: Increased seizure risk :: Caution
+- Corticosteroids :: Tendon rupture :: Avoid combination in elderly
+- QT drugs (amiodarone, haloperidol) :: Arrhythmia :: Avoid
+food:
+- Milk, yoghurt, calcium-fortified juice (alone) :: Reduced absorption :: Do not take with dairy alone; normal meals with dairy are acceptable
+- Caffeine :: Ciprofloxacin raises caffeine levels → jitteriness :: Limit coffee
+preg: Avoid (use only if no alternative).
+lact: Avoid.
+renal: Halve dose if eGFR <30.
+monitor:
+- Response; tendon pain; glucose in diabetics
+advice:
+- Do not take with milk, antacids, iron or zinc — separate by at least 2 hours before / 6 hours after
+- Stop and rest if you get pain or swelling in your heel or a tendon
+- Avoid strong sunlight; drink plenty of water
+storage: Below 25°C.
+pearls:
+- Ciprofloxacin is a WATCH antibiotic — avoid for simple respiratory infections (poor pneumococcal cover)
+
+=== drug: doxycycline
+name: Doxycycline
+class: Tetracycline — AWaRe ACCESS
+group: Anti-infective
+nemlit: A (capsule 100 mg)
+forms: Capsule/tablet 100 mg
+moa: Binds 30S ribosomal subunit → inhibits protein synthesis (bacteriostatic); active against atypicals, Chlamydia, Rickettsia, Borrelia, cholera.
+uses:
+- Chlamydia, urethral/vaginal discharge and PID (syndromic regimens), lymphogranuloma venereum
+- Atypical pneumonia, COPD exacerbation, cholera (single dose), brucellosis, tick-borne relapsing fever, rickettsial fever, leptospirosis
+- Malaria prophylaxis for travellers; acne
+dose:
+- Adults: 100 mg twice daily (200 mg on day 1 in some regimens) for 7 days (chlamydia/urethritis), 14 days (PID)
+- Cholera: 300 mg single dose (adults)
+ci:
+- Pregnancy, children <8 years (tooth discolouration, bone growth), breastfeeding (prolonged)
+se:
+- Oesophageal ulceration (if taken lying down/without water), nausea, photosensitivity
+- Candidiasis; benign intracranial hypertension (rare)
+ddi:
+- Antacids / iron / zinc / calcium / magnesium :: Chelation → reduced absorption :: Separate by 2–3 hours
+- Warfarin :: Raised INR :: Monitor
+- Carbamazepine / phenytoin / rifampicin :: Reduced doxycycline levels :: Consider higher dose
+food:
+- Milk/dairy :: Reduces absorption (less than older tetracyclines) :: Avoid taking with milk
+- Food :: Reduces GI upset :: Can take with food
+preg: CONTRAINDICATED (fetal tooth discolouration, bone effects; maternal hepatotoxicity).
+lact: Avoid long courses.
+monitor:
+- Response
+advice:
+- Swallow with a full glass of water while sitting or standing; do not lie down for 30 minutes
+- Avoid strong sunlight; use sunscreen
+- Separate from milk, antacids and iron tablets
+- For STIs: avoid sex until you and partners complete treatment
+storage: Below 25°C, protect from light; discard expired tetracyclines (degradation products are nephrotoxic).
+pearls:
+- Pill oesophagitis is a classic counselling point — water + upright
+
+=== drug: azithromycin
+name: Azithromycin
+class: Macrolide — AWaRe WATCH
+group: Anti-infective
+nemlit: B (capsule/tablet 250, 500 mg; liquid 200 mg/5 mL) — level A for STI only
+forms: Tablet/capsule 250 mg, 500 mg; suspension 200 mg/5 mL
+moa: Binds 50S ribosomal subunit → inhibits protein synthesis; long tissue half-life allows short courses.
+uses:
+- Chlamydia and gonorrhoea (dual therapy), trachoma (MDA), chancroid
+- Atypical/community-acquired pneumonia (penicillin allergy), typhoid fever (uncomplicated), cholera in children/pregnancy, pertussis
+dose:
+- Chlamydia/urethritis: 1 g single dose
+- Typhoid: 20 mg/kg (max 1 g) once daily for 7 days
+- Respiratory: 500 mg once daily for 3 days (children 10 mg/kg once daily × 3 days)
+- Trachoma MDA: 20 mg/kg single dose (max 1 g)
+ci:
+- Macrolide allergy; hepatic disease (caution)
+se:
+- GI upset (diarrhoea, nausea, abdominal pain), QT prolongation, hepatotoxicity (rare), hearing loss (high doses)
+ddi:
+- QT-prolonging drugs (amiodarone, haloperidol, quinine, ondansetron) :: Torsades risk :: Avoid/monitor
+- Antacids (Al/Mg) :: Reduced peak levels :: Separate by 2 hours
+- Warfarin :: Raised INR :: Monitor
+- Digoxin :: Raised digoxin :: Monitor
+food:
+- Food :: Capsules: take 1 h before or 2 h after food; tablets/suspension: with or without food
+preg: Safe (used for chlamydia and cholera in pregnancy).
+lact: Compatible.
+hepatic: Avoid in severe hepatic impairment.
+monitor:
+- Response; ECG if cardiac risk
+advice:
+- Even a 1-day or 3-day course keeps working for days — complete the dose as instructed
+- STIs: partner notification and treatment; no sex for 7 days after treatment
+storage: Below 30°C; reconstituted suspension 5–10 days.
+pearls:
+- Weaker CYP3A4 inhibitor than clarithromycin/erythromycin — fewer interactions
+
+=== drug: erythromycin
+name: Erythromycin
+class: Macrolide — AWaRe WATCH
+group: Anti-infective
+nemlit: A (tablet 250 mg; suspension 125 mg/5 mL)
+forms: Tablet 250 mg, 500 mg (stearate/ethylsuccinate); suspension 125 mg/5 mL; eye ointment
+moa: 50S ribosomal inhibitor; motilin agonist (prokinetic side effect).
+uses:
+- Alternative to penicillin in allergy (pharyngitis, skin infections, rheumatic fever prophylaxis)
+- Chlamydia in pregnancy; pertussis; ophthalmia neonatorum prophylaxis (ointment); acne
+dose:
+- Adults: 250–500 mg every 6 hours (or 500 mg–1 g every 12 h)
+- Children: 12.5 mg/kg every 6 hours
+ci:
+- Macrolide allergy; co-administration with simvastatin, ergotamine, astemizole
+se:
+- Nausea, vomiting, abdominal cramps, diarrhoea (common); cholestatic jaundice (estolate); QT prolongation; ototoxicity
+ddi:
+- Simvastatin / atorvastatin :: Strong CYP3A4 inhibition → rhabdomyolysis :: Avoid simvastatin; pause statin
+- Carbamazepine / theophylline / warfarin :: Raised levels/toxicity :: Avoid or monitor
+- Digoxin :: Raised digoxin :: Monitor
+- QT-prolonging drugs :: Torsades :: Avoid
+food:
+- Food :: Reduces absorption of base/stearate; ethylsuccinate can be taken with food :: Follow product label
+preg: Safe (not estolate).
+lact: Compatible.
+hepatic: Caution.
+monitor:
+- GI tolerance; LFTs
+advice:
+- Take as directed relative to meals; stomach upset is common
+storage: Below 25°C.
+pearls:
+- Strong CYP3A4 inhibitor — check every co-prescribed drug
+
+=== drug: cotrimoxazole
+name: Co-trimoxazole (sulfamethoxazole + trimethoprim)
+class: Sulfonamide + dihydrofolate reductase inhibitor — AWaRe ACCESS
+group: Anti-infective
+nemlit: A (tablet 480 mg [400/80], 960 mg; suspension 240 mg/5 mL)
+forms: Tablet 480 mg, 960 mg; paediatric tablet 120 mg; suspension 240 mg/5 mL
+moa: Sequential blockade of folate synthesis (dihydropteroate synthase and dihydrofolate reductase) → bactericidal; also active against Pneumocystis, Toxoplasma, Isospora.
+uses:
+- Opportunistic infection prophylaxis in HIV (PLHIV with CD4 ≤350 or WHO stage 3/4; HIV-exposed infants from 6 weeks)
+- Pneumocystis pneumonia (high-dose treatment), toxoplasmosis
+- UTI (if sensitive), shigellosis (if sensitive), mycetoma (actinomycetoma)
+dose:
+- Prophylaxis: adults 960 mg once daily; children by weight (e.g. 6 weeks–6 months 120 mg; 6 months–5 years 240 mg; 6–14 years 480 mg daily)
+- PCP treatment: 15–20 mg/kg/day trimethoprim component in 3–4 divided doses for 21 days (with prednisolone if hypoxic)
+- UTI: 960 mg twice daily for 3–7 days
+ci:
+- Sulfonamide allergy; severe hepatic or renal impairment; neonates <6 weeks (kernicterus)
+- First trimester (folate antagonism) and late pregnancy (kernicterus) — though prophylaxis continues in PLHIV
+- G6PD deficiency (haemolysis)
+se:
+- Rash (common), Stevens–Johnson syndrome/TEN (stop at first sign of rash)
+- Nausea, bone marrow suppression (folate deficiency), hyperkalaemia (trimethoprim), raised creatinine, hepatitis
+ddi:
+- Warfarin :: Marked INR rise :: Avoid or reduce warfarin, monitor INR closely
+- Methotrexate :: Severe bone marrow suppression :: Avoid
+- Phenytoin :: Raised phenytoin levels :: Monitor
+- ACE inhibitors / spironolactone :: Hyperkalaemia :: Monitor K+
+- Sulfonylureas :: Hypoglycaemia :: Monitor glucose
+- Zidovudine :: Additive marrow toxicity :: Monitor FBC
+food:
+- Fluids :: Prevent crystalluria :: Drink plenty of water
+preg: PLHIV continue CPT in pregnancy (benefit > risk) — but they then do not need SP for IPTp.
+lact: Compatible (avoid in premature, jaundiced, G6PD-deficient infants).
+renal: Halve dose if eGFR 15–30; avoid below 15.
+monitor:
+- Rash; FBC with long-term or high-dose use; K+
+advice:
+- Take every day with plenty of water
+- STOP and seek help immediately if you get a skin rash, blisters, mouth sores or eye redness
+- Women on CPT in pregnancy do not take SP (Fansidar) for malaria prevention
+storage: Below 25°C, protect from light.
+pearls:
+- CPT + SP together increases sulfa toxicity — classic exam point
+
+=== drug: nitrofurantoin
+name: Nitrofurantoin
+class: Nitrofuran urinary antiseptic — AWaRe ACCESS
+group: Anti-infective
+nemlit: A (tablet 100 mg)
+forms: Tablet 50 mg, 100 mg; modified-release capsule 100 mg
+moa: Reduced by bacterial flavoproteins to reactive intermediates that damage DNA/ribosomes; concentrated in urine only.
+uses:
+- Uncomplicated lower UTI (cystitis), including in pregnancy (avoid at term)
+- Prophylaxis of recurrent UTI
+dose:
+- Cystitis: 100 mg every 12 hours (MR) or 50–100 mg every 6 hours for 5 days (3 days in some guidelines)
+- Prophylaxis: 50–100 mg at bedtime
+ci:
+- eGFR <45 (ineffective, toxic); G6PD deficiency; term pregnancy (38–42 weeks) and neonates <3 months (haemolysis)
+- Pyelonephritis (inadequate tissue levels)
+se:
+- Nausea, brown urine discolouration (harmless)
+- Pulmonary reactions (acute and chronic fibrosis), peripheral neuropathy, hepatotoxicity, haemolysis in G6PD deficiency
+ddi:
+- Magnesium trisilicate antacids :: Reduced absorption :: Separate
+- Probenecid :: Reduced urinary concentration :: Avoid
+food:
+- Food :: Increases absorption and reduces nausea :: Take with food or milk
+preg: Use in 1st/2nd trimester; avoid at term.
+lact: Avoid if infant <1 month or G6PD deficient.
+renal: Avoid if eGFR <45.
+monitor:
+- Lung, liver and nerve symptoms with long-term use
+advice:
+- Take with food; urine may turn dark yellow/brown — harmless
+- Report cough, breathlessness, tingling in hands/feet
+storage: Below 25°C, protect from light.
+pearls:
+- Not for pyelonephritis — only works in the bladder
+
+=== drug: metronidazole
+name: Metronidazole
+class: Nitroimidazole antibacterial and antiprotozoal — AWaRe ACCESS
+group: Anti-infective
+nemlit: A (tablet 200 mg; suspension 200 mg/5 mL); B (IV 5 mg/mL)
+forms: Tablet 200 mg, 400 mg; suspension 200 mg/5 mL; IV 500 mg/100 mL; vaginal gel
+moa: Reduced inside anaerobes/protozoa to toxic radicals that break DNA → bactericidal against anaerobes, Trichomonas, Giardia, Entamoeba.
+uses:
+- Amoebiasis (intestinal and liver abscess), giardiasis, trichomoniasis, bacterial vaginosis (vaginal discharge syndrome)
+- Anaerobic infections: intra-abdominal sepsis, PID, puerperal sepsis, dental abscess, aspiration pneumonia, brain abscess
+- C. difficile colitis (mild–moderate), H. pylori (penicillin allergy), tetanus
+dose:
+- Amoebiasis/liver abscess: 800 mg three times daily for 5 (–10) days, followed by a luminal agent
+- Giardiasis: 2 g once daily for 3 days or 400 mg three times daily for 5 days
+- Trichomoniasis/BV: 2 g single dose or 400–500 mg twice daily for 7 days
+- Anaerobic sepsis: 500 mg IV every 8 hours
+- Children: 7.5 mg/kg every 8 hours
+ci:
+- Hypersensitivity to nitroimidazoles; alcohol during and 48 h after treatment
+se:
+- Metallic taste, nausea, anorexia, dark urine
+- Disulfiram-like reaction with alcohol; peripheral neuropathy and encephalopathy with prolonged use; seizures
+ddi:
+- Alcohol :: Disulfiram-like reaction (flushing, vomiting, palpitations) :: No alcohol during and for 48 hours after
+- Warfarin :: Marked INR rise → bleeding :: Reduce warfarin, monitor INR
+- Lithium :: Lithium toxicity :: Monitor
+- Phenytoin :: Raised phenytoin levels :: Monitor
+- Busulfan / fluorouracil :: Increased toxicity :: Avoid
+food:
+- Alcohol (including alcohol-containing medicines, local brews) :: Severe disulfiram reaction :: Strictly avoid
+- Food :: Reduces GI upset :: Take tablets with or after food
+preg: Use if clearly indicated (avoid high single 2 g dose in first trimester).
+lact: Use divided doses; high single dose — interrupt breastfeeding 12–24 h.
+hepatic: Reduce dose in severe impairment.
+monitor:
+- Neurological symptoms with courses >10 days
+advice:
+- Do not drink ANY alcohol during the course and for 2 days after
+- Metallic taste and dark urine are common and harmless
+- Take with or after food; treat sexual partners for trichomoniasis
+storage: Protect from light.
+pearls:
+- After metronidazole for amoebiasis, a luminal amoebicide (e.g. diloxanide) clears cysts
+
+=== drug: tinidazole
+name: Tinidazole
+class: Nitroimidazole antiprotozoal/antibacterial
+group: Anti-infective
+nemlit: B (tablet 500 mg)
+forms: Tablet 500 mg
+moa: As metronidazole, with a longer half-life (single-dose regimens).
+uses:
+- Giardiasis, amoebiasis, trichomoniasis, bacterial vaginosis
+dose:
+- Giardiasis/trichomoniasis: 2 g single dose (children 50 mg/kg)
+- Amoebiasis: 2 g once daily for 3 days
+ci:
+- First trimester; alcohol; blood dyscrasias
+se:
+- Metallic taste, nausea, disulfiram-like reaction with alcohol
+ddi:
+- Alcohol :: Disulfiram-like reaction :: Avoid for 72 hours after
+- Warfarin :: Raised INR :: Monitor
+food:
+- Food :: Reduces GI upset :: Take with food
+preg: Avoid in first trimester.
+lact: Interrupt breastfeeding for 72 hours after a dose.
+monitor:
+- Not routinely needed
+advice:
+- No alcohol for 3 days after the dose
+storage: Below 25°C.
+pearls:
+- Single-dose convenience improves adherence
+
+=== drug: chloramphenicol
+name: Chloramphenicol
+class: Amphenicol — AWaRe ACCESS
+group: Anti-infective
+nemlit: Listed (oily injection 0.5 g/mL; powder for injection 1 g); eye drops 0.5% A
+forms: Powder for injection 1 g; oily injection; capsules 250 mg; eye drops 0.5%, eye ointment 1%
+moa: Binds 50S ribosomal subunit → inhibits peptidyl transferase (bacteriostatic; bactericidal for H. influenzae, meningococcus, pneumococcus).
+uses:
+- Bacterial meningitis when ceftriaxone unavailable; epidemic meningococcal meningitis (oily chloramphenicol)
+- Typhoid (where sensitive), plague; bacterial conjunctivitis (topical)
+dose:
+- Adults: 12.5–25 mg/kg IV every 6 hours (max 4 g/day)
+- Children: 25 mg/kg every 6 hours (max 1 g per dose); avoid in neonates
+- Eye drops: 1 drop every 2 hours for 48 h, then 4 times daily
+ci:
+- Neonates (grey baby syndrome), pregnancy near term, breastfeeding, porphyria, previous marrow toxicity
+se:
+- Dose-related reversible bone marrow suppression; idiosyncratic aplastic anaemia (irreversible, rare)
+- Grey baby syndrome (vomiting, cyanosis, collapse) in neonates; optic neuritis
+ddi:
+- Phenytoin / sulfonylureas / warfarin :: Raised levels :: Monitor
+- Rifampicin / phenobarbital :: Reduced chloramphenicol levels :: Monitor
+- Other marrow-suppressive drugs (zidovudine) :: Additive toxicity :: Avoid
+food:
+- Food :: Oral forms best on empty stomach :: —
+preg: Avoid (grey baby syndrome near term).
+lact: Avoid.
+hepatic: Reduce dose.
+monitor:
+- FBC twice weekly with systemic use
+advice:
+- Eye drops: complete 5 days; keep bottle in fridge once opened, discard after 28 days
+storage: Eye drops refrigerated (2–8°C).
+pearls:
+- Grey baby syndrome: neonates lack glucuronidation capacity
+
+=== drug: vancomycin
+name: Vancomycin
+class: Glycopeptide — AWaRe WATCH
+group: Anti-infective
+nemlit: S (injection 250 mg; capsule 125, 250 mg)
+forms: Powder for injection 500 mg, 1 g; capsules 125 mg, 250 mg
+moa: Binds D-Ala-D-Ala terminus of peptidoglycan precursors → blocks cell-wall synthesis; Gram-positive only (including MRSA).
+uses:
+- MRSA infections (bacteraemia, pneumonia, osteomyelitis), severe C. difficile (oral)
+- Empirical cover in febrile neutropenia with line infection
+dose:
+- IV: 15–20 mg/kg every 8–12 hours by slow infusion (≥60 min; max 10 mg/min); guided by trough levels 10–20 mg/L
+- C. difficile: 125 mg orally every 6 hours for 10 days
+ci:
+- Hypersensitivity
+se:
+- Red man syndrome (flushing, hypotension) with rapid infusion; nephrotoxicity; ototoxicity; thrombophlebitis; neutropenia
+ddi:
+- Gentamicin / amphotericin / NSAIDs / furosemide :: Additive nephro-/ototoxicity :: Monitor levels and creatinine
+food:
+- Not applicable
+preg: Use only if essential.
+lact: Unlikely to be absorbed by infant.
+renal: Extend dosing interval by levels.
+monitor:
+- Trough levels, creatinine, FBC weekly
+advice:
+- Hospital use
+storage: Below 25°C.
+pearls:
+- Oral vancomycin is not absorbed — useless for systemic infection, ideal for C. difficile
+
+=== drug: meropenem
+name: Meropenem
+class: Carbapenem — AWaRe WATCH
+group: Anti-infective
+nemlit: S (injection 500 mg, 1 g)
+forms: Powder for injection 500 mg, 1 g
+moa: Carbapenem β-lactam with very broad spectrum (including ESBL-producers, Pseudomonas, anaerobes); stable to most β-lactamases.
+uses:
+- Severe hospital-acquired infections with ESBL/multidrug-resistant Gram-negatives, febrile neutropenia, neonatal sepsis failing first and second line
+dose:
+- Adults: 1 g IV every 8 hours (2 g every 8 hours for meningitis)
+- Children: 20 mg/kg every 8 hours (40 mg/kg in meningitis)
+ci:
+- Carbapenem allergy; caution in severe penicillin anaphylaxis
+se:
+- Diarrhoea, C. difficile, rash, raised LFTs, seizures (less than imipenem), thrombophlebitis
+ddi:
+- Sodium valproate :: Valproate levels fall dramatically → seizures :: Avoid combination; use alternative anticonvulsant
+food:
+- Not applicable
+preg: Use if essential.
+lact: Use with caution.
+renal: Reduce dose if eGFR <50.
+monitor:
+- Culture-guided de-escalation; renal function
+advice:
+- Hospital use
+storage: Below 25°C.
+pearls:
+- Carbapenems + valproate is a high-yield interaction; restricted use (stewardship)
+
+=== drug: clindamycin
+name: Clindamycin
+class: Lincosamide — AWaRe ACCESS
+group: Anti-infective
+nemlit: S (capsule 150 mg; injection 150 mg/mL)
+forms: Capsule 150 mg, 300 mg; injection 150 mg/mL
+moa: Binds 50S ribosomal subunit; good anaerobic, streptococcal and staphylococcal activity; suppresses toxin production.
+uses:
+- Skin/soft-tissue and bone infections in penicillin allergy; necrotising fasciitis (toxin suppression); dental and aspiration infections
+- Bacterial vaginosis (cream), toxoplasmosis (with pyrimethamine), malaria (with quinine)
+dose:
+- Adults: 150–450 mg every 6 hours orally; 600–900 mg IV every 8 hours
+ci:
+- Diarrhoeal states; hypersensitivity
+se:
+- Diarrhoea and C. difficile colitis (high risk) — stop if diarrhoea develops; rash; raised LFTs
+ddi:
+- Neuromuscular blockers :: Enhanced blockade :: Caution
+food:
+- Food :: Capsules — take with a full glass of water :: Prevents oesophageal irritation
+preg: Safe.
+lact: Use with caution (infant diarrhoea).
+monitor:
+- Bowel habit
+advice:
+- Stop and seek help if you get severe or bloody diarrhoea
+storage: Below 25°C.
+pearls:
+- Classic "4C" C. difficile risk antibiotic (clindamycin, cephalosporins, co-amoxiclav, ciprofloxacin)
+
+=== drug: artemether-lumefantrine
+name: Artemether + lumefantrine (ALu, Coartem)
+class: Artemisinin-based combination therapy (ACT)
+group: Antimalarial
+nemlit: A (tablet 20/120 mg; dispersible)
+forms: Tablet 20 mg artemether/120 mg lumefantrine (dispersible for children); 80/480 mg
+moa: Artemether (and DHA metabolite) rapidly reduces parasite biomass via free radicals generated by endoperoxide bridge cleavage; lumefantrine (long half-life) kills residual parasites by inhibiting haem detoxification.
+uses:
+- First-line treatment of uncomplicated P. falciparum malaria in Tanzania (all ages ≥5 kg, including all trimesters of pregnancy per current WHO)
+- Completion of treatment after parenteral artesunate in severe malaria
+dose:
+- Six-dose regimen over 3 days: doses at 0, 8, 24, 36, 48 and 60 hours
+- 5–14 kg: 1 tablet per dose; 15–24 kg: 2 tablets; 25–34 kg: 3 tablets; ≥35 kg: 4 tablets per dose
+ci:
+- Hypersensitivity; severe malaria (use parenteral artesunate); weight <5 kg (insufficient data — refer)
+- Congenital QT prolongation (caution)
+se:
+- Headache, dizziness, nausea, vomiting, abdominal pain, anorexia, palpitations, arthralgia
+- QT prolongation (lumefantrine) — rarely significant
+ddi:
+- Efavirenz / rifampicin / carbamazepine / phenytoin :: Reduce artemether and lumefantrine levels → treatment failure :: Avoid rifampicin; monitor response with EFV
+- Lopinavir/ritonavir :: Raise lumefantrine levels :: Monitor (dose adjustment not usually needed)
+- QT-prolonging drugs (quinine, halofantrine, amiodarone) :: Additive QT prolongation :: Avoid; do not give within weeks of halofantrine
+food:
+- Fatty food or milk :: Lumefantrine absorption increases up to 16× with fat :: Take each dose with fatty food or milk (or breastfeed child just before/after)
+preg: WHO (2022) and Tanzanian programme: ALu can be used in all trimesters.
+lact: Compatible.
+monitor:
+- Clinical response; repeat test only if symptoms persist after day 3
+advice:
+- Take the first dose at the facility; 6 doses over 3 days at the right times (0, 8, 24, 36, 48, 60 h)
+- Take with fatty food or milk (e.g. milk, groundnuts, maziwa) to help absorption
+- If vomiting within 30 minutes, repeat the dose; if vomiting persists, return to the facility
+- Return immediately if danger signs: convulsions, unable to drink, vomiting everything, very sleepy
+- Sleep under an insecticide-treated net
+storage: Below 30°C, keep in blister.
+pearls:
+- Absorption of lumefantrine depends on fat — the most-tested counselling point for ALu
+
+=== drug: artesunate
+name: Artesunate (injection)
+class: Artemisinin derivative (parenteral)
+group: Antimalarial
+nemlit: Listed (injection 60 mg with 5% sodium bicarbonate ampoule); rectal artesunate for pre-referral
+forms: Powder for injection 60 mg (with 1 mL 5% sodium bicarbonate + 5 mL saline/dextrose); rectal capsules 100 mg
+moa: Rapidly hydrolysed to dihydroartemisinin; fastest parasite clearance of all antimalarials; kills young circulating ring stages.
+uses:
+- Severe malaria (drug of choice) in adults, children and pregnant women (all trimesters)
+- Pre-referral treatment (rectal artesunate in children <6 years when injection not possible)
+dose:
+- ≥20 kg: 2.4 mg/kg IV/IM at 0, 12 and 24 hours, then once daily
+- <20 kg: 3 mg/kg per dose (same schedule)
+- Give at least 3 doses (24 h); when able to take orally, complete with a full 3-day ACT (ALu)
+- Rectal pre-referral: 10 mg/kg single dose
+ci:
+- Known hypersensitivity
+se:
+- Post-artesunate delayed haemolysis (1–3 weeks after treatment) — check Hb at day 7, 14, 28
+- Dizziness, nausea; rarely allergic reactions; neutropenia
+ddi:
+- Rifampicin / enzyme inducers :: May reduce levels :: Monitor response
+food:
+- Not applicable
+preg: Use in all trimesters for severe malaria (saves maternal lives).
+lact: Compatible.
+monitor:
+- Parasitaemia, glucose (hypoglycaemia is common in severe malaria), Hb, consciousness, urine output
+advice:
+- Explain the need to finish oral ALu after the injections
+- Return if pallor, dark urine or tiredness occur in the weeks after treatment (delayed haemolysis)
+storage: Below 30°C; reconstitute immediately before use — use within 1 hour.
+pearls:
+- Reconstitution: add 1 mL bicarbonate (shake until clear), then dilute with 5 mL (IV, 10 mg/mL) or 2 mL (IM, 20 mg/mL) of saline/dextrose
+- Superior to quinine (lower mortality: SEAQUAMAT, AQUAMAT)
+
+=== drug: quinine
+name: Quinine
+class: Cinchona alkaloid antimalarial
+group: Antimalarial
+nemlit: Listed in antimalarials (injection 300 mg/mL; tablet 300 mg) — alternative when artesunate unavailable
+forms: Injection quinine dihydrochloride 300 mg/mL (2 mL); tablet 300 mg (sulfate)
+moa: Blood schizonticide; inhibits haem polymerisation in the parasite food vacuole.
+uses:
+- Severe malaria when artesunate is not available
+- Uncomplicated malaria in first trimester (older guidance; ALu now preferred), treatment failure
+dose:
+- IV: loading 20 mg/kg salt in 5% dextrose over 4 hours, then 10 mg/kg over 4 hours every 8 hours (adults max 600 mg/dose)
+- Switch to oral 10 mg/kg every 8 hours to complete 7 days (or complete with ALu)
+- Never give as an IV bolus
+ci:
+- Haemoglobinuria, optic neuritis, tinnitus; QT prolongation; myasthenia gravis; G6PD (relative)
+se:
+- Hypoglycaemia (insulin release — especially pregnancy and children)
+- Cinchonism: tinnitus, deafness, nausea, headache, blurred vision
+- Arrhythmias, hypotension with rapid infusion; haemolysis (blackwater fever)
+ddi:
+- Halofantrine / mefloquine / amiodarone :: QT prolongation :: Avoid
+- Digoxin :: Raised digoxin :: Monitor
+- Rifampicin :: Reduced quinine levels → failure :: Avoid
+- Ritonavir :: Raised levels :: Monitor
+food:
+- Food :: Oral tablets with food reduce GI upset :: —
+preg: Can be used; hypoglycaemia risk is higher — monitor glucose.
+lact: Compatible.
+renal: Reduce maintenance dose by one-third after 48 h if renal failure persists.
+monitor:
+- Blood glucose every 4 hours, ECG/QT, BP during infusion
+advice:
+- Report ringing in ears, blurred vision, sweating/shaking (low sugar)
+storage: Below 25°C, protect from light.
+pearls:
+- Always give IV quinine in dextrose, never as a bolus; watch for hypoglycaemia
+
+=== drug: dihydroartemisinin-piperaquine
+name: Dihydroartemisinin + piperaquine (DP, DHA-PPQ)
+class: Artemisinin-based combination therapy
+group: Antimalarial
+nemlit: C (tablet 40/320 mg, 20/160 mg)
+forms: Tablet 40/320 mg (adult), 20/160 mg (paediatric)
+moa: DHA (rapid parasite clearance) plus piperaquine (long half-life ~3–4 weeks, post-treatment prophylaxis).
+uses:
+- Alternative ACT for uncomplicated malaria (treatment failure, ALu intolerance)
+- Mass drug administration/IPT in some programmes
+dose:
+- Once daily for 3 days by weight: e.g. 36–<60 kg: 3 tablets (40/320) daily; 60–<80 kg: 4 tablets daily
+- Children 5–<8 kg: 1 paediatric tablet (20/160) daily
+ci:
+- QT prolongation, family history of sudden death, first trimester (limited data)
+se:
+- Headache, dizziness, GI upset, QT prolongation
+ddi:
+- QT-prolonging drugs :: Additive QT prolongation :: Avoid
+- Strong CYP3A4 inducers/inhibitors :: Altered piperaquine levels :: Avoid
+food:
+- High-fat meals :: Increase piperaquine absorption and QT effect :: Take with water, no high-fat meal within 3 hours
+preg: Avoid in 1st trimester; acceptable in 2nd/3rd per WHO.
+lact: Limited data.
+monitor:
+- ECG in patients at risk
+advice:
+- Take with water on an empty stomach (no fatty meal 3 h before/after) — opposite of ALu
+storage: Below 30°C.
+pearls:
+- Contrast: ALu WITH fat; DP WITHOUT fat
+
+=== drug: sulfadoxine-pyrimethamine
+name: Sulfadoxine + pyrimethamine (SP, Fansidar)
+class: Antifolate antimalarial combination
+group: Antimalarial
+nemlit: A (tablet 500/25 mg)
+forms: Tablet 500 mg sulfadoxine / 25 mg pyrimethamine
+moa: Sequential blockade of parasite folate synthesis (dihydropteroate synthase and dihydrofolate reductase).
+uses:
+- Intermittent preventive treatment in pregnancy (IPTp) — from 13 weeks (2nd trimester), monthly at each ANC visit until delivery (at least 3 doses)
+dose:
+- IPTp: 3 tablets as a single dose, directly observed, at least 1 month apart
+ci:
+- First trimester; HIV-positive women on co-trimoxazole prophylaxis; sulfonamide allergy
+- Severe renal/hepatic impairment; folic acid 5 mg (high dose) at the same time
+se:
+- Stevens–Johnson syndrome/TEN (rare, serious), rash, nausea, folate deficiency, blood dyscrasias
+ddi:
+- Co-trimoxazole :: Additive sulfa toxicity (SJS) :: Do NOT give SP to women on CPT
+- High-dose folic acid (5 mg) :: Antagonises antimalarial effect :: Use low-dose folic acid (0.4 mg) in IPTp areas or delay folic acid for 2 weeks
+- Methotrexate / phenytoin :: Additive antifolate toxicity :: Avoid
+food:
+- None significant
+preg: Designed for 2nd/3rd trimester use; not in the 1st trimester.
+lact: Compatible (avoid if infant jaundiced/G6PD deficient).
+monitor:
+- Rash after dosing
+advice:
+- Swallow the tablets in front of the health worker; come every month for the next dose
+- Report any skin rash, blisters or mouth sores immediately
+storage: Below 30°C.
+pearls:
+- No longer used for treatment of malaria (resistance) — only for IPTp
+
+=== drug: primaquine
+name: Primaquine
+class: 8-aminoquinoline antimalarial (tissue schizonticide, gametocytocide)
+group: Antimalarial
+nemlit: A (tablet 2.5, 7.5, 15 mg) — restricted to certain project facilities
+forms: Tablet 7.5 mg, 15 mg base
+moa: Kills liver hypnozoites (P. vivax/ovale) and mature P. falciparum gametocytes (blocks transmission); mechanism involves oxidative damage.
+uses:
+- Radical cure of P. vivax/ovale (prevents relapse)
+- Single low dose (0.25 mg/kg) with ACT to block P. falciparum transmission (programme areas)
+dose:
+- Transmission blocking: 0.25 mg/kg single dose with ACT
+- Radical cure: 0.25–0.5 mg/kg daily for 14 days (G6PD normal)
+ci:
+- G6PD deficiency (for 14-day course — severe haemolysis); pregnancy; infants <6 months; breastfeeding a G6PD-unknown infant
+se:
+- Haemolytic anaemia in G6PD deficiency, methaemoglobinaemia, abdominal cramps
+ddi:
+- Quinacrine / other haemolytic drugs :: Increased toxicity :: Avoid
+food:
+- Food :: Reduces abdominal discomfort :: Take with food
+preg: Contraindicated.
+lact: Avoid unless infant G6PD normal.
+monitor:
+- G6PD status before radical cure; Hb; dark urine
+advice:
+- Take with food; stop and report dark (cola-coloured) urine or yellow eyes
+storage: Below 25°C.
+pearls:
+- Single low-dose primaquine is considered safe without G6PD testing (WHO)
+
+=== drug: tld
+name: Tenofovir / lamivudine / dolutegravir (TLD)
+class: Fixed-dose ART: 2 NRTIs (TDF + 3TC) + integrase strand transfer inhibitor (DTG)
+group: Antiretroviral
+nemlit: A (tablet 300/300/50 mg)
+forms: Tablet TDF 300 mg / 3TC 300 mg / DTG 50 mg; DTG 10 mg dispersible and 50 mg single; paediatric ABC/3TC + pDTG
+moa: TDF and 3TC are nucleos(t)ide analogues causing chain termination of viral DNA by reverse transcriptase; DTG blocks integrase strand transfer, preventing integration of viral DNA into the host genome.
+uses:
+- Preferred first-line ART for adults, adolescents (≥30 kg) and pregnant women in Tanzania
+- Also suppresses hepatitis B (TDF + 3TC) in co-infection
+dose:
+- One tablet once daily
+- With rifampicin-based TB treatment: add an extra DTG 50 mg tablet 12 hours later (DTG twice daily) and continue for 2 weeks after rifampicin stops
+ci:
+- eGFR <50 mL/min (TDF component) — use ABC or AZT-based alternative
+- Co-administration with dofetilide
+se:
+- DTG: insomnia, headache, weight gain, nausea, neuropsychiatric effects (rare), hyperglycaemia; hypersensitivity (rare)
+- TDF: renal tubular dysfunction (Fanconi), reduced bone mineral density
+- Hepatitis B flare if stopped in co-infected patients
+ddi:
+- Rifampicin :: Halves DTG levels :: Give DTG 50 mg twice daily during and 2 weeks after rifampicin
+- Antacids / iron / calcium / zinc / multivitamins (polyvalent cations) :: Chelate DTG → reduced absorption, resistance :: Take TLD 2 h before or 6 h after; with food together with iron/calcium is acceptable
+- Metformin :: DTG doubles metformin levels :: Max metformin 1 g/day; monitor glucose
+- Carbamazepine / phenytoin / phenobarbital :: Reduce DTG levels :: Avoid or use DTG twice daily (carbamazepine)
+- Nephrotoxic drugs (gentamicin, NSAIDs) :: Additive renal toxicity with TDF :: Monitor creatinine
+food:
+- Food :: No restriction — can be taken with or without food :: Take at the same time daily
+- Mineral supplements (iron, calcium, zinc) :: Reduce DTG absorption on an empty stomach :: Separate or take together with a meal
+preg: DTG is the preferred regimen in pregnancy and for women of childbearing potential (neural tube defect signal not confirmed in larger data); give folic acid.
+lact: Compatible — breastfeeding with suppressed viral load recommended.
+renal: Contraindicated if CrCl <50 (TDF).
+monitor:
+- Viral load at 3 months then 6-monthly (target <50 copies/mL; unsuppressed >1000)
+- Creatinine/eGFR at baseline and periodically; weight, glucose; HBsAg at baseline
+advice:
+- Take one tablet every day at the same time; set an alarm; never share or skip
+- Keep antacids, iron, calcium and zinc tablets apart (2 h after or 6 h before)
+- Report insomnia, mood changes, rash, jaundice
+- Undetectable = Untransmittable (U=U) — adherence protects partners and babies
+- Do not stop if you have hepatitis B without medical advice
+storage: Below 30°C in the original bottle with desiccant.
+pearls:
+- TLD transition replaced efavirenz-based TLE as preferred first line (2019 onward)
+
+=== drug: efavirenz
+name: Efavirenz (TLE: tenofovir/lamivudine/efavirenz)
+class: Non-nucleoside reverse transcriptase inhibitor (NNRTI)
+group: Antiretroviral
+nemlit: A (tablet 200, 600 mg; TDF/3TC/EFV 300/300/600 mg)
+forms: Tablet 600 mg; fixed-dose TDF/3TC/EFV and TDF/FTC/EFV
+moa: Binds allosterically to HIV-1 reverse transcriptase → non-competitive inhibition.
+uses:
+- Alternative first-line ART (when DTG not tolerated or contraindicated)
+dose:
+- 600 mg once daily at bedtime (400 mg in some guidelines), on an empty stomach
+ci:
+- Severe hepatic impairment; history of severe psychiatric illness (relative)
+se:
+- CNS effects: vivid dreams, dizziness, insomnia, confusion, depression (usually settle in 2–4 weeks)
+- Rash, hepatotoxicity, gynaecomastia, hyperlipidaemia, false-positive cannabis test
+ddi:
+- Artemether-lumefantrine :: Reduced ALu levels → malaria treatment failure :: Monitor response
+- Hormonal contraceptives (implant, pills) :: Reduced contraceptive efficacy (especially levonorgestrel implant) :: Use DMPA/IUD or condoms
+- Rifampicin :: Modest reduction; EFV 600 mg remains acceptable :: No change needed
+- Methadone :: Reduced methadone → withdrawal :: Increase methadone dose
+- Carbamazepine :: Mutual reduction :: Avoid
+food:
+- Fatty meals :: Increase absorption and CNS side effects :: Take on an empty stomach at bedtime
+- Alcohol / cannabis :: Worsen CNS effects :: Avoid
+preg: Considered safe (previous neural tube concerns not confirmed).
+lact: Compatible.
+hepatic: Avoid in severe impairment.
+monitor:
+- Viral load; LFTs; mood
+advice:
+- Take at bedtime on an empty stomach to sleep through dizziness
+- Strange dreams are common in the first weeks
+- Use condoms/another method if you use the contraceptive implant
+storage: Below 30°C.
+pearls:
+- EFV reduces levonorgestrel implant levels by ~50% — a classic interaction
+
+=== drug: zidovudine
+name: Zidovudine (AZT)
+class: Nucleoside reverse transcriptase inhibitor (NRTI)
+group: Antiretroviral
+nemlit: A (capsule 250 mg; oral liquid 50 mg/5 mL; AZT/3TC 300/150 mg)
+forms: Tablet AZT/3TC 300/150 mg; AZT/3TC/NVP; syrup 50 mg/5 mL
+moa: Thymidine analogue; chain terminator of viral DNA.
+uses:
+- Second-line NRTI backbone after TDF failure; infant prophylaxis (with NVP) in high-risk HIV-exposed infants
+- Alternative when TDF contraindicated (renal impairment)
+dose:
+- Adults: 300 mg twice daily
+- Infant prophylaxis: 4 mg/kg twice daily (weight-band dosing per national guideline)
+ci:
+- Hb <7.5 g/dL or neutrophils <0.75 × 10⁹/L
+se:
+- Anaemia and neutropenia (bone marrow suppression), headache, nausea, myopathy, lipoatrophy, lactic acidosis, nail pigmentation
+ddi:
+- Co-trimoxazole / ganciclovir / chemotherapy :: Additive marrow suppression :: Monitor FBC
+- Stavudine :: Antagonism :: Never combine
+food:
+- None significant
+preg: Safe.
+lact: Compatible.
+monitor:
+- Hb at baseline, 4, 8 and 12 weeks
+advice:
+- Report tiredness, breathlessness, pallor (anaemia)
+storage: Below 30°C.
+pearls:
+- Check Hb before starting AZT
+
+=== drug: abacavir
+name: Abacavir (ABC/3TC)
+class: Nucleoside reverse transcriptase inhibitor (NRTI)
+group: Antiretroviral
+nemlit: A (tablet 300 mg; ABC/3TC dispersible 120/60 mg, 600/300 mg)
+forms: Dispersible ABC/3TC 120/60 mg (children); ABC/3TC 600/300 mg adults
+moa: Guanosine analogue; chain terminator.
+uses:
+- Preferred NRTI backbone for children (ABC/3TC + DTG)
+- Adults with renal impairment (TDF contraindicated)
+dose:
+- Children: weight-band dosing (e.g. ABC/3TC 120/60 mg dispersible)
+- Adults: 600 mg once daily (or 300 mg twice daily)
+ci:
+- HLA-B*5701 positive; previous hypersensitivity reaction — never rechallenge
+se:
+- Hypersensitivity reaction (fever, rash, GI and respiratory symptoms, within 6 weeks) — can be fatal on rechallenge
+- Possible increased MI risk; nausea
+ddi:
+- Alcohol :: Raises abacavir levels :: Limit
+food:
+- None significant
+preg: Safe.
+lact: Compatible.
+monitor:
+- Symptoms of hypersensitivity in first 6 weeks
+advice:
+- Stop and seek care at once if fever plus rash, vomiting, diarrhoea, cough or breathlessness occur; never restart if stopped for this
+storage: Below 30°C.
+pearls:
+- Carry the abacavir alert card
+
+=== drug: lopinavir-ritonavir
+name: Lopinavir / ritonavir (LPV/r)
+class: Boosted protease inhibitor
+group: Antiretroviral
+nemlit: C (tablet 200/50, 100/25 mg; oral liquid; pellets 40/10 mg)
+forms: Tablet 200/50 mg; paediatric tablet 100/25 mg; oral solution 80/20 mg per mL; pellets
+moa: Lopinavir inhibits HIV protease (prevents cleavage of gag-pol polyprotein → immature, non-infectious virions); ritonavir boosts lopinavir by strong CYP3A4 inhibition.
+uses:
+- Second-line ART (adults after DTG/NNRTI failure); children (where DTG not suitable)
+dose:
+- Adults: 400/100 mg twice daily (2 tablets of 200/50)
+- With rifampicin: double dose (800/200 mg BD) or super-boost (specialist)
+ci:
+- Drugs highly dependent on CYP3A4 (simvastatin, ergotamine, midazolam oral, sildenafil for PAH)
+se:
+- Diarrhoea, nausea, dyslipidaemia, insulin resistance/hyperglycaemia, lipodystrophy, hepatotoxicity, PR/QT prolongation
+ddi:
+- Simvastatin :: Rhabdomyolysis :: Contraindicated — use low-dose atorvastatin/rosuvastatin
+- Rifampicin :: Drastically reduced lopinavir levels :: Use rifabutin or adjust (specialist)
+- Inhaled/nasal fluticasone, budesonide :: Cushing's syndrome :: Use beclometasone
+- Artemether-lumefantrine :: Raised lumefantrine :: Monitor
+- Hormonal contraceptives :: Reduced efficacy :: Use additional/alternative method
+food:
+- Food :: Tablets with or without food; oral solution with food :: —
+- Grapefruit :: Minor :: —
+preg: Can be used (DTG preferred).
+lact: Compatible.
+monitor:
+- Viral load, lipids, glucose, LFTs
+advice:
+- Swallow tablets whole; do not crush
+- Tell every prescriber/pharmacist you take LPV/r — many interactions
+storage: Tablets below 30°C; oral solution in fridge (or 6 weeks at room temperature).
+pearls:
+- Ritonavir is the strongest CYP3A4 inhibitor in common use — check all co-medication
+
+=== drug: atazanavir-ritonavir
+name: Atazanavir / ritonavir (ATV/r)
+class: Boosted protease inhibitor
+group: Antiretroviral
+nemlit: C (tablet 300/100 mg)
+forms: Tablet atazanavir 300 mg + ritonavir 100 mg
+moa: HIV protease inhibitor boosted by ritonavir.
+uses:
+- Preferred second-line PI for adults and adolescents
+dose:
+- 300/100 mg once daily with food
+ci:
+- Rifampicin (contraindicated); severe hepatic impairment; with PPIs (avoid)
+se:
+- Unconjugated hyperbilirubinaemia/jaundice (benign), renal stones, PR prolongation, nausea
+ddi:
+- Omeprazole / PPIs :: Markedly reduced atazanavir absorption :: Avoid PPIs; H2-blockers separated by 12 h
+- Antacids :: Reduced absorption :: Take ATV/r 2 h before or 1 h after
+- Rifampicin :: Contraindicated (failure) :: Use LPV/r with adjusted dose or rifabutin
+- Simvastatin :: Rhabdomyolysis :: Contraindicated
+food:
+- Food :: Increases absorption :: Take with food
+preg: Can be used.
+lact: Compatible.
+monitor:
+- Viral load, bilirubin, renal function
+advice:
+- Take with a meal; yellow eyes are common and usually harmless, but report it
+- Avoid omeprazole-type stomach medicines
+storage: Below 30°C.
+pearls:
+- Jaundice from atazanavir is due to UGT1A1 inhibition (like Gilbert's), not hepatitis
+
+=== drug: nevirapine
+name: Nevirapine (NVP)
+class: Non-nucleoside reverse transcriptase inhibitor (NNRTI)
+group: Antiretroviral
+nemlit: A (oral liquid 50 mg/5 mL; tablet 50 mg dispersible, 200 mg)
+forms: Oral suspension 50 mg/5 mL; tablet 200 mg
+moa: Allosteric HIV-1 reverse transcriptase inhibitor.
+uses:
+- Infant post-natal prophylaxis (HIV-exposed infants: NVP ± AZT for 6–12 weeks per risk)
+dose:
+- Infant prophylaxis: birth–6 weeks: 2 kg–2.5 kg 10 mg, >2.5 kg 15 mg once daily; 6–12 weeks 20 mg daily (per national weight bands)
+ci:
+- Moderate–severe hepatic impairment; starting in women with CD4 >250 or men >400 (hepatotoxicity)
+se:
+- Rash (including SJS), hepatotoxicity (first 18 weeks)
+ddi:
+- Rifampicin :: Reduced NVP levels :: Avoid
+- Hormonal contraceptives :: Reduced efficacy :: Use additional method
+- Ketoconazole :: Reduced ketoconazole :: Avoid
+food:
+- None significant
+preg: Used historically; not preferred for maternal ART now.
+lact: Compatible.
+monitor:
+- Rash, LFTs (adults)
+advice:
+- Give the infant syrup every day at the same time using the provided syringe; bring the baby for HIV testing (DNA PCR at 6 weeks)
+storage: Below 30°C.
+pearls:
+- Adult use has been replaced by DTG-based regimens
+
+=== drug: rhze
+name: Rifampicin / isoniazid / pyrazinamide / ethambutol (RHZE fixed-dose combination)
+class: First-line antituberculosis FDC
+group: Anti-TB
+nemlit: A (RHZE 150/75/400/275 mg; RH 150/75 mg; paediatric RHZ 75/50/150, RH 75/50 mg)
+forms: Adult RHZE tablet 150/75/400/275 mg; RH 150/75 mg; paediatric dispersible RHZ 75/50/150 mg and RH 75/50 mg
+moa: Rifampicin inhibits DNA-dependent RNA polymerase (bactericidal, sterilising); isoniazid inhibits mycolic acid synthesis (early bactericidal); pyrazinamide kills semi-dormant bacilli in acidic environments; ethambutol inhibits arabinogalactan synthesis (prevents resistance).
+uses:
+- Drug-susceptible pulmonary and extrapulmonary TB: 2 months RHZE (intensive) + 4 months RH (continuation) = 2RHZE/4RH
+- TB meningitis/bone TB: continuation extended (e.g. 2RHZE/10RH)
+dose:
+- Adults by weight (RHZE 150/75/400/275): 30–39 kg 2 tabs; 40–54 kg 3 tabs; 55–70 kg 4 tabs; >70 kg 5 tabs once daily
+- Continuation (RH 150/75): same tablet numbers by weight
+- Children: dispersible RHZ (+E) by weight bands (4–7 kg 1 tab ... 25–29 kg 5 tabs) per NTLP
+ci:
+- Active hepatitis/acute liver disease (rifampicin, isoniazid, pyrazinamide)
+- Optic neuritis (ethambutol); gout (pyrazinamide, relative); porphyria
+se:
+- Hepatotoxicity (H, R, Z) — nausea, vomiting, jaundice
+- Orange-red discolouration of urine, tears, sweat (R) — harmless; flu-like syndrome, thrombocytopenia (intermittent R)
+- Peripheral neuropathy (H) — prevent with pyridoxine; arthralgia, hyperuricaemia (Z)
+- Optic neuritis: reduced acuity, red-green colour blindness (E)
+ddi:
+- Hormonal contraceptives (pills, implants) :: Rifampicin induces metabolism → contraceptive failure :: Use DMPA (every 8–10 weeks) or IUD/condoms
+- Dolutegravir :: Reduced DTG :: DTG 50 mg twice daily during and 2 weeks after
+- Lopinavir/r, atazanavir, nevirapine :: Large falls in PI/NVP levels :: Avoid or adjust (specialist); rifabutin alternative
+- Warfarin / sulfonylureas / corticosteroids / methadone / fluconazole / azoles / phenytoin :: Reduced levels (rifampicin induction) :: Increase doses, monitor
+- Antacids :: Reduce isoniazid/rifampicin absorption :: Separate
+food:
+- Food :: Reduces rifampicin absorption :: Take on an empty stomach (1 h before breakfast) if tolerated; with light food if nausea
+- Alcohol :: Increased hepatotoxicity :: Avoid
+- Tyramine/histamine-rich foods (cheese, fish e.g. tuna/dagaa) :: Isoniazid inhibits MAO/histaminase → flushing, headache, palpitations :: Moderate intake
+preg: First-line drugs are safe in pregnancy (give pyridoxine).
+lact: Compatible.
+renal: Pyrazinamide and ethambutol dosing 3 times weekly if eGFR <30.
+hepatic: Monitor LFTs; if jaundice stop all and reintroduce sequentially.
+monitor:
+- Sputum smear at end of month 2, 5 and 6; weight monthly (adjust dose)
+- LFTs if symptoms or risk; visual acuity/colour vision if ethambutol beyond 2 months or children
+advice:
+- Take all tablets together once a day, every day, ideally on an empty stomach, under observation (DOT)
+- Urine, tears and sweat will turn orange-red — harmless; may stain soft contact lenses
+- Report yellow eyes, persistent vomiting, tingling/numb feet, blurred vision or colour change
+- Women: pills and implants will not work — use injectable/IUD/condoms
+- Cough etiquette; ventilate rooms; household contacts should be screened
+storage: Below 30°C, protect from moisture and light.
+pearls:
+- Isoniazid "slow acetylators" get more neuropathy and hepatotoxicity
+- Pyridoxine 25 mg daily for all on isoniazid with risk (HIV, diabetes, alcohol, malnutrition, pregnancy)
+
+=== drug: isoniazid
+name: Isoniazid (INH) — preventive therapy
+class: Antituberculosis (hydrazide)
+group: Anti-TB
+nemlit: A (tablet 100 mg, 300 mg)
+forms: Tablet 100 mg, 300 mg; INH/pyridoxine/co-trimoxazole FDC (some programmes)
+moa: Inhibits mycolic acid synthesis (InhA); pro-drug activated by mycobacterial KatG.
+uses:
+- TB preventive therapy (TPT) in PLHIV and child contacts <5 years: 6 months isoniazid (6H), or 3HP (rifapentine + isoniazid weekly × 12)
+- Component of RHZE treatment
+dose:
+- Adults: 300 mg once daily for 6 months (with pyridoxine 25 mg)
+- Children: 10 mg/kg (7–15) once daily (max 300 mg)
+ci:
+- Active liver disease; previous INH hepatitis; active TB (must be excluded before TPT)
+se:
+- Peripheral neuropathy, hepatitis (age >35, alcohol), rash, drug-induced lupus
+ddi:
+- Phenytoin / carbamazepine :: Raised levels (INH inhibits metabolism) :: Monitor
+- Antacids :: Reduced absorption :: Separate
+- Paracetamol :: Increased hepatotoxicity :: Avoid high doses
+food:
+- Food :: Reduces absorption :: Take on an empty stomach
+- Tyramine/histamine-rich foods (aged cheese, fish) :: Flushing, palpitations :: Moderate intake
+- Alcohol :: Hepatotoxicity :: Avoid
+preg: Safe (TPT may be deferred until after delivery in some guidelines).
+lact: Compatible (give infant pyridoxine).
+monitor:
+- Monthly symptom check (jaundice, neuropathy, TB symptoms)
+advice:
+- Take daily on an empty stomach with the pyridoxine tablet; avoid alcohol
+- Report numbness/tingling, yellow eyes, dark urine
+storage: Below 30°C.
+pearls:
+- Exclude active TB before TPT (symptom screen) — otherwise risk of INH resistance
+
+=== drug: pyridoxine
+name: Pyridoxine (vitamin B6)
+class: Vitamin
+group: Anti-TB
+nemlit: B (tablet 25 mg)
+forms: Tablet 25 mg, 50 mg
+moa: Cofactor for many enzymes; replaces B6 depleted by isoniazid (INH forms hydrazones with pyridoxal).
+uses:
+- Prevention of isoniazid peripheral neuropathy; treatment of INH neuropathy and INH overdose (seizures)
+- Pyridoxine deficiency (sideroblastic anaemia, nausea in pregnancy adjunct)
+dose:
+- Prophylaxis: 10–25 mg daily (children 5–10 mg)
+- Neuropathy treatment: 50–100 mg daily
+- INH overdose: 1 g IV per gram of INH ingested (5 g if unknown)
+ci:
+- None at usual doses
+se:
+- Sensory neuropathy with very high chronic doses (>200 mg/day)
+ddi:
+- Levodopa (without carbidopa) :: Reduces levodopa effect :: Not relevant with carbidopa combination
+- Phenytoin / phenobarbital :: Reduced levels at high pyridoxine doses :: Monitor
+food:
+- None
+preg: Safe.
+lact: Safe.
+monitor:
+- Neuropathy symptoms
+advice:
+- Take with the isoniazid every day
+storage: Below 25°C.
+pearls:
+- Give with INH to HIV+, diabetics, alcoholics, malnourished, pregnant/breastfeeding
+
+=== drug: fluconazole
+name: Fluconazole
+class: Triazole antifungal
+group: Anti-infective
+nemlit: A (tablet/capsule 150, 200 mg); C (IV)
+forms: Capsule 50 mg, 150 mg, 200 mg; IV 2 mg/mL; suspension
+moa: Inhibits fungal CYP51 (lanosterol 14α-demethylase) → ↓ ergosterol in fungal membrane (fungistatic).
+uses:
+- Vaginal candidiasis (single 150 mg), oral and oesophageal candidiasis (common in HIV)
+- Cryptococcal meningitis (induction with amphotericin B/flucytosine, consolidation and maintenance); cryptococcal antigen-positive pre-emptive therapy
+- Tinea capitis (alternative), systemic candidiasis
+dose:
+- Vaginal candidiasis: 150 mg single dose
+- Oropharyngeal: 100–200 mg daily for 7–14 days; oesophageal: 200–400 mg daily for 14–21 days
+- Cryptococcal: consolidation 800 mg daily for 8 weeks, then maintenance 200 mg daily until CD4 >200 (≥1 year)
+ci:
+- Co-administration with QT-prolonging drugs metabolised by CYP3A4 (e.g. erythromycin); hypersensitivity
+- First trimester high doses (birth defects)
+se:
+- Nausea, abdominal pain, headache, raised LFTs/hepatitis, rash, QT prolongation
+ddi:
+- Warfarin :: Marked INR rise :: Reduce warfarin, monitor INR
+- Sulfonylureas :: Hypoglycaemia :: Monitor glucose
+- Phenytoin :: Raised phenytoin :: Monitor levels
+- Rifampicin :: Reduced fluconazole levels :: Increase dose by 50% (cryptococcal)
+- Simvastatin / atorvastatin :: Myopathy :: Use low dose / monitor
+- QT drugs (amiodarone, haloperidol) :: Arrhythmia :: Avoid
+food:
+- None significant
+preg: Avoid high-dose/prolonged use, especially 1st trimester; single 150 mg dose generally avoided (use topical clotrimazole in pregnancy).
+lact: Compatible.
+renal: Halve dose if eGFR <50 (after loading).
+monitor:
+- LFTs with prolonged therapy
+advice:
+- Complete the course; for thrush, keep the area dry; partner treatment if symptomatic
+storage: Below 30°C.
+pearls:
+- Pregnancy vaginal thrush: clotrimazole pessaries rather than oral fluconazole
+
+=== drug: clotrimazole
+name: Clotrimazole
+class: Imidazole antifungal (topical)
+group: Anti-infective
+nemlit: A (cream 1%; vaginal pessaries 100, 500 mg; vaginal cream)
+forms: Cream 1%; vaginal pessary 100 mg, 200 mg, 500 mg; vaginal cream 10%
+moa: Inhibits ergosterol synthesis in fungal membranes.
+uses:
+- Tinea corporis/cruris/pedis, cutaneous candidiasis, pityriasis versicolor
+- Vaginal candidiasis (including in pregnancy); otomycosis (ear drops)
+dose:
+- Cream: apply 2–3 times daily, continue for 2 weeks after lesions clear
+- Vaginal: 500 mg pessary once at night, or 100 mg nightly for 6 nights (7 nights in pregnancy)
+ci:
+- Hypersensitivity
+se:
+- Local burning, irritation, rash
+ddi:
+- Latex condoms/diaphragms :: Vaginal products may damage latex :: Use alternative contraception during and 5 days after
+food:
+- Not applicable
+preg: Safe (preferred for vaginal thrush in pregnancy).
+lact: Safe.
+monitor:
+- Response
+advice:
+- Wash and dry the area well; continue cream 2 weeks after clearing
+- Insert pessaries high in the vagina at bedtime; complete the course even during menses
+storage: Below 25°C.
+pearls:
+- In pregnancy, insert pessaries by hand (not applicator)
+
+=== drug: nystatin
+name: Nystatin
+class: Polyene antifungal (non-absorbed)
+group: Anti-infective
+nemlit: A (oral suspension 100,000 IU/mL)
+forms: Oral suspension 100,000 IU/mL; pessaries; tablets
+moa: Binds ergosterol → pores in fungal membrane; not absorbed from GI tract.
+uses:
+- Oral candidiasis (thrush) in infants and adults; prevention in immunocompromised
+dose:
+- 1 mL (100,000 IU) four times daily after feeds for 7 days (adults 4–6 mL), continue 48 h after cure
+ci:
+- Hypersensitivity
+se:
+- Nausea, diarrhoea at high doses; oral irritation
+ddi:
+- None significant
+food:
+- Food/drink :: Wash the drug away :: Give after feeds; nothing by mouth for 20 minutes
+preg: Safe.
+lact: Safe — treat mother's nipples too if the baby has thrush.
+monitor:
+- Clinical response
+advice:
+- Drop into the mouth and hold/swish before swallowing, after feeds; treat nipples of breastfeeding mother
+storage: Below 25°C.
+pearls:
+- Refractory oral thrush in adults → screen for HIV/diabetes; fluconazole
+
+=== drug: griseofulvin
+name: Griseofulvin
+class: Oral antifungal (dermatophytes)
+group: Anti-infective
+nemlit: A (tablet 500 mg)
+forms: Tablet 125 mg, 500 mg
+moa: Deposited in keratin precursor cells; disrupts fungal mitotic spindle (fungistatic).
+uses:
+- Tinea capitis (drug of choice in children), extensive tinea corporis, tinea of nails (long courses)
+dose:
+- Children: 10–20 mg/kg/day (max 500 mg–1 g) for 6–8 weeks (tinea capitis)
+- Adults: 500 mg–1 g daily
+ci:
+- Pregnancy (teratogenic) — men must avoid fathering a child for 6 months after; severe liver disease; SLE; porphyria
+se:
+- Headache, GI upset, photosensitivity, rash; rarely leucopenia, hepatotoxicity
+ddi:
+- Combined oral contraceptives :: Reduced efficacy :: Use additional contraception for 1 month after
+- Warfarin :: Reduced INR :: Monitor
+- Alcohol :: Disulfiram-like/flushing :: Avoid
+food:
+- Fatty meal :: Greatly increases absorption :: Take with fatty food or milk
+preg: CONTRAINDICATED.
+lact: Avoid.
+monitor:
+- FBC/LFTs if prolonged
+advice:
+- Take with fatty food or milk; complete the full 6–8 weeks
+- Avoid strong sunlight and alcohol; use effective contraception
+storage: Below 25°C.
+pearls:
+- Topical antifungals do not penetrate hair follicles — tinea capitis needs oral therapy
+
+=== drug: amphotericin-b
+name: Amphotericin B (deoxycholate)
+class: Polyene antifungal (systemic)
+group: Anti-infective
+nemlit: S (powder for injection 50 mg)
+forms: Powder for injection 50 mg (conventional); liposomal formulation
+moa: Binds ergosterol forming membrane pores → fungicidal.
+uses:
+- Cryptococcal meningitis induction (with flucytosine or fluconazole); single high-dose liposomal AmB regimen (WHO 2022)
+- Invasive candidiasis, histoplasmosis, mucormycosis
+dose:
+- Conventional: 1 mg/kg IV once daily in 5% dextrose over 4–6 hours, with pre-hydration (1 L saline + KCl)
+- Liposomal (WHO 2022): 10 mg/kg single dose with flucytosine + fluconazole for 14 days
+ci:
+- Hypersensitivity (relative in life-threatening disease)
+se:
+- Infusion reactions (fever, rigors), nephrotoxicity, hypokalaemia, hypomagnesaemia, anaemia, phlebitis
+ddi:
+- Gentamicin / other nephrotoxins :: Additive nephrotoxicity :: Avoid; monitor
+- Corticosteroids / diuretics :: Hypokalaemia :: Monitor
+- Digoxin :: Toxicity due to hypokalaemia :: Monitor K+
+food:
+- Not applicable
+preg: Use when needed (benefit > risk).
+lact: Unknown.
+renal: Monitor closely; pre-hydrate.
+monitor:
+- Creatinine, K+, Mg2+ daily to alternate days; Hb weekly
+advice:
+- Hospital use
+storage: Unopened vials 2–8°C; dilute only in 5% dextrose (precipitates in saline).
+pearls:
+- Never dilute conventional amphotericin in saline
+
+=== drug: acyclovir
+name: Acyclovir
+class: Nucleoside analogue antiviral
+group: Anti-infective
+nemlit: B (tablet 200, 400 mg; cream 5%); D (injection 500 mg); eye ointment 3% C
+forms: Tablet 200 mg, 400 mg, 800 mg; cream 5%; eye ointment 3%; IV 250 mg, 500 mg
+moa: Phosphorylated by viral thymidine kinase → inhibits viral DNA polymerase (selective for HSV/VZV-infected cells).
+uses:
+- Herpes simplex (genital, oral, recurrent); genital ulcer syndrome (with benzathine penicillin, per syndromic management)
+- Herpes zoster (start within 72 h) and chickenpox in adults/immunocompromised
+- HSV encephalitis (IV), neonatal herpes, herpes keratitis (ointment)
+dose:
+- Genital herpes: 400 mg three times daily for 7–10 days (first episode)
+- Herpes zoster: 800 mg five times daily for 7 days
+- HSV encephalitis: 10 mg/kg IV every 8 hours for 14–21 days
+ci:
+- Hypersensitivity (valaciclovir cross-allergy)
+se:
+- Nausea, headache, diarrhoea; IV: crystal nephropathy, phlebitis, encephalopathy
+ddi:
+- Nephrotoxic drugs :: Additive renal toxicity (IV) :: Hydrate well
+- Zidovudine :: Drowsiness :: Minor
+food:
+- Fluids :: Prevent crystal nephropathy :: Drink plenty of water
+preg: Safe.
+lact: Compatible.
+renal: Reduce dose if eGFR <25.
+monitor:
+- Creatinine with IV use
+advice:
+- Start as soon as possible; drink plenty of fluids
+- Genital herpes: avoid sex during outbreaks; condoms reduce transmission
+- Shingles: cover the rash; avoid pregnant women and newborns until crusted
+storage: Below 25°C.
+pearls:
+- Shingles in a young person — offer an HIV test

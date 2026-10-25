@@ -1,0 +1,778 @@
+# Drug monographs — analgesics, neurology, psychiatry.
+
+=== drug: paracetamol
+name: Paracetamol (acetaminophen)
+class: Non-opioid analgesic and antipyretic
+group: Analgesic
+nemlit: A (tablet 500 mg; syrup 125 mg/5 mL; suppository 125 mg); D (IV 10 mg/mL)
+forms: Tablet 500 mg; syrup 120–125 mg/5 mL; suppository 125 mg, 250 mg; IV infusion 10 mg/mL
+moa: Central COX inhibition (weak peripheral anti-inflammatory effect); acts on hypothalamic heat-regulating centre.
+uses:
+- Mild–moderate pain (step 1 of WHO ladder, and with opioids at steps 2–3)
+- Fever (malaria, infections); headache, dysmenorrhoea, osteoarthritis
+dose:
+- Adults: 500 mg–1 g every 4–6 hours (max 4 g/24 h); STG emergency: 1 g every 6–8 hours
+- Children: 15 mg/kg every 6 hours when required (max 4 doses/24 h, max 60 mg/kg/day)
+- Reduce to max 2–3 g/day in chronic alcohol use, low body weight (<50 kg), malnutrition, liver disease
+ci:
+- Severe hepatic impairment; hypersensitivity
+se:
+- Rare at therapeutic doses: rash, blood dyscrasias
+- Overdose: hepatotoxicity (may be delayed 24–72 h with few early symptoms)
+ddi:
+- Warfarin :: Regular use (>2 g/day for several days) raises INR :: Monitor INR
+- Enzyme inducers (rifampicin, carbamazepine, phenytoin, isoniazid) / chronic alcohol :: More toxic metabolite (NAPQI) :: Use lower maximum doses
+- Metoclopramide :: Speeds paracetamol absorption :: Used intentionally in migraine
+food:
+- Alcohol (chronic/heavy) :: Increased liver toxicity :: Avoid alcohol; lower max dose
+- Food :: Slightly slows onset :: Can be taken with or without food
+preg: Analgesic of choice in pregnancy.
+lact: Compatible.
+hepatic: Reduce dose; avoid in severe disease.
+monitor:
+- Total daily dose from all products (many combination products contain paracetamol)
+advice:
+- Do not exceed 8 × 500 mg tablets in 24 hours; leave at least 4 hours between doses
+- Check other medicines (cold/flu remedies) for hidden paracetamol
+- Measure children's syrup with a syringe/spoon, by weight
+- Overdose is dangerous even if you feel well — seek help immediately
+storage: Below 25°C; keep out of reach of children.
+pearls:
+- Antidote: N-acetylcysteine (most effective within 8 hours of ingestion)
+
+=== drug: ibuprofen
+name: Ibuprofen
+class: Non-steroidal anti-inflammatory drug (NSAID, propionic acid)
+group: Analgesic
+nemlit: A (tablet 200, 400 mg; syrup 100 mg/5 mL)
+forms: Tablet 200 mg, 400 mg; suspension 100 mg/5 mL
+moa: Reversible non-selective inhibition of COX-1 and COX-2 → ↓ prostaglandins (analgesic, antipyretic, anti-inflammatory).
+uses:
+- Mild–moderate pain, dysmenorrhoea, dental pain, musculoskeletal pain, headache/migraine, gout flare (acute)
+- Fever in children (alternative to paracetamol); osteoarthritis, rheumatoid arthritis (anti-inflammatory)
+dose:
+- Adults: 200–400 mg every 6–8 hours with food (max 1.2 g/day OTC; 2.4 g/day prescribed)
+- Children >3 months: 5–10 mg/kg every 6–8 hours (max 30 mg/kg/day)
+ci:
+- Active peptic ulcer/GI bleeding; history of NSAID-induced asthma or urticaria
+- Severe heart failure, severe renal or hepatic impairment
+- Third trimester of pregnancy; dengue/viral haemorrhagic fever (bleeding risk); haemophilia
+se:
+- Dyspepsia, peptic ulcer, GI bleeding
+- Fluid retention, raised BP, AKI; bronchospasm in sensitive asthmatics; increased CV risk at high doses
+ddi:
+- ACE inhibitors / ARBs + diuretics :: "Triple whammy" — acute kidney injury; reduced BP control :: Avoid combination
+- Warfarin / aspirin / clopidogrel / SSRIs :: Increased bleeding :: Avoid or use PPI
+- Aspirin (low-dose cardioprotection) :: Ibuprofen blocks aspirin's antiplatelet effect :: Give aspirin 30 min before ibuprofen
+- Lithium / methotrexate :: Reduced renal excretion → toxicity :: Avoid or monitor levels
+- Corticosteroids :: GI ulceration :: Add PPI
+food:
+- Food or milk :: Reduces GI irritation :: Take with or after food
+- Alcohol :: GI bleeding :: Avoid
+preg: Avoid, especially after 20 weeks (oligohydramnios) and in the third trimester (premature closure of ductus arteriosus).
+lact: Compatible (preferred NSAID).
+renal: Avoid in CKD/AKI.
+monitor:
+- BP, renal function and GI symptoms with regular use
+advice:
+- Take with or after food; use the lowest dose for the shortest time
+- Avoid if you have stomach ulcers, kidney problems or asthma triggered by painkillers
+- Report black stools, stomach pain, swollen ankles
+storage: Below 25°C.
+pearls:
+- Avoid NSAIDs in suspected dengue/VHF, heart failure, CKD and with ACEi + diuretic
+
+=== drug: diclofenac
+name: Diclofenac
+class: NSAID (acetic acid derivative)
+group: Analgesic
+nemlit: A (injection 25 mg/mL; suppository 100 mg; gel); C (tablet 50, 100 mg)
+forms: Tablet 25 mg, 50 mg (enteric-coated), 100 mg SR; injection 25 mg/mL (3 mL); suppository 50, 100 mg; gel 1%
+moa: Non-selective COX inhibitor (relatively COX-2 preferential).
+uses:
+- Acute musculoskeletal pain, renal colic (IM/suppository), post-operative pain, gout flare, dysmenorrhoea
+- Osteoarthritis and rheumatoid arthritis (topical gel for OA)
+dose:
+- Oral: 50 mg two to three times daily with food (max 150 mg/day)
+- IM: 75 mg deep IM once (twice daily max, 2 days); renal colic 75 mg IM
+- Suppository: 100 mg at night
+ci:
+- As ibuprofen; plus ischaemic heart disease, cerebrovascular disease, peripheral arterial disease, heart failure (NYHA II–IV)
+se:
+- GI ulceration/bleeding, raised LFTs, AKI, fluid retention, higher thrombotic CV risk than ibuprofen
+- IM: injection-site necrosis/abscess; suppository: rectal irritation
+ddi:
+- ACE inhibitors / diuretics :: AKI ("triple whammy") :: Avoid
+- Warfarin / anticoagulants :: Bleeding :: Avoid
+- Methotrexate / lithium :: Toxicity :: Avoid
+- Corticosteroids :: Ulceration :: PPI
+food:
+- Food :: Reduce GI upset :: Take with food; swallow enteric-coated tablets whole
+- Alcohol :: GI bleeding :: Avoid
+preg: Avoid (especially third trimester).
+lact: Compatible short term.
+renal: Avoid.
+hepatic: Monitor LFTs with prolonged use.
+monitor:
+- BP, renal function, LFTs if long-term
+advice:
+- Swallow tablets whole with food; do not combine with other NSAIDs
+- Gel: rub in gently 3–4 times daily, wash hands after
+storage: Below 25°C.
+pearls:
+- Topical NSAIDs are preferred in elderly with knee/hand OA (fewer systemic effects)
+
+=== drug: morphine
+name: Morphine
+class: Strong opioid agonist (μ-receptor)
+group: Analgesic
+nemlit: Listed (tablet 10 mg; oral liquid 10 mg/5 mL; SR granules; injection 10 mg/mL) — controlled drug
+forms: Oral solution 10 mg/5 mL (immediate release); tablet 10 mg; SR tablets 10–100 mg; injection 10 mg/mL
+moa: Agonist at μ (also κ, δ) opioid receptors in CNS and spinal cord → analgesia, euphoria, respiratory depression, miosis, reduced GI motility.
+uses:
+- Severe pain (step 3 of WHO ladder): cancer pain, sickle cell crisis, post-operative, MI pain
+- Breathlessness in palliative care; acute pulmonary oedema (low dose, cautious)
+dose:
+- Opioid-naïve cancer pain: oral solution 2.5–5 mg every 4 hours + same dose as needed for breakthrough; titrate daily by 30–50%
+- Convert to SR twice daily when stable (total daily dose ÷ 2); breakthrough dose = 1/6 of 24-h dose
+- Acute severe pain: 0.1 mg/kg IV/SC every 2–4 hours (titrate in 1–2 mg increments IV)
+ci:
+- Acute respiratory depression, acute severe asthma (relative), raised ICP/head injury (unmonitored), paralytic ileus
+- Concurrent MAOIs; acute alcoholism
+se:
+- Constipation (universal — always co-prescribe laxative), nausea/vomiting (first days), drowsiness, confusion
+- Respiratory depression, hypotension, pruritus, urinary retention, miosis; tolerance and dependence
+ddi:
+- Benzodiazepines / alcohol / other CNS depressants :: Profound sedation, respiratory depression, death :: Avoid or reduce doses
+- MAO inhibitors :: CNS excitation/depression :: Avoid
+- Rifampicin :: Reduced morphine effect :: Monitor
+food:
+- Alcohol :: Fatal respiratory depression; SR "dose dumping" :: Avoid completely
+preg: Use if needed; neonatal respiratory depression and withdrawal if used near delivery.
+lact: Small amounts; monitor infant for sedation.
+renal: Metabolites accumulate (M6G, M3G) — reduce dose and frequency.
+hepatic: Reduce dose; may precipitate encephalopathy.
+monitor:
+- Pain score, respiratory rate, sedation score, bowel movements
+advice:
+- Take regularly "by the clock" for constant pain, plus extra (breakthrough) doses when needed
+- Always take the prescribed laxative; drink plenty of fluids
+- Drowsiness in first days usually improves; do not drive until you know the effects
+- Keep locked away from children; return unused medicine to the pharmacy
+storage: Controlled drug — locked cabinet, register every dose dispensed (Dangerous Drugs Register).
+pearls:
+- Opioid antidote: naloxone 0.4 mg IV, repeat every 2–3 min (short half-life — watch for re-sedation)
+- Fear of addiction must not prevent adequate cancer pain relief
+
+=== drug: tramadol
+name: Tramadol
+class: Weak opioid (μ agonist) with SNRI activity
+group: Analgesic
+nemlit: B (tablet 50 mg; injection 50 mg/mL)
+forms: Capsule/tablet 50 mg; SR 100 mg; injection 50 mg/mL (2 mL)
+moa: Weak μ-opioid agonist (via active metabolite O-desmethyltramadol, CYP2D6) and inhibitor of serotonin and noradrenaline reuptake.
+uses:
+- Moderate pain (step 2 of WHO ladder), post-operative pain, sickle cell crisis (moderate)
+dose:
+- 50–100 mg every 4–6 hours (max 400 mg/day; 300 mg in elderly >75)
+ci:
+- Uncontrolled epilepsy; MAOI use within 2 weeks; acute intoxication with CNS depressants
+- Children <12 years (ultra-rapid metabolisers), breastfeeding (caution)
+se:
+- Nausea, dizziness, constipation, drowsiness, sweating, dry mouth
+- Seizures (dose-related), serotonin syndrome, dependence and misuse
+ddi:
+- SSRIs / amitriptyline / MAOIs :: Serotonin syndrome and seizures :: Avoid or monitor closely
+- Carbamazepine :: Reduced tramadol effect, seizure threshold lowered :: Avoid
+- Benzodiazepines / alcohol :: Respiratory depression :: Avoid
+- Warfarin :: Raised INR :: Monitor
+- Ondansetron :: Reduced analgesia :: Monitor
+food:
+- Alcohol :: CNS depression :: Avoid
+preg: Avoid unless needed (neonatal withdrawal).
+lact: Avoid where possible.
+renal: Extend interval to 12-hourly if eGFR <30.
+monitor:
+- Pain, sedation, bowel function, misuse
+advice:
+- May cause dizziness and nausea — avoid driving, alcohol
+- Take a laxative if constipated
+storage: Controlled substance in Tanzania — store securely.
+pearls:
+- Tramadol misuse is a growing public health problem — dispense only on valid prescription
+
+=== drug: pethidine
+name: Pethidine (meperidine)
+class: Synthetic opioid agonist
+group: Analgesic
+nemlit: B (injection 50 mg/mL) — controlled drug
+forms: Injection 50 mg/mL
+moa: μ-opioid agonist; short duration (2–4 h); metabolite norpethidine is neurotoxic.
+uses:
+- Short-term acute pain, labour analgesia (widely used, but morphine/other preferred)
+dose:
+- 25–100 mg IM/SC every 4 hours (max 400 mg/day); labour 50–100 mg IM, repeat after 1–3 h (max 400 mg)
+ci:
+- Renal impairment (norpethidine accumulation → seizures); MAOIs (fatal serotonin reactions); sickle cell crisis (repeated use)
+se:
+- Nausea, vomiting, respiratory depression, tremor, seizures (norpethidine), neonatal respiratory depression
+ddi:
+- MAOIs / selegiline :: Serotonin syndrome, death :: Contraindicated
+- SSRIs / tramadol :: Serotonin toxicity :: Avoid
+- CNS depressants :: Respiratory depression :: Avoid
+food:
+- Alcohol :: CNS depression :: Avoid
+preg: Labour analgesia; newborn may need naloxone.
+lact: Avoid repeated doses.
+renal: Avoid.
+monitor:
+- Respiratory rate, sedation; neonatal breathing if given in labour
+advice:
+- Hospital use
+storage: Controlled drug register.
+pearls:
+- Not recommended for chronic or sickle-cell pain (neurotoxic metabolite)
+
+=== drug: diazepam
+name: Diazepam
+class: Long-acting benzodiazepine
+group: CNS
+nemlit: A (injection 5 mg/mL); C (tablet 5 mg)
+forms: Tablet 2 mg, 5 mg, 10 mg; injection 5 mg/mL (2 mL); rectal solution 5 mg, 10 mg
+moa: Positive allosteric modulator of GABA-A receptors → ↑ frequency of chloride channel opening → anticonvulsant, anxiolytic, sedative, muscle relaxant.
+uses:
+- Status epilepticus and acute convulsions (first line), febrile convulsions
+- Alcohol withdrawal (prevention of seizures and delirium tremens)
+- Short-term anxiety, muscle spasm, tetanus spasms, eclampsia (where MgSO4 unavailable)
+dose:
+- Status epilepticus adults: 10 mg IV slowly (2–5 mg/min) or 10–20 mg rectally; repeat once after 5–10 min
+- Children: 0.3 mg/kg IV (max 10 mg) or 0.5 mg/kg rectally (max 10–20 mg)
+- Alcohol withdrawal: 10–20 mg orally every 1–2 hours as needed by symptoms (CIWA), then taper over days
+- Anxiety: 2–5 mg two to three times daily for max 2–4 weeks
+ci:
+- Respiratory depression, severe COPD, sleep apnoea, myasthenia gravis, severe hepatic impairment
+- Acute narrow-angle glaucoma; use as sole treatment of depression/chronic psychosis
+se:
+- Drowsiness, ataxia, confusion (elderly falls), respiratory depression (especially IV), hypotension
+- Dependence and withdrawal (rebound anxiety, insomnia, seizures) with >2–4 weeks use; paradoxical agitation
+ddi:
+- Opioids / alcohol / other sedatives :: Respiratory depression, death :: Avoid; reduce doses
+- Isoniazid / fluconazole / omeprazole / ritonavir :: Raised diazepam levels :: Reduce dose
+- Rifampicin / carbamazepine :: Reduced diazepam levels :: Monitor
+food:
+- Alcohol :: Dangerous CNS depression :: Avoid completely
+- Grapefruit juice :: Raises levels :: Avoid
+preg: Avoid regular use (floppy infant, neonatal withdrawal); single doses for seizures acceptable.
+lact: Avoid repeated doses (sedation in infant).
+hepatic: Avoid in severe impairment (use lorazepam/oxazepam); can precipitate encephalopathy.
+monitor:
+- Respiratory rate, oxygen saturation, BP after IV doses; have bag-valve-mask ready
+advice:
+- Causes drowsiness — do not drive or operate machinery; no alcohol
+- Use only for the short time prescribed; do not stop suddenly after long use
+- Keep locked away (psychotropic — controlled)
+storage: Controlled (psychotropic); IV solution absorbs into plastic — draw up just before use.
+pearls:
+- Antidote: flumazenil (use cautiously — can precipitate seizures in dependence/mixed overdose)
+- Diazepam IM absorption is erratic — use IV or rectal
+
+=== drug: phenobarbital
+name: Phenobarbital (phenobarbitone)
+class: Barbiturate anticonvulsant
+group: CNS
+nemlit: A (tablet 30 mg, 100 mg; injection 100 mg/2 mL)
+forms: Tablet 30 mg, 100 mg; injection 200 mg/mL, 100 mg/2 mL; elixir
+moa: Enhances GABA-A receptor activity (prolongs chloride channel opening); also reduces glutamate effects.
+uses:
+- Epilepsy (generalised tonic-clonic and focal) — cheap first-line option in resource-limited settings
+- Status epilepticus (second line after benzodiazepine); neonatal seizures (drug of choice)
+dose:
+- Epilepsy adults: 60–180 mg at night (1–3 mg/kg); children 3–6 mg/kg/day
+- Status epilepticus: 15–20 mg/kg IV at ≤50–100 mg/min (max 1 g)
+- Neonatal seizures: 20 mg/kg IV/IM loading, then 2.5–5 mg/kg daily
+ci:
+- Acute porphyria; severe respiratory depression; severe hepatic impairment
+se:
+- Sedation, cognitive impairment, behavioural change/hyperactivity in children, depression
+- Dependence; withdrawal seizures if stopped abruptly; rash, SJS; osteomalacia, folate deficiency
+ddi:
+- Hormonal contraceptives :: Strong enzyme induction → contraceptive failure :: Use DMPA/IUD
+- Warfarin / steroids / ARVs (DTG, PIs, NNRTIs) / doxycycline :: Reduced levels :: Avoid or adjust; check ART interactions
+- Valproate :: Raises phenobarbital levels :: Monitor sedation
+- Alcohol / opioids / benzodiazepines :: Respiratory depression :: Avoid
+food:
+- Alcohol :: Additive CNS depression :: Avoid
+preg: Teratogenic risk (cardiac, cleft) — but uncontrolled seizures are dangerous; give folic acid 5 mg; vitamin K to neonate.
+lact: Sedation in infant — monitor.
+hepatic: Reduce dose.
+monitor:
+- Seizure diary, sedation; levels 15–40 mg/L if available
+advice:
+- Take at night every day; never stop suddenly
+- Women: tell your clinician before pregnancy; use effective contraception that is not affected
+storage: Controlled; below 25°C.
+pearls:
+- Very long half-life (~100 h) — once-daily dosing; steady state after 2–3 weeks
+
+=== drug: phenytoin
+name: Phenytoin
+class: Hydantoin anticonvulsant (sodium channel blocker)
+group: CNS
+nemlit: C (tablet/capsule 50, 100 mg; suspension 30 mg/5 mL; injection 100 mg/2 mL)
+forms: Capsule 50 mg, 100 mg; suspension 30 mg/5 mL; injection 50 mg/mL
+moa: Stabilises inactive state of voltage-gated sodium channels → limits repetitive neuronal firing.
+uses:
+- Status epilepticus (second line), generalised tonic-clonic and focal seizures
+- Trigeminal neuralgia (second line)
+dose:
+- Status: 15–20 mg/kg IV in saline (not dextrose), max 50 mg/min (25 mg/min elderly/cardiac) with ECG monitoring
+- Maintenance: 3–5 mg/kg/day (adults 200–400 mg daily), adjust by levels (10–20 mg/L)
+ci:
+- Sinus bradycardia, heart block, Adams–Stokes (IV); acute porphyria
+se:
+- Dose-related: nystagmus, ataxia, slurred speech, confusion (zero-order kinetics — small dose changes cause big level jumps)
+- Gingival hyperplasia, hirsutism, coarse facies, acne; folate deficiency/megaloblastic anaemia; osteomalacia
+- SJS/TEN (HLA-B*1502); IV: hypotension, arrhythmias, purple glove syndrome
+ddi:
+- Hormonal contraceptives / warfarin / steroids / ARVs :: Enzyme induction → reduced effect :: Use non-hormonal/DMPA contraception; adjust doses
+- Isoniazid / fluconazole / co-trimoxazole / metronidazole / chloramphenicol :: Raised phenytoin → toxicity :: Monitor levels
+- Valproate :: Displacement and inhibition :: Monitor free levels
+- Antacids / enteral feeds :: Reduced absorption :: Separate by 2 h
+food:
+- Enteral feeds :: Markedly reduce absorption :: Stop feeds 2 h before and after dose
+- Alcohol :: Acute intake raises, chronic lowers levels :: Avoid
+preg: Fetal hydantoin syndrome — specialist review; folic acid 5 mg.
+lact: Compatible.
+hepatic: Reduce dose.
+monitor:
+- Plasma levels, FBC, LFTs, gums, folate
+advice:
+- Brush and floss carefully; regular dental checks (gum overgrowth)
+- Do not switch brands; report rash, unsteadiness, double vision
+storage: Below 25°C; IV solution crystallises in dextrose — use saline.
+pearls:
+- Non-linear (saturable) kinetics — classic pharmacokinetics exam topic
+
+=== drug: carbamazepine
+name: Carbamazepine
+class: Anticonvulsant (sodium channel blocker); mood stabiliser
+group: CNS
+nemlit: A (tablet 100, 200 mg; syrup 100 mg/5 mL)
+forms: Tablet 100 mg, 200 mg, 400 mg; CR tablets; syrup 100 mg/5 mL
+moa: Blocks voltage-gated sodium channels; strong CYP3A4 inducer (including of itself — autoinduction).
+uses:
+- Focal (partial) seizures and generalised tonic-clonic seizures (not absence/myoclonic)
+- Trigeminal neuralgia (first line), bipolar disorder, neuropathic pain
+dose:
+- Epilepsy adults: 100–200 mg once or twice daily, increase by 100–200 mg every 2 weeks; usual 400–1200 mg/day
+- Children: 5 mg/kg/day, increase to 10–20 mg/kg/day in 2–3 doses
+- Trigeminal neuralgia: 100 mg twice daily, increase to effect (usual 200 mg three to four times daily)
+ci:
+- AV conduction abnormalities, bone marrow depression, porphyria
+- MAOIs; HLA-B*1502 (south-east Asians — SJS risk)
+se:
+- Dizziness, diplopia, ataxia, nausea (dose-related), hyponatraemia (SIADH)
+- Rash (common), SJS/TEN, DRESS; leucopenia, aplastic anaemia (rare); hepatitis
+ddi:
+- Hormonal contraceptives :: Contraceptive failure :: Use DMPA, IUD
+- Dolutegravir / ARVs (PIs, NNRTIs) :: Reduced ARV levels → failure :: Avoid; if essential DTG 50 mg twice daily
+- Warfarin / steroids / doxycycline / haloperidol :: Reduced levels :: Adjust doses
+- Erythromycin / clarithromycin / fluconazole / isoniazid :: Raised carbamazepine → toxicity :: Avoid or monitor levels
+- Lithium :: Neurotoxicity :: Monitor
+food:
+- Grapefruit juice :: Raises carbamazepine levels :: Avoid
+- Alcohol :: Increased CNS effects :: Avoid
+preg: Neural tube defects (~1%) — folic acid 5 mg pre-conception; specialist review.
+lact: Compatible.
+hepatic: Caution.
+monitor:
+- FBC, sodium, LFTs at baseline and periodically; levels 4–12 mg/L
+advice:
+- Take with food; start low, increase slowly
+- Report rash, fever, sore throat, mouth ulcers, unusual bruising, confusion
+- Hormonal pills/implants will not work reliably
+storage: Protect from moisture (tablets lose potency in humidity).
+pearls:
+- Autoinduction: dose needs to be increased after 2–4 weeks
+
+=== drug: sodium-valproate
+name: Sodium valproate
+class: Broad-spectrum anticonvulsant; mood stabiliser
+group: CNS
+nemlit: C (tablet 200, 500 mg)
+forms: Enteric-coated tablet 200 mg, 500 mg; CR tablets; syrup 200 mg/5 mL
+moa: Increases GABA levels (inhibits GABA transaminase), blocks sodium and T-type calcium channels.
+uses:
+- Generalised epilepsies: tonic-clonic, absence, myoclonic (first line in men)
+- Bipolar mania and prophylaxis; migraine prophylaxis
+dose:
+- Adults: 600 mg/day in 2 doses, increase by 200 mg every 3 days to 1–2 g/day (max 2.5 g)
+- Children: 10–20 mg/kg/day, increase to 20–40 mg/kg/day in 2 doses
+ci:
+- Women and girls of childbearing potential unless no alternative and pregnancy prevention in place (teratogenic)
+- Active liver disease; mitochondrial disorders; porphyria
+se:
+- Nausea, weight gain, tremor, hair loss (regrowth may be curly), drowsiness
+- Hepatotoxicity (first 6 months, children <3 years), pancreatitis, thrombocytopenia, hyperammonaemic encephalopathy
+- Teratogenicity: neural tube defects (1–2%), developmental delay (~30–40%)
+ddi:
+- Meropenem / carbapenems :: Valproate levels fall to sub-therapeutic within a day → seizures :: Avoid; use alternative antiepileptic
+- Aspirin :: Displacement and increased free valproate :: Avoid
+- Lamotrigine :: Valproate doubles lamotrigine levels → SJS risk :: Halve lamotrigine dose
+- Carbamazepine / phenytoin / phenobarbital :: Mutual interactions :: Monitor levels
+food:
+- Food :: Reduces GI upset :: Take with or after food; swallow enteric-coated tablets whole
+- Alcohol :: Additive sedation :: Avoid
+preg: Avoid — highest teratogenic risk of the antiepileptics; specialist counselling; folic acid 5 mg.
+lact: Compatible.
+hepatic: Contraindicated in active liver disease.
+monitor:
+- LFTs and FBC (platelets) before starting and during the first 6 months; weight
+advice:
+- Women: valproate can seriously harm an unborn baby — use reliable contraception and plan pregnancy with your doctor
+- Report vomiting, abdominal pain, yellow skin, unusual bruising, drowsiness
+- Swallow tablets whole with food
+storage: Keep in original foil (tablets absorb moisture).
+pearls:
+- Never prescribe to women of childbearing potential without a pregnancy prevention programme
+
+=== drug: levetiracetam
+name: Levetiracetam
+class: Anticonvulsant (SV2A ligand)
+group: CNS
+nemlit: S (tablet 250–1000 mg; injection)
+forms: Tablet 250 mg, 500 mg, 750 mg, 1000 mg; IV 100 mg/mL
+moa: Binds synaptic vesicle protein 2A → modulates neurotransmitter release.
+uses:
+- Focal and generalised seizures; status epilepticus (second line IV); epilepsy in pregnancy (preferred with lamotrigine)
+dose:
+- 500 mg twice daily, increase by 500 mg BD every 2 weeks (max 1.5 g BD)
+- Status epilepticus: 60 mg/kg IV (max 4.5 g) over 10 min
+ci:
+- Hypersensitivity
+se:
+- Somnolence, irritability, aggression, depression, suicidal ideation; dizziness
+ddi:
+- Few significant interactions (not hepatically metabolised)
+food:
+- None significant
+preg: Among the safest antiepileptics in pregnancy.
+lact: Compatible.
+renal: Reduce dose according to eGFR.
+monitor:
+- Mood and behaviour
+advice:
+- Report mood changes or thoughts of self-harm
+storage: Below 25°C.
+pearls:
+- Minimal interactions — useful with ART and TB drugs
+
+=== drug: haloperidol
+name: Haloperidol
+class: Typical (first-generation) antipsychotic — butyrophenone
+group: Psychiatric
+nemlit: B (tablet 1.5, 5 mg; injection 5 mg/mL); decanoate depot
+forms: Tablet 1.5 mg, 5 mg; injection 5 mg/mL; decanoate depot 50 mg/mL
+moa: Potent D2 receptor antagonist in mesolimbic pathway (reduces positive symptoms); low anticholinergic/sedative activity.
+uses:
+- Schizophrenia and acute psychosis; acute agitation/aggression (rapid tranquillisation, often with promethazine)
+- Delirium; nausea/vomiting and agitation in palliative care; mania
+dose:
+- Psychosis: 1.5–5 mg two to three times daily (usual 5–10 mg/day; max 20 mg)
+- Acute agitation: 5 mg IM (± promethazine 25–50 mg IM), repeat after 30–60 min if needed
+- Delirium/palliative nausea: 0.5–1.5 mg at night or twice daily
+ci:
+- Comatose states, CNS depression, Parkinson's disease, dementia with Lewy bodies, QT prolongation
+se:
+- Extrapyramidal side effects: acute dystonia, akathisia, parkinsonism, tardive dyskinesia
+- Neuroleptic malignant syndrome (fever, rigidity, autonomic instability, raised CK)
+- QT prolongation, hyperprolactinaemia, sedation, postural hypotension
+ddi:
+- QT-prolonging drugs (amiodarone, erythromycin, quinine, ondansetron) :: Torsades :: Avoid; ECG
+- Metoclopramide :: Additive EPS/NMS :: Avoid
+- Carbamazepine / rifampicin :: Reduced haloperidol levels :: Increase dose
+- Levodopa :: Mutual antagonism :: Avoid
+- Alcohol / CNS depressants :: Sedation :: Caution
+food:
+- Alcohol :: Additive sedation :: Avoid
+- Tea/coffee (with liquid forms) :: May precipitate drug :: Do not mix oral liquid with tea/coffee
+preg: Use if needed; EPS in neonate if used late.
+lact: Compatible (monitor infant).
+monitor:
+- EPS, temperature, ECG (high doses/IV), weight
+advice:
+- Do not stop suddenly; adherence prevents relapse
+- Report stiffness, restlessness, abnormal movements, fever with rigidity
+- Avoid alcohol; may cause drowsiness
+storage: Below 25°C, protect from light.
+pearls:
+- Acute dystonia → benzhexol/biperiden; NMS → stop drug, cool, supportive, dantrolene/bromocriptine
+
+=== drug: chlorpromazine
+name: Chlorpromazine
+class: Typical antipsychotic — phenothiazine (low potency)
+group: Psychiatric
+nemlit: A (tablet 25, 100 mg; injection 25 mg/mL)
+forms: Tablet 25 mg, 100 mg; injection 25 mg/mL (2 mL)
+moa: D2 antagonist with marked H1, α1 and muscarinic blockade (sedating, hypotensive, anticholinergic).
+uses:
+- Schizophrenia and acute psychosis (especially when sedation needed); mania
+- Intractable hiccups; nausea/vomiting
+dose:
+- Psychosis: 25–100 mg three times daily or 75–300 mg at night (max 1 g/day)
+- Acute agitation: 25–50 mg IM (deep), repeat after 1 h if needed
+ci:
+- Bone marrow depression, CNS depression, closed-angle glaucoma, phaeochromocytoma
+se:
+- Sedation, postural hypotension, anticholinergic effects (dry mouth, constipation, urinary retention)
+- Photosensitivity and skin pigmentation, EPS, cholestatic jaundice, agranulocytosis, weight gain, lowered seizure threshold
+ddi:
+- Antihypertensives / alcohol :: Hypotension :: Monitor
+- Anticholinergics (benzhexol, amitriptyline) :: Additive anticholinergic effects :: Caution
+- QT drugs :: Arrhythmia :: Avoid
+food:
+- Alcohol :: Sedation, hypotension :: Avoid
+preg: Use if necessary.
+lact: Monitor infant for drowsiness.
+monitor:
+- BP (postural), FBC if fever/sore throat, LFTs, EPS
+advice:
+- Rise slowly; protect skin from sun; avoid alcohol
+- Do not touch tablets/injection with bare hands (contact sensitisation)
+storage: Protect from light (injection turns yellow/pink — discard).
+pearls:
+- Sedation and hypotension limit its use in elderly
+
+=== drug: risperidone
+name: Risperidone
+class: Atypical (second-generation) antipsychotic
+group: Psychiatric
+nemlit: S (tablet 1 mg, 2 mg); olanzapine S
+forms: Tablet 1 mg, 2 mg, 4 mg; oral solution; long-acting injection
+moa: Combined 5-HT2A and D2 antagonist; lower EPS at low doses.
+uses:
+- Schizophrenia, bipolar mania, behavioural disturbance in autism and dementia (short term, with caution)
+dose:
+- Schizophrenia: 1–2 mg daily, increase to 4–6 mg/day (max 16 mg)
+- Elderly: 0.5 mg twice daily
+ci:
+- Hypersensitivity; caution in dementia (stroke risk)
+se:
+- Hyperprolactinaemia (galactorrhoea, amenorrhoea, gynaecomastia, sexual dysfunction), EPS at higher doses
+- Weight gain, metabolic syndrome, postural hypotension, sedation
+ddi:
+- Carbamazepine :: Reduced risperidone levels :: Increase dose
+- Fluoxetine :: Raised risperidone levels (CYP2D6) :: Reduce dose
+- Antihypertensives / alcohol :: Hypotension, sedation :: Caution
+food:
+- Alcohol :: Sedation :: Avoid
+preg: Limited data; use if benefit outweighs risk.
+lact: Avoid where possible.
+renal: Halve starting dose.
+monitor:
+- Weight, waist, glucose, lipids at baseline, 3 months, then yearly; prolactin if symptoms
+advice:
+- Continue even when well; report breast changes, menstrual changes or stiffness
+- Healthy diet and exercise to limit weight gain
+storage: Below 25°C.
+pearls:
+- Highest prolactin elevation of the atypicals
+
+=== drug: olanzapine
+name: Olanzapine
+class: Atypical antipsychotic
+group: Psychiatric
+nemlit: S (tablet 5 mg, 10 mg)
+forms: Tablet 5 mg, 10 mg; orodispersible; injection
+moa: Antagonist at D2, 5-HT2A, H1, M1 and α1 receptors.
+uses:
+- Schizophrenia, acute mania, bipolar maintenance; agitation (IM)
+dose:
+- 10 mg once daily (range 5–20 mg)
+ci:
+- Narrow-angle glaucoma (relative)
+se:
+- Marked weight gain, diabetes, dyslipidaemia, sedation, increased appetite, anticholinergic effects; low EPS
+ddi:
+- Smoking :: Induces CYP1A2 → lower olanzapine levels :: Dose adjust if smoking status changes
+- Fluvoxamine / ciprofloxacin :: Raised levels :: Monitor
+- Benzodiazepines (IM) :: Cardiorespiratory depression :: Avoid co-administration within 1 h
+food:
+- Alcohol :: Sedation, hypotension :: Avoid
+preg: Use if necessary (gestational diabetes risk).
+lact: Probably compatible.
+monitor:
+- Weight, glucose, lipids
+advice:
+- Expect increased appetite — plan diet and exercise
+storage: Below 25°C.
+pearls:
+- Smokers need higher doses; quitting smoking can cause olanzapine toxicity
+
+=== drug: fluoxetine
+name: Fluoxetine
+class: Selective serotonin reuptake inhibitor (SSRI) antidepressant
+group: Psychiatric
+nemlit: S (capsule 20 mg); citalopram D
+forms: Capsule 20 mg; oral liquid 20 mg/5 mL
+moa: Inhibits presynaptic serotonin reuptake (SERT); long half-life with active metabolite norfluoxetine.
+uses:
+- Major depressive disorder, generalised anxiety, panic disorder, OCD, bulimia nervosa; depression in adolescents (first-line SSRI)
+dose:
+- Depression: 20 mg once daily in the morning; may increase after 4 weeks (max 60 mg); OCD/bulimia up to 60 mg
+ci:
+- Within 2 weeks of an MAOI (5 weeks after stopping fluoxetine before MAOI); mania
+se:
+- Nausea, insomnia, agitation/anxiety early, headache, sexual dysfunction, hyponatraemia (elderly)
+- Increased suicidal thoughts in under-25s early in treatment; serotonin syndrome; bleeding risk
+ddi:
+- Tramadol / MAOIs / linezolid / triptans :: Serotonin syndrome :: Avoid
+- NSAIDs / aspirin / warfarin :: GI bleeding :: Add PPI / monitor
+- Tamoxifen :: Fluoxetine (CYP2D6 inhibitor) reduces tamoxifen activation :: Avoid — use another antidepressant
+- Risperidone / haloperidol / TCAs :: Raised levels :: Reduce doses
+food:
+- Alcohol :: Worsens depression and sedation :: Avoid
+preg: Use if needed (small cardiac risk; neonatal adaptation syndrome); specialist review.
+lact: Prefer sertraline (lower infant levels).
+hepatic: Reduce dose.
+monitor:
+- Mood, suicidal thoughts (week 1–4), sodium in elderly
+advice:
+- Takes 2–4 weeks to start working, 6–8 weeks for full effect — keep taking it
+- Take in the morning (may cause sleeplessness); continue 6–12 months after feeling better
+- Seek help immediately for thoughts of self-harm
+storage: Below 25°C.
+pearls:
+- Very long half-life — least discontinuation syndrome of SSRIs
+
+=== drug: amitriptyline
+name: Amitriptyline
+class: Tricyclic antidepressant (TCA)
+group: Psychiatric
+nemlit: A (tablet 25 mg)
+forms: Tablet 10 mg, 25 mg, 50 mg
+moa: Inhibits reuptake of noradrenaline and serotonin; antagonist at H1, muscarinic and α1 receptors (sedation, anticholinergic effects).
+uses:
+- Neuropathic pain (diabetic neuropathy, post-herpetic neuralgia, HIV neuropathy) — low dose
+- Depression (higher doses, second line due to toxicity); migraine and tension headache prophylaxis; enuresis
+dose:
+- Neuropathic pain: 10–25 mg at night, increase gradually to 50–75 mg
+- Depression: 25–50 mg at night, increase to 75–150 mg
+ci:
+- Recent MI, arrhythmias, heart block; mania; severe liver disease; MAOI within 2 weeks
+se:
+- Sedation, dry mouth, constipation, blurred vision, urinary retention, postural hypotension, weight gain
+- Arrhythmias/QT prolongation; very toxic in overdose (seizures, arrhythmias, coma)
+ddi:
+- MAOIs / tramadol / SSRIs :: Serotonin syndrome :: Avoid
+- Alcohol / CNS depressants :: Sedation :: Avoid
+- Anticholinergics (benzhexol, chlorpromazine) :: Additive anticholinergic effects :: Caution in elderly
+- QT drugs :: Arrhythmia :: Avoid
+- Fluoxetine :: Raised TCA levels :: Reduce dose
+food:
+- Alcohol :: Sedation and overdose toxicity :: Avoid
+preg: Use if needed.
+lact: Compatible at low doses.
+monitor:
+- Mood/suicidality, ECG in cardiac disease, anticholinergic effects in elderly
+advice:
+- Take at night; may cause drowsiness and dry mouth
+- Pain relief may take 1–2 weeks
+- Dispense limited quantities to depressed patients (dangerous in overdose)
+storage: Below 25°C.
+pearls:
+- TCA overdose: sodium bicarbonate for QRS widening
+
+=== drug: lithium
+name: Lithium carbonate
+class: Mood stabiliser
+group: Psychiatric
+nemlit: Not found in NEMLIT 2021 extract (specialist use; check facility list)
+forms: Tablet 250 mg, 400 mg (modified-release)
+moa: Inhibits inositol monophosphatase and GSK-3; modulates neurotransmission.
+uses:
+- Bipolar disorder prophylaxis and acute mania; augmentation in resistant depression
+dose:
+- 400 mg at night, adjust to serum level 0.4–1.0 mmol/L (12 h post-dose)
+ci:
+- Renal impairment, cardiac disease, Addison's disease, untreated hypothyroidism, low-sodium diets
+se:
+- Fine tremor, polyuria, polydipsia, weight gain, hypothyroidism, nephrogenic diabetes insipidus
+- Toxicity (>1.5 mmol/L): coarse tremor, vomiting, diarrhoea, ataxia, confusion, seizures
+ddi:
+- Thiazides / ACE inhibitors / ARBs / NSAIDs :: Raise lithium levels → toxicity :: Avoid or monitor closely
+- Metronidazole :: Toxicity :: Monitor
+food:
+- Salt and fluid intake changes :: Low salt/dehydration raises levels :: Keep salt and fluids steady; drink more in hot weather
+preg: Ebstein's anomaly risk — specialist.
+lact: Avoid.
+renal: Avoid.
+monitor:
+- Lithium level weekly until stable then 3-monthly; U&E, TFT 6-monthly
+advice:
+- Keep salt and fluid intake constant; report vomiting, diarrhoea, coarse tremor, confusion
+storage: Below 25°C.
+pearls:
+- Narrow therapeutic index — NSAIDs and diuretics are classic precipitants of toxicity
+
+=== drug: levodopa-carbidopa
+name: Levodopa + carbidopa
+class: Dopamine precursor + peripheral dopa-decarboxylase inhibitor
+group: CNS
+nemlit: D (tablet 100/25 mg)
+forms: Tablet 100/25 mg, 250/25 mg
+moa: Levodopa crosses the BBB and is converted to dopamine; carbidopa blocks peripheral conversion (↓ nausea, ↑ CNS delivery).
+uses:
+- Parkinson's disease (most effective symptomatic therapy)
+dose:
+- 100/25 mg three times daily, increase gradually by response (usual 300–800 mg levodopa/day)
+ci:
+- Narrow-angle glaucoma, melanoma (history), non-selective MAOIs
+se:
+- Nausea, postural hypotension, dyskinesias, "on–off" fluctuations, hallucinations, impulse control disorders; dark urine/sweat
+ddi:
+- Antipsychotics (haloperidol) / metoclopramide :: Block dopamine → worsening parkinsonism :: Avoid; use domperidone for nausea
+- Iron salts :: Reduced absorption :: Separate by 2 h
+- MAOIs (non-selective) :: Hypertensive crisis :: Contraindicated
+food:
+- High-protein meals :: Compete for absorption and BBB transport :: Take 30 min before meals; spread protein through the day
+preg: Avoid unless necessary.
+lact: Suppresses prolactin/lactation — avoid.
+monitor:
+- Motor response, dyskinesias, BP lying/standing, mental state
+advice:
+- Take at regular times; avoid large protein meals around doses
+- Never stop suddenly (risk of NMS-like syndrome)
+storage: Below 25°C, protect from light.
+pearls:
+- Benzhexol (anticholinergic) treats tremor and drug-induced EPS, not Parkinson's bradykinesia well
+
+=== drug: benzhexol
+name: Benzhexol (trihexyphenidyl)
+class: Centrally acting antimuscarinic
+group: CNS
+nemlit: B (tablet 5 mg)
+forms: Tablet 2 mg, 5 mg
+moa: Blocks central muscarinic receptors → restores dopamine–acetylcholine balance in the striatum.
+uses:
+- Drug-induced extrapyramidal symptoms (antipsychotics) — parkinsonism, acute dystonia
+- Parkinson's disease (tremor-dominant, younger patients)
+dose:
+- 1–2 mg daily, increase to 2–5 mg two to three times daily (max 15 mg/day)
+ci:
+- Narrow-angle glaucoma, GI obstruction, myasthenia gravis, BPH with retention; tardive dyskinesia (worsens)
+se:
+- Dry mouth, blurred vision, constipation, urinary retention, confusion and hallucinations (elderly), euphoria (misuse potential)
+ddi:
+- Other anticholinergics (TCAs, chlorpromazine, antihistamines) :: Additive toxicity :: Caution
+food:
+- Alcohol :: Sedation :: Avoid
+preg: Avoid unless needed.
+lact: May reduce lactation.
+monitor:
+- Mental state in elderly; misuse
+advice:
+- Take with food; avoid overheating (reduced sweating)
+storage: Below 25°C.
+pearls:
+- Not routinely co-prescribed with antipsychotics — only when EPS occur

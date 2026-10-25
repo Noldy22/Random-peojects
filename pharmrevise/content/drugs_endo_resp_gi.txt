@@ -1,0 +1,1067 @@
+# Drug monographs — endocrine, respiratory, gastrointestinal.
+
+=== drug: metformin
+name: Metformin
+class: Biguanide (oral antidiabetic)
+group: Endocrine
+nemlit: A (tablet 500, 750, 850, 1000 mg; SR)
+forms: Tablet 500 mg, 850 mg, 1000 mg; modified-release 500 mg, 750 mg
+moa: Decreases hepatic gluconeogenesis, improves peripheral insulin sensitivity, slightly reduces intestinal glucose absorption; activates AMP-kinase. Does not stimulate insulin release.
+uses:
+- First-line drug for type 2 diabetes (with lifestyle change), especially if overweight
+- Pre-diabetes in high-risk patients; polycystic ovary syndrome (off-label)
+dose:
+- 500 mg once or twice daily with meals, increase by 500 mg every 1–2 weeks; usual 1–2 g/day; max 2–3 g/day in divided doses
+- eGFR 30–45: max 1 g/day; stop if eGFR <30
+ci:
+- eGFR <30 mL/min; acute conditions causing tissue hypoxia (shock, sepsis, acute heart failure, respiratory failure)
+- Severe hepatic impairment, alcohol abuse; diabetic ketoacidosis
+- Iodinated contrast or general anaesthesia (withhold on the day and 48 h after)
+se:
+- GI upset: nausea, diarrhoea, abdominal discomfort, metallic taste (common at start — reduce by slow titration and taking with food)
+- Vitamin B12 deficiency with long-term use
+- Lactic acidosis (rare but serious)
+ddi:
+- Iodinated contrast media :: AKI → metformin accumulation → lactic acidosis :: Withhold before and 48 h after; recheck creatinine
+- Dolutegravir :: Raises metformin levels ~2-fold :: Limit metformin to 1 g/day when starting DTG; monitor glucose
+- Alcohol :: Lactic acidosis and hypoglycaemia risk :: Avoid heavy drinking
+- Corticosteroids / thiazides :: Raise blood glucose :: Monitor glucose
+- Cimetidine :: Raises metformin levels :: Monitor
+food:
+- Food :: Reduces GI side effects :: Take with or just after meals
+- Alcohol :: Lactic acidosis :: Avoid binge drinking
+preg: Used in pregnancy in some guidelines; STG prefers insulin for gestational diabetes.
+lact: Compatible.
+renal: Reduce if eGFR 30–45; stop if <30.
+hepatic: Avoid in significant hepatic impairment.
+monitor:
+- HbA1c every 3 months until controlled, then 6-monthly; fasting glucose
+- Renal function at least annually (more often if eGFR <60); vitamin B12 if neuropathy or anaemia
+advice:
+- Take with meals; stomach upset usually settles in 1–2 weeks
+- Metformin alone does not cause hypoglycaemia
+- Sick-day rule: stop temporarily if vomiting, diarrhoea or dehydrated, and restart when eating normally
+- Tell staff before any X-ray dye or operation
+storage: Below 25°C.
+pearls:
+- Weight-neutral or modest weight loss — preferred in obese type 2 diabetes
+- "Sick day rules" for metformin: SADMANS drugs (Sulfonylureas, ACEi, Diuretics, Metformin, ARBs, NSAIDs, SGLT2i)
+
+=== drug: glibenclamide
+name: Glibenclamide
+class: Sulfonylurea (second generation, long-acting)
+group: Endocrine
+nemlit: A (tablet 5 mg)
+forms: Tablet 5 mg
+moa: Binds the sulfonylurea receptor on pancreatic β-cell K-ATP channels → depolarisation → insulin release. Needs functioning β-cells.
+uses:
+- Type 2 diabetes (add-on to metformin or when metformin is contraindicated)
+dose:
+- 2.5–5 mg once daily with breakfast; increase by 2.5 mg weekly; max 15 mg/day (doses >10 mg divided)
+ci:
+- Type 1 diabetes, DKA; severe renal or hepatic impairment
+- Elderly (prolonged hypoglycaemia) — prefer gliclazide; pregnancy (insulin preferred); sulfonamide allergy; G6PD deficiency (haemolysis)
+se:
+- Hypoglycaemia (can be prolonged and severe, especially in elderly and renal impairment)
+- Weight gain; GI upset; rash, photosensitivity; rarely cholestatic jaundice, blood dyscrasias
+ddi:
+- Co-trimoxazole / fluconazole / clarithromycin :: Increased sulfonylurea levels → hypoglycaemia :: Monitor glucose; reduce dose
+- Beta-blockers :: Mask hypoglycaemia warning signs :: Educate patient
+- Alcohol :: Hypoglycaemia; disulfiram-like flushing :: Avoid
+- Rifampicin :: Reduced effect (enzyme induction) :: Monitor glucose
+- Insulin :: Additive hypoglycaemia :: Reduce or stop sulfonylurea when insulin started
+- Corticosteroids / thiazides :: Reduced hypoglycaemic effect :: Monitor
+food:
+- Missing or delaying meals :: Hypoglycaemia :: Eat regular meals; never skip after taking the dose
+- Alcohol :: Hypoglycaemia :: Avoid
+preg: Avoid — switch to insulin.
+lact: Avoid (neonatal hypoglycaemia).
+renal: Avoid in renal impairment (active metabolites) — gliclazide preferred.
+hepatic: Avoid in severe impairment.
+monitor:
+- Blood glucose, HbA1c; hypoglycaemia episodes; weight
+advice:
+- Take with breakfast; never skip meals
+- Learn the signs of low sugar (sweating, shaking, hunger, confusion) — take 3 sugar cubes/sweet drink, then a snack
+- Carry sugar or sweets at all times; tell family how to help
+- Ramadan/fasting: discuss dose timing with your pharmacist
+storage: Below 25°C.
+pearls:
+- Longest-acting common sulfonylurea — highest hypoglycaemia risk ("Beers list" for elderly)
+
+=== drug: gliclazide
+name: Gliclazide
+class: Sulfonylurea (second generation, shorter-acting)
+group: Endocrine
+nemlit: A (tablet 40, 80 mg; MR 30, 60 mg)
+forms: Tablet 40 mg, 80 mg; modified-release 30 mg, 60 mg
+moa: Stimulates insulin release from β-cells (K-ATP channel closure); metabolised by liver to inactive metabolites.
+uses:
+- Type 2 diabetes, preferred sulfonylurea in elderly and mild–moderate renal impairment
+dose:
+- 40–80 mg daily with breakfast, increased to 160 mg; doses >160 mg divided (max 320 mg/day)
+- Modified-release: 30 mg daily with breakfast, increase every 4 weeks to max 120 mg
+ci:
+- Type 1 diabetes, DKA; severe renal or hepatic impairment; pregnancy; G6PD deficiency (caution)
+se:
+- Hypoglycaemia (less than glibenclamide), weight gain, GI upset, rash
+ddi:
+- Fluconazole / co-trimoxazole / clarithromycin :: Hypoglycaemia :: Monitor
+- Beta-blockers :: Masked hypoglycaemia :: Educate
+- Alcohol :: Hypoglycaemia :: Avoid
+- Rifampicin :: Reduced effect :: Monitor
+food:
+- Skipping meals :: Hypoglycaemia :: Take with breakfast, eat regularly
+preg: Avoid — use insulin.
+lact: Avoid.
+renal: Use with caution and lower doses; avoid if severe.
+monitor:
+- Glucose, HbA1c, hypoglycaemia episodes
+advice:
+- Take with breakfast; swallow MR tablets whole
+- Same hypoglycaemia counselling as for all sulfonylureas
+storage: Below 25°C.
+pearls:
+- Lower hypoglycaemia risk than glibenclamide — prefer in elderly
+
+=== drug: glimepiride
+name: Glimepiride
+class: Sulfonylurea (third generation)
+group: Endocrine
+nemlit: C (tablet 1 mg, 2 mg)
+forms: Tablet 1 mg, 2 mg, 4 mg
+moa: β-cell insulin secretagogue; once-daily dosing.
+uses:
+- Type 2 diabetes (add-on to metformin)
+dose:
+- 1–2 mg once daily with breakfast, titrate every 1–2 weeks; max 6–8 mg once daily
+ci:
+- Type 1 diabetes, DKA, severe renal/hepatic impairment, pregnancy, sulfonamide allergy
+se:
+- Hypoglycaemia, weight gain, dizziness, GI upset
+ddi:
+- Fluconazole / co-trimoxazole :: Hypoglycaemia :: Monitor
+- Beta-blockers :: Masked hypoglycaemia :: Educate
+- Alcohol :: Hypoglycaemia :: Avoid
+food:
+- Skipping meals :: Hypoglycaemia :: Eat breakfast after the dose
+preg: Avoid.
+lact: Avoid.
+monitor:
+- Glucose and HbA1c
+advice:
+- Once daily with breakfast; same hypoglycaemia counselling
+storage: Below 25°C.
+pearls:
+- Once-daily dosing helps adherence
+
+=== drug: insulin-soluble
+name: Insulin — soluble (regular, short-acting)
+class: Short-acting human insulin
+group: Endocrine
+nemlit: A (injection 40 IU/mL, 100 IU/mL)
+forms: Vial 100 IU/mL (also 40 IU/mL — match syringe to strength!); pens
+moa: Replaces endogenous insulin: ↑ glucose uptake into muscle/fat, ↓ hepatic glucose output, ↓ lipolysis and ketogenesis; drives K+ into cells.
+uses:
+- Type 1 diabetes (bolus with meals in basal-bolus regimen)
+- Type 2 diabetes when oral agents fail; gestational diabetes
+- DKA and HHS (IV infusion); hyperkalaemia (10 units IV with 50 mL of 50% dextrose); perioperative glucose control
+dose:
+- Basal-bolus: total daily dose 0.5–1 unit/kg/day — ~50% as basal (NPH), ~50% as soluble split before meals
+- DKA: 0.1 unit/kg/hour IV infusion (after fluids started and K+ ≥3.3 mmol/L)
+- Hyperkalaemia: 10 units soluble insulin IV in 50 mL 50% dextrose over 15–30 min
+ci:
+- Hypoglycaemia
+se:
+- Hypoglycaemia (most important)
+- Weight gain; lipohypertrophy at repeated injection sites; hypokalaemia (IV); rarely allergy
+ddi:
+- Beta-blockers :: Mask hypoglycaemia; prolong recovery :: Monitor glucose
+- Alcohol :: Hypoglycaemia :: Limit; never drink on an empty stomach
+- Corticosteroids / thiazides / protease inhibitors :: Raise glucose → higher insulin need :: Adjust dose
+- Sulfonylureas :: Additive hypoglycaemia :: Reduce/stop sulfonylurea
+food:
+- Meals :: Soluble insulin must match a meal :: Inject 30 minutes before eating; do not skip the meal
+- Alcohol :: Delayed hypoglycaemia :: Eat when drinking; check glucose at bedtime
+preg: Insulin is the drug of choice in pregnancy; requirements rise in 2nd/3rd trimesters and fall immediately after delivery.
+lact: Compatible.
+renal: Requirements fall in renal impairment (reduced clearance).
+monitor:
+- Self-monitored blood glucose (before meals and bedtime), HbA1c 3-monthly
+- K+ hourly-2 hourly during IV insulin in DKA
+advice:
+- Inject 30 minutes before meals into abdomen/thigh/upper arm; rotate sites within the same area
+- Check the strength on the vial matches the syringe (U-100 with U-100 syringe)
+- Hypoglycaemia: take 15–20 g fast sugar, recheck in 15 min, then a snack
+- Sick days: never stop insulin — check glucose more often and seek help if vomiting
+- Store unopened vials in the fridge (2–8°C), never freeze; vial in use can be kept below 25–30°C for 28 days (use a clay pot/cool place if no fridge)
+storage: Unopened 2–8°C (do not freeze); in-use vial at room temperature up to 28 days, away from sunlight.
+pearls:
+- Only soluble (regular) insulin can be given IV
+- When mixing soluble + NPH in one syringe: draw up clear (soluble) before cloudy (NPH)
+
+=== drug: insulin-nph
+name: Insulin — isophane (NPH) and premixed 30/70
+class: Intermediate-acting human insulin; premixed biphasic insulin
+group: Endocrine
+nemlit: A (intermediate/isophane); premixed insulin S
+forms: Vial 100 IU/mL (cloudy suspension); premixed 30% soluble/70% NPH
+moa: Protamine-complexed insulin with delayed absorption (onset 1–2 h, peak 4–12 h, duration 12–18 h); provides basal cover.
+uses:
+- Basal insulin in type 1 and type 2 diabetes (bedtime NPH added to oral agents)
+- Twice-daily premixed regimen (common in resource-limited settings)
+dose:
+- Insulin-naïve type 2: 0.2 units/kg (or 10 units) at bedtime, titrate by 2–4 units every 3 days to fasting glucose 4–7 mmol/L
+- Premixed: total dose 0.4–0.6 units/kg/day, 2/3 before breakfast and 1/3 before evening meal
+ci:
+- Hypoglycaemia; never IV
+se:
+- Hypoglycaemia (especially nocturnal 2–4 am), weight gain, lipohypertrophy
+ddi:
+- Beta-blockers :: Masked hypoglycaemia :: Monitor
+- Alcohol :: Hypoglycaemia :: Limit
+- Corticosteroids :: Higher insulin need :: Adjust
+food:
+- Meals :: Premixed insulin needs regular meals 30 min after injection :: Do not skip meals
+preg: Safe; preferred.
+lact: Compatible.
+monitor:
+- Fasting glucose (titrate basal dose), pre-dinner glucose for premixed, HbA1c
+advice:
+- Roll the vial gently 10–20 times between your palms to mix (do not shake)
+- Inject the same time each day; rotate sites
+- Watch for night-time lows: nightmares, sweating, morning headache — have a bedtime snack if needed
+storage: As for soluble insulin (2–8°C unopened; 28 days in use).
+pearls:
+- Cloudy insulins must be resuspended before each dose
+
+=== drug: levothyroxine
+name: Levothyroxine
+class: Thyroid hormone (synthetic T4)
+group: Endocrine
+nemlit: D (tablet 50 mcg)
+forms: Tablet 25 mcg, 50 mcg, 100 mcg
+moa: Synthetic T4, converted peripherally to active T3; restores euthyroid state.
+uses:
+- Hypothyroidism (primary, post-thyroidectomy, post-radioiodine); congenital hypothyroidism
+- TSH suppression after thyroid cancer (specialist)
+dose:
+- Adults <60 years without heart disease: 1.6 mcg/kg/day (typically 50–100 mcg daily), adjust by 25 mcg every 4–6 weeks
+- Elderly or ischaemic heart disease: start 12.5–25 mcg daily, increase slowly
+ci:
+- Untreated adrenal insufficiency (correct cortisol first); thyrotoxicosis; acute MI
+se:
+- Over-replacement: palpitations, tremor, insomnia, weight loss, heat intolerance, AF, osteoporosis
+- Angina in ischaemic heart disease
+ddi:
+- Ferrous sulfate / calcium / antacids / PPIs :: Reduce absorption :: Separate by 4 hours
+- Rifampicin / carbamazepine / phenytoin :: Increase metabolism → higher dose needed :: Monitor TSH
+- Warfarin :: Increased anticoagulant effect when becoming euthyroid :: Monitor INR
+- Insulin / oral antidiabetics :: Requirement may rise :: Monitor glucose
+food:
+- Food, coffee, soya, high-fibre :: Reduce absorption :: Take on an empty stomach 30–60 min before breakfast with water
+preg: Essential — requirements rise 25–50% in pregnancy; increase dose as soon as pregnancy confirmed and check TSH each trimester.
+lact: Compatible.
+monitor:
+- TSH 6–8 weeks after each dose change; once stable, every 6–12 months
+advice:
+- Take every morning on an empty stomach, 30–60 minutes before breakfast or tea/coffee
+- Keep iron or calcium tablets at least 4 hours apart
+- Lifelong treatment; symptoms improve over weeks
+- Report palpitations, chest pain, tremor
+storage: Below 25°C, protect from light and moisture.
+pearls:
+- Long half-life (7 days) — dose changes take 6 weeks to show in TSH
+
+=== drug: carbimazole
+name: Carbimazole
+class: Thionamide antithyroid drug
+group: Endocrine
+nemlit: C (tablet 5 mg); propylthiouracil D (tablet 50 mg)
+forms: Tablet 5 mg, 20 mg
+moa: Pro-drug of methimazole; inhibits thyroid peroxidase → blocks iodination and coupling, reducing T4/T3 synthesis.
+uses:
+- Hyperthyroidism (Graves' disease, toxic multinodular goitre) — before surgery/radioiodine or for 12–18-month course
+dose:
+- Initial 15–40 mg daily (single or divided), reduce to 5–15 mg daily maintenance once euthyroid (4–8 weeks); or block-and-replace
+ci:
+- Severe blood disorders; previous agranulocytosis with thionamides
+- First trimester of pregnancy (use propylthiouracil)
+se:
+- AGRANULOCYTOSIS (rare, serious): sore throat, fever, mouth ulcers
+- Rash, pruritus (common), arthralgia, nausea, taste disturbance, hepatotoxicity (rare)
+ddi:
+- Warfarin :: Effect changes as thyroid status changes :: Monitor INR
+- Digoxin :: Levels rise as patient becomes euthyroid :: Monitor
+food:
+- Iodine-rich foods / supplements :: May reduce effectiveness :: Avoid excess iodine
+preg: Avoid in 1st trimester (aplasia cutis, embryopathy) — use PTU, then switch to carbimazole for 2nd/3rd trimester.
+lact: Compatible at low doses.
+monitor:
+- TFTs every 4–6 weeks; FBC if sore throat or fever
+advice:
+- STOP and seek a blood test urgently if you get a sore throat, mouth ulcers, fever or flu-like illness
+- Propranolol may be given for palpitations initially
+- Women: tell your clinician before trying to conceive
+storage: Below 25°C.
+pearls:
+- PTU is preferred in thyroid storm and 1st trimester; it causes more hepatotoxicity
+
+=== drug: prednisolone
+name: Prednisolone
+class: Systemic corticosteroid (glucocorticoid)
+group: Endocrine
+nemlit: A (tablet 5 mg)
+forms: Tablet 5 mg (also 1 mg, 25 mg); soluble tablet; eye drops 0.5–1%
+moa: Binds intracellular glucocorticoid receptors → suppresses inflammatory gene transcription (↓ prostaglandins, leukotrienes, cytokines), immunosuppression.
+uses:
+- Acute asthma and COPD exacerbations; severe allergic reactions (after adrenaline)
+- Inflammatory and autoimmune disease (RA, SLE, nephrotic syndrome, IBD, autoimmune haemolytic anaemia, ITP)
+- Haematological malignancy regimens (CHOP, ALL induction); TB IRIS, TB meningitis/pericarditis; PCP (adjunct)
+dose:
+- Acute asthma: adults 40–50 mg once daily for 5–7 days (children 1–2 mg/kg, max 40 mg) — no taper needed for short courses
+- ITP/AIHA: 1 mg/kg/day then taper
+- Rheumatoid arthritis bridging: 5–10 mg daily
+ci:
+- Untreated systemic infection (relative), live vaccines with immunosuppressive doses
+se:
+- Short term: hyperglycaemia, insomnia, mood change/psychosis, increased appetite, dyspepsia, fluid retention, hypertension
+- Long term: Cushingoid features, osteoporosis, adrenal suppression, infection risk, cataracts, glaucoma, myopathy, skin thinning, growth suppression in children
+ddi:
+- NSAIDs / aspirin :: Peptic ulceration and GI bleeding :: Add PPI
+- Rifampicin / phenytoin / carbamazepine :: Increased metabolism → reduced effect :: Double steroid dose with rifampicin
+- Antidiabetic drugs / insulin :: Hyperglycaemia :: Monitor glucose, increase therapy
+- Diuretics / salbutamol :: Hypokalaemia :: Monitor K+
+- Live vaccines :: Risk of vaccine infection :: Avoid with high doses
+food:
+- Food :: Reduces gastric irritation :: Take in the morning with food
+- Salt :: Fluid retention :: Moderate salt intake
+- Alcohol :: Peptic ulcer risk :: Limit
+preg: Prednisolone is largely inactivated by the placenta — preferred steroid in pregnancy when needed.
+lact: Compatible.
+monitor:
+- BP, glucose, weight; bone health and eyes with long-term use
+advice:
+- Take as a single dose in the morning with food
+- Do not stop suddenly after more than 3 weeks of treatment — dose must be tapered
+- Carry a steroid card if on long-term treatment; avoid contact with chickenpox/measles
+- Report black stools, severe mood changes, signs of infection
+storage: Below 25°C.
+pearls:
+- 5 mg prednisolone ≈ 20 mg hydrocortisone ≈ 0.75 mg dexamethasone
+- Courses <3 weeks generally need no taper (unless repeated courses)
+
+=== drug: hydrocortisone
+name: Hydrocortisone
+class: Corticosteroid (glucocorticoid with mineralocorticoid activity)
+group: Endocrine
+nemlit: A (injection 100 mg; cream 0.5–1%)
+forms: Powder for injection 100 mg (as sodium succinate); tablet 10 mg, 20 mg; cream 1%
+moa: Glucocorticoid and mineralocorticoid receptor agonist — physiological cortisol replacement.
+uses:
+- Anaphylaxis and severe asthma (adjunct), adrenal crisis, septic shock refractory to fluids and vasopressors
+- Adrenal insufficiency replacement (oral); thyroid storm; topical eczema/dermatitis
+dose:
+- Anaphylaxis/acute severe asthma: 100–200 mg IV (children 4 mg/kg)
+- Adrenal crisis: 100 mg IV stat, then 50–100 mg every 6–8 hours
+- Septic shock: 50 mg IV every 6 hours
+- Replacement: 15–25 mg/day orally in 2–3 doses (largest in the morning)
+ci:
+- Systemic fungal infection (relative); topical: untreated skin infection, rosacea
+se:
+- As for prednisolone; plus sodium and fluid retention, hypokalaemia (mineralocorticoid effect)
+ddi:
+- Rifampicin / phenytoin :: Reduced effect :: Increase dose
+- NSAIDs :: GI ulceration :: Gastroprotection
+- Insulin / antidiabetics :: Hyperglycaemia :: Monitor
+food:
+- Food :: Less GI irritation with oral form :: Take with food
+preg: Safe when needed.
+lact: Compatible.
+monitor:
+- BP, glucose, electrolytes
+advice:
+- Adrenal insufficiency: double oral dose when febrile/ill ("sick day rules"); carry a steroid card
+- Topical: apply thinly, short courses on the face
+storage: Below 25°C.
+pearls:
+- Antihistamines and steroids are ADJUNCTS in anaphylaxis — adrenaline IM is first-line
+
+=== drug: dexamethasone
+name: Dexamethasone
+class: Long-acting potent glucocorticoid
+group: Endocrine
+nemlit: B (injection 4 mg/mL); D (tablet 0.5 mg, 4 mg)
+forms: Injection 4 mg/mL; tablet 0.5 mg, 4 mg; eye drops
+moa: Potent glucocorticoid with negligible mineralocorticoid action; long half-life.
+uses:
+- Fetal lung maturation in threatened preterm birth (<34 weeks)
+- Cerebral oedema (tumour), malignant spinal cord compression, SVC obstruction
+- Bacterial meningitis adjunct (before/with first antibiotic dose); severe COVID-19 (hypoxic)
+- Antiemetic with chemotherapy; croup; allergic reactions
+dose:
+- Fetal lung maturity: 6 mg IM every 12 hours × 4 doses
+- Spinal cord compression: 16 mg/day (e.g. 8 mg twice daily) with PPI, then taper
+- Meningitis: 0.15 mg/kg IV every 6 hours for 2–4 days
+- Croup: 0.15–0.6 mg/kg orally once
+ci:
+- Systemic fungal infection; cerebral malaria (not beneficial)
+se:
+- Hyperglycaemia, insomnia, psychiatric effects, GI ulceration, immunosuppression, perineal burning if IV bolus fast
+ddi:
+- Rifampicin / phenytoin / carbamazepine :: Reduced effect :: Increase dose
+- Antidiabetics :: Hyperglycaemia :: Monitor
+- Dolutegravir / rilpivirine :: Dexamethasone (repeated) lowers their levels :: Avoid long courses or monitor VL
+food:
+- Food :: Reduce GI upset :: Take with food
+preg: Used deliberately for fetal lung maturation.
+lact: Compatible for short courses.
+monitor:
+- Glucose (especially in diabetics), BP, mental state
+advice:
+- Take in the morning to reduce sleeplessness
+storage: Protect injection from light.
+pearls:
+- Steroids are NOT recommended in cerebral malaria (STG)
+
+=== drug: salbutamol
+name: Salbutamol
+class: Short-acting beta-2 agonist (SABA) bronchodilator
+group: Respiratory
+nemlit: A (inhaler 100 mcg/dose, nebuliser solution, tablet 4 mg, syrup 2 mg/5 mL)
+forms: Metered-dose inhaler 100 mcg/puff; nebuliser solution 5 mg/mL (2.5 mg, 5 mg nebules); tablet 2 mg, 4 mg; syrup 2 mg/5 mL
+moa: Stimulates β2 receptors on bronchial smooth muscle → ↑ cAMP → bronchodilation within minutes (lasts 4–6 h); also shifts K+ into cells.
+uses:
+- Relief of acute bronchospasm in asthma and COPD ("reliever")
+- Acute severe asthma (nebulised, repeated); exercise-induced asthma prevention
+- Hyperkalaemia (adjunct, nebulised 10–20 mg)
+dose:
+- MDI: 100–200 mcg (1–2 puffs) as required, up to 4 times daily; with spacer in children
+- Acute asthma: 2.5–5 mg nebulised every 20 minutes for the first hour (or 4–10 puffs via spacer), then 1–4 hourly
+- Oral (less preferred): adults 2–4 mg 3–4 times daily
+ci:
+- Hypersensitivity; caution in hyperthyroidism, arrhythmias, ischaemic heart disease
+se:
+- Fine tremor, tachycardia, palpitations, headache, muscle cramps
+- Hypokalaemia (high doses), lactic acidosis with continuous nebulisation
+ddi:
+- Non-selective beta-blockers (propranolol) :: Block bronchodilator effect; can precipitate bronchospasm :: Avoid β-blockers in asthma
+- Diuretics / steroids / theophylline :: Additive hypokalaemia :: Monitor K+ in severe asthma
+food:
+- Caffeine (large amounts) :: Additive tremor and palpitations :: Moderate intake
+preg: Safe — uncontrolled asthma is a greater risk to the baby.
+lact: Compatible.
+monitor:
+- Peak flow, symptom frequency, reliever use (>2 times/week = poor control)
+advice:
+- Inhaler technique: shake, breathe out, seal lips, press and breathe in slowly and deeply, hold 10 seconds; wait 30–60 s before a second puff
+- Use a spacer (or improvised plastic-bottle spacer) for children and during attacks
+- If you need your reliever more than twice a week, see your clinician — you need a preventer
+- Seek urgent care if the inhaler is not lasting 4 hours or you cannot speak in sentences
+storage: Below 30°C; do not puncture or burn canister; clean actuator weekly.
+pearls:
+- SABA-only treatment is no longer recommended — every asthmatic should have an inhaled corticosteroid-containing treatment (GINA)
+
+=== drug: beclometasone
+name: Beclometasone dipropionate (inhaled)
+class: Inhaled corticosteroid (ICS) — "preventer"
+group: Respiratory
+nemlit: Inhaled steroid listed as budesonide inhaler B (100, 200 mcg); beclometasone per STG asthma chapter
+forms: Metered-dose inhaler 50 mcg, 100 mcg, 250 mcg per puff
+moa: Local anti-inflammatory action in the airway: ↓ eosinophils, mast cells, mucosal oedema and airway hyper-responsiveness.
+uses:
+- Persistent asthma (step 2 onwards) — maintenance controller
+- COPD with frequent exacerbations (with long-acting bronchodilator)
+dose:
+- Adults: 100–400 mcg twice daily (low dose 200–500 mcg/day; medium 500–1000; high >1000)
+- Children: 50–200 mcg twice daily via spacer
+ci:
+- Not for relief of acute attacks; untreated pulmonary TB (caution)
+se:
+- Oral candidiasis (thrush), hoarseness (dysphonia), sore throat
+- High doses: adrenal suppression, growth slowing in children, cataracts, osteoporosis, pneumonia in COPD
+ddi:
+- Ritonavir (boosted PIs) :: Raises systemic steroid levels (more with fluticasone/budesonide) → Cushing's :: Prefer beclometasone; monitor
+food:
+- None significant
+preg: Safe — continue throughout pregnancy.
+lact: Compatible.
+monitor:
+- Asthma control, inhaler technique, growth in children
+advice:
+- Use every day even when well — it prevents attacks; benefit builds over 1–2 weeks
+- Rinse mouth with water and spit out after each use (prevents thrush and hoarseness)
+- Use a spacer
+storage: Below 30°C; protect from frost and direct sunlight.
+pearls:
+- Rinse-and-spit after ICS use is a classic counselling point
+
+=== drug: budesonide-formoterol
+name: Budesonide / formoterol (inhaler)
+class: Inhaled corticosteroid + long-acting beta-2 agonist (ICS-LABA)
+group: Respiratory
+nemlit: Budesonide inhaler B (100, 200 mcg); combination per facility availability
+forms: Dry-powder inhaler 160/4.5 mcg, 80/4.5 mcg per dose
+moa: Budesonide reduces airway inflammation; formoterol is a fast-onset, long-acting β2 agonist (12 h).
+uses:
+- Moderate–severe persistent asthma (maintenance; also as-needed reliever "MART" regimen)
+- COPD with exacerbations
+dose:
+- Asthma: 1–2 inhalations twice daily; MART — 1 inhalation as needed in addition (max 8–12/day)
+- As-needed only (mild asthma, GINA track 1): 1 inhalation when needed
+ci:
+- LABA must never be used without an inhaled steroid in asthma
+se:
+- Oral thrush, hoarseness, tremor, palpitations, headache
+ddi:
+- Ritonavir / itraconazole :: Budesonide levels rise → Cushing's syndrome :: Avoid; use beclometasone
+- Non-selective beta-blockers :: Bronchospasm :: Avoid
+food:
+- None significant
+preg: Budesonide has the most pregnancy safety data among ICS.
+lact: Compatible.
+monitor:
+- Asthma control, exacerbations, technique
+advice:
+- Rinse mouth after use; breathe in fast and deep with dry-powder inhalers
+storage: Below 30°C, cap on, keep dry.
+pearls:
+- LABA monotherapy in asthma increases asthma deaths — always with ICS
+
+=== drug: ipratropium
+name: Ipratropium bromide
+class: Short-acting muscarinic antagonist (SAMA)
+group: Respiratory
+nemlit: S (aerosol 20 mcg/dose; nebuliser 250–500 mcg)
+forms: Metered-dose inhaler 20 mcg/puff; nebuliser solution 250 mcg/mL
+moa: Blocks muscarinic (M3) receptors in airway smooth muscle → bronchodilation; reduces mucus secretion.
+uses:
+- Acute severe asthma (with salbutamol nebulisation)
+- COPD symptom relief
+dose:
+- Acute asthma: 500 mcg nebulised every 20 min × 3 with salbutamol, then 4–6 hourly (children 250 mcg)
+- COPD: 20–40 mcg (1–2 puffs) 3–4 times daily
+ci:
+- Hypersensitivity to atropine derivatives; caution in angle-closure glaucoma, urinary retention/BPH
+se:
+- Dry mouth, cough, urinary retention, constipation, acute angle-closure glaucoma if nebulised mist enters eyes
+ddi:
+- Other anticholinergics (amitriptyline, hyoscine, chlorpheniramine) :: Additive anticholinergic effects :: Caution in elderly
+food:
+- None significant
+preg: Acceptable when needed.
+lact: Compatible.
+monitor:
+- Symptom relief, urinary symptoms in elderly men
+advice:
+- Use a mouthpiece rather than a mask, or protect eyes, during nebulisation
+storage: Below 25°C.
+pearls:
+- Tiotropium (long-acting) is the maintenance LAMA used in COPD
+
+=== drug: aminophylline
+name: Aminophylline / theophylline
+class: Methylxanthine bronchodilator
+group: Respiratory
+nemlit: Listed under respiratory medicines per STG (check facility list)
+forms: Injection 25 mg/mL (10 mL); theophylline modified-release tablets
+moa: Phosphodiesterase inhibition and adenosine receptor antagonism → bronchodilation, ↑ respiratory drive, diaphragmatic contractility.
+uses:
+- Life-threatening asthma not responding to nebulised bronchodilators and steroids (specialist/ICU)
+- Apnoea of prematurity (caffeine preferred); COPD (oral theophylline, third-line)
+dose:
+- Loading 5 mg/kg IV over 20 min (omit if already on theophylline), then 0.5 mg/kg/hour infusion
+ci:
+- Acute porphyria; uncontrolled arrhythmias
+se:
+- Narrow therapeutic index: nausea, vomiting, tachycardia, arrhythmias, seizures, insomnia, hypokalaemia
+ddi:
+- Ciprofloxacin / erythromycin / clarithromycin / fluconazole :: Inhibit metabolism → toxicity (seizures, arrhythmias) :: Avoid or halve dose, monitor levels
+- Rifampicin / carbamazepine / phenytoin / smoking :: Enzyme induction → reduced levels :: Increase dose; monitor
+- Salbutamol / steroids / diuretics :: Hypokalaemia :: Monitor K+
+food:
+- Caffeine (coffee, tea, cola) :: Additive toxicity :: Limit
+- Charcoal-grilled food / high-protein diet :: Increase clearance :: Keep diet consistent
+preg: Use with caution.
+lact: Irritability in infant possible.
+monitor:
+- Plasma theophylline 10–20 mg/L; ECG and K+ during infusion
+advice:
+- Report palpitations, vomiting, tremor; tell your clinician if you start or stop smoking
+storage: Below 25°C.
+pearls:
+- Smokers need higher doses; stopping smoking can cause theophylline toxicity
+
+=== drug: omeprazole
+name: Omeprazole
+class: Proton pump inhibitor (PPI)
+group: Gastrointestinal
+nemlit: A (capsule/tablet 20 mg); pantoprazole C (tablet + injection); esomeprazole S
+forms: Capsule 20 mg, 40 mg; IV (esomeprazole/pantoprazole for bleeding)
+moa: Irreversibly inhibits the H+/K+-ATPase (proton pump) of gastric parietal cells → profound acid suppression; activated in acid, so take before food.
+uses:
+- Peptic ulcer disease; H. pylori eradication (triple therapy); NSAID-ulcer treatment and prophylaxis
+- GORD/reflux oesophagitis; dyspepsia; Zollinger–Ellison syndrome
+- Upper GI bleeding (high-dose IV PPI after endoscopy)
+dose:
+- PUD/GORD: 20–40 mg once daily before breakfast for 4–8 weeks
+- H. pylori: omeprazole 20 mg + amoxicillin 1 g + clarithromycin 500 mg, all twice daily for 14 days (metronidazole 400–500 mg BD if penicillin allergy)
+- NSAID prophylaxis: 20 mg once daily
+ci:
+- Hypersensitivity
+se:
+- Headache, diarrhoea, nausea, abdominal pain
+- Long-term: hypomagnesaemia, B12 deficiency, fractures, C. difficile infection, pneumonia risk
+ddi:
+- Clopidogrel :: CYP2C19 inhibition reduces clopidogrel activation :: Use pantoprazole instead
+- Atazanavir / rilpivirine :: Reduced absorption (need acid) :: Avoid PPIs with these ARVs
+- Ketoconazole / itraconazole / iron :: Reduced absorption :: Separate or avoid
+- Methotrexate (high dose) / phenytoin / warfarin :: Raised levels :: Monitor
+food:
+- Food :: PPIs work best when taken before the first meal :: Take 30–60 minutes before breakfast
+preg: Omeprazole is acceptable in pregnancy.
+lact: Compatible.
+monitor:
+- Symptom resolution; review need after 8 weeks (avoid indefinite use without indication)
+advice:
+- Swallow capsule whole 30–60 minutes before breakfast
+- Avoid smoking, alcohol, NSAIDs and late heavy meals
+- Report black stools, vomiting blood, weight loss or difficulty swallowing (alarm symptoms)
+storage: Below 25°C, protect from moisture (keep in blister).
+pearls:
+- Test for H. pylori ≥2 weeks after stopping PPI (false negatives)
+
+=== drug: antacid
+name: Magnesium trisilicate / aluminium hydroxide (antacid)
+class: Antacid
+group: Gastrointestinal
+nemlit: A (magnesium trisilicate 250 mg + aluminium hydroxide 120 mg tablet); with simethicone B
+forms: Chewable tablet; oral suspension
+moa: Neutralises gastric acid; magnesium is laxative, aluminium is constipating (combination balances bowel effects).
+uses:
+- Symptomatic relief of dyspepsia, heartburn, mild GORD (including heartburn in pregnancy)
+dose:
+- 1–2 tablets chewed or 10–20 mL suspension 3 times daily after meals and at bedtime
+ci:
+- Severe renal impairment (magnesium/aluminium accumulation); hypophosphataemia
+se:
+- Diarrhoea (magnesium), constipation (aluminium); hypermagnesaemia in renal failure
+ddi:
+- Ciprofloxacin / doxycycline / tetracyclines :: Chelation → antibiotic failure :: Give antibiotic 2 h before or 6 h after antacid
+- Iron / levothyroxine / dolutegravir / bictegravir :: Reduced absorption :: Dolutegravir 2 h before or 6 h after antacid
+- Enteric-coated tablets :: Premature dissolution :: Separate by 1–2 hours
+food:
+- Food :: Prolongs antacid action :: Take 1 hour after meals
+preg: Safe for heartburn in pregnancy (avoid sodium bicarbonate products).
+lact: Compatible.
+renal: Avoid in severe renal impairment.
+monitor:
+- Symptoms; alarm features need referral
+advice:
+- Chew tablets well; take 1 hour after meals and at bedtime
+- Keep 2–4 hours apart from other medicines (especially antibiotics, iron, HIV medicine)
+storage: Below 25°C; shake suspension.
+pearls:
+- Antacid + dolutegravir is a common dispensing interaction to catch
+
+=== drug: metoclopramide
+name: Metoclopramide
+class: Dopamine D2 antagonist antiemetic and prokinetic
+group: Gastrointestinal
+nemlit: C (tablet 10 mg; injection 5 mg/mL; suspension)
+forms: Tablet 10 mg; injection 5 mg/mL (2 mL)
+moa: Blocks D2 receptors in the chemoreceptor trigger zone; enhances gastric emptying (5-HT4 agonist, peripheral D2 block).
+uses:
+- Nausea and vomiting (post-operative, migraine, chemotherapy, drug-induced)
+- Gastroparesis; migraine adjunct (speeds absorption of analgesic)
+dose:
+- Adults: 10 mg up to three times daily (max 30 mg/day or 0.5 mg/kg/day) for max 5 days
+- IV: give slowly over at least 3 minutes
+ci:
+- GI obstruction, perforation or haemorrhage; phaeochromocytoma; epilepsy
+- Parkinson's disease; children <1 year; use in under-20s only when essential
+se:
+- Extrapyramidal reactions (acute dystonia, oculogyric crisis) — especially young women and children
+- Drowsiness, restlessness (akathisia), hyperprolactinaemia; tardive dyskinesia with prolonged use; NMS (rare)
+ddi:
+- Antipsychotics (haloperidol) :: Additive extrapyramidal effects and NMS risk :: Avoid
+- Levodopa :: Mutual antagonism :: Avoid (use domperidone)
+- Opioids / anticholinergics (hyoscine) :: Antagonise prokinetic effect :: Avoid combination
+food:
+- Food :: Take 30 minutes before meals for gastroparesis :: Time doses before food
+- Alcohol :: Increased sedation :: Avoid
+preg: Can be used in pregnancy (2nd line for hyperemesis).
+lact: Small amounts; acceptable short term.
+renal: Halve dose in severe renal impairment.
+monitor:
+- Abnormal movements; duration ≤5 days
+advice:
+- May cause drowsiness; avoid driving
+- Report muscle spasms, eye rolling, stiff neck, restlessness (treat with benzhexol or diphenhydramine)
+storage: Protect injection from light.
+pearls:
+- Acute dystonia antidote: anticholinergic (benzhexol/procyclidine) or diphenhydramine
+
+=== drug: ondansetron
+name: Ondansetron
+class: 5-HT3 receptor antagonist antiemetic
+group: Gastrointestinal
+nemlit: S (tablet 8 mg; injection 2 mg/mL)
+forms: Tablet 4 mg, 8 mg; orodispersible; injection 2 mg/mL
+moa: Blocks 5-HT3 receptors in the chemoreceptor trigger zone and vagal afferents in the gut.
+uses:
+- Chemotherapy- and radiotherapy-induced nausea and vomiting; post-operative nausea
+- Severe hyperemesis gravidarum (specialist)
+dose:
+- Chemotherapy: 8 mg orally/IV 30 min before, then 8 mg 12-hourly for up to 5 days
+- PONV: 4 mg IV at induction
+ci:
+- Congenital long QT syndrome; concomitant apomorphine
+se:
+- Constipation, headache, flushing, QT prolongation (dose-related), dizziness
+ddi:
+- QT-prolonging drugs (amiodarone, haloperidol, erythromycin, quinine) :: Torsades de pointes :: Avoid/monitor ECG
+- Tramadol :: Reduced analgesic effect; serotonin syndrome risk :: Monitor
+- SSRIs :: Serotonin syndrome (rare) :: Monitor
+food:
+- None significant
+preg: Small possible risk of orofacial clefts in first trimester — specialist decision.
+lact: Probably compatible.
+hepatic: Max 8 mg/day in severe hepatic impairment.
+monitor:
+- ECG if risk factors; bowel habit
+advice:
+- Orodispersible tablets dissolve on the tongue
+- Report constipation
+storage: Below 30°C.
+pearls:
+- Combined with dexamethasone for highly emetogenic chemotherapy
+
+=== drug: loperamide
+name: Loperamide
+class: Peripherally acting opioid antidiarrhoeal
+group: Gastrointestinal
+nemlit: B (tablet/capsule 2 mg)
+forms: Capsule/tablet 2 mg
+moa: μ-opioid agonist on intestinal myenteric plexus → slows transit, increases water absorption and anal sphincter tone; does not cross BBB at normal doses.
+uses:
+- Symptomatic acute non-infective diarrhoea in adults; chronic diarrhoea (IBS, IBD under supervision, palliative care)
+dose:
+- Acute: 4 mg initially, then 2 mg after each loose stool (max 16 mg/day) for up to 48 hours
+ci:
+- Children <12 years (STG: not for childhood diarrhoea)
+- Bloody diarrhoea/dysentery, high fever, acute ulcerative colitis, C. difficile colitis, bowel obstruction
+se:
+- Constipation, abdominal cramps, bloating, dizziness; paralytic ileus; cardiac arrhythmias in overdose
+ddi:
+- Ritonavir / itraconazole / clarithromycin :: Raise loperamide levels :: Caution
+- QT-prolonging drugs :: Arrhythmia at high doses :: Avoid high doses
+food:
+- None significant; maintain fluids (ORS)
+preg: Avoid in first trimester if possible.
+lact: Small amounts; occasional use acceptable.
+monitor:
+- Stool frequency; stop if no improvement in 48 h or abdominal distension
+advice:
+- Keep drinking oral rehydration solution — loperamide does not replace lost fluid
+- Do not use if there is blood in the stool or high fever; see a clinician
+- Not for children under 12
+storage: Below 25°C.
+pearls:
+- Antidiarrhoeals have no role in childhood diarrhoea — ORS + zinc is the treatment
+
+=== drug: ors
+name: Oral rehydration salts (ORS, low osmolarity)
+class: Oral rehydration therapy
+group: Gastrointestinal
+nemlit: A (low-osmolarity sachet for 1 litre: NaCl 2.6 g, trisodium citrate 2.9 g, KCl 1.5 g, anhydrous glucose 13.5 g — WHO formula)
+forms: Sachet to dissolve in 1 litre (some sachets for 500 mL or 250 mL — check label); ORS/zinc co-pack
+moa: Glucose-coupled sodium absorption (SGLT1) remains intact in diarrhoea → water follows; replaces Na+, K+ and bicarbonate (citrate).
+uses:
+- Prevention and treatment of dehydration from diarrhoea (any cause, including cholera)
+dose:
+- No/some dehydration (WHO Plan A/B) — after each loose stool: <2 years 50–100 mL; 2–10 years 100–200 mL; adults as much as wanted
+- Some dehydration (Plan B): 75 mL/kg over 4 hours, then reassess
+- Severe dehydration (Plan C): IV Ringer's lactate; ORS 5 mL/kg/hour once able to drink
+ci:
+- Severe dehydration with shock (needs IV fluids first), paralytic ileus, intractable vomiting
+se:
+- Vomiting if given too fast (give small frequent sips); hypernatraemia if made too concentrated
+ddi:
+- None significant
+food:
+- Breastfeeding / normal food :: Should CONTINUE during diarrhoea :: Do not stop feeding
+- Sugary drinks, soda, juices :: Worsen osmotic diarrhoea :: Avoid
+preg: Safe.
+lact: Safe.
+monitor:
+- Signs of dehydration (thirst, sunken eyes, skin pinch, lethargy), urine output
+advice:
+- Dissolve one sachet in the stated volume of clean (boiled and cooled) water — never in less water
+- Give small, frequent sips with a cup and spoon; if child vomits, wait 10 min then continue slowly
+- Discard mixed ORS after 24 hours
+- Continue breastfeeding and normal feeding; give zinc for 10 days
+- Return immediately if the child cannot drink, has blood in stool, or becomes very sleepy
+storage: Dry place below 30°C (sachets); prepared solution 24 h.
+pearls:
+- Low-osmolarity ORS (245 mOsm/L) reduces stool output and vomiting compared with old ORS
+
+=== drug: zinc
+name: Zinc sulfate (dispersible)
+class: Mineral supplement
+group: Gastrointestinal
+nemlit: A (dispersible tablet 20 mg elemental zinc)
+forms: Dispersible tablet 20 mg; ORS/zinc co-pack
+moa: Restores intestinal mucosal function and immune response; reduces duration and severity of diarrhoea and recurrence for 2–3 months.
+uses:
+- All children with acute diarrhoea (with ORS)
+dose:
+- <6 months: 10 mg (½ tablet) once daily for 10 days
+- 6 months–5 years: 20 mg (1 tablet) once daily for 10 days
+ci:
+- Hypersensitivity
+se:
+- Nausea, vomiting (if taken on an empty stomach), metallic taste
+ddi:
+- Ciprofloxacin / doxycycline :: Chelation reduces antibiotic absorption :: Separate by 2–3 hours
+- Iron supplements :: Mutual reduced absorption :: Separate doses
+food:
+- Breast milk / clean water :: Use to disperse tablet :: Dissolve in a teaspoon of breast milk, ORS or clean water
+preg: Not applicable (children); safe.
+lact: Safe.
+monitor:
+- Completion of the 10-day course
+advice:
+- Give for the full 10 days even if diarrhoea stops earlier
+- Dissolve tablet in a small amount of breast milk or clean water
+storage: Dry place below 30°C.
+pearls:
+- ORS + zinc for 10 days is the STG/WHO standard for childhood diarrhoea
+
+=== drug: lactulose
+name: Lactulose
+class: Osmotic laxative; ammonia-lowering agent
+group: Gastrointestinal
+nemlit: C (solution 3.1–3.7 g/5 mL)
+forms: Oral solution 3.3 g/5 mL
+moa: Synthetic disaccharide fermented by colonic bacteria to lactic/acetic acid → osmotic laxative effect; acidifies colon converting NH3 to non-absorbable NH4+.
+uses:
+- Hepatic encephalopathy (treatment and prevention)
+- Chronic constipation (including in pregnancy, children, opioid use)
+dose:
+- Constipation: 15 mL twice daily, adjust (children 5–10 mL); takes 48 h to act
+- Hepatic encephalopathy: 30–50 mL three times daily, titrated to 2–3 soft stools per day
+ci:
+- Galactosaemia; GI obstruction
+se:
+- Flatulence, abdominal cramps, diarrhoea (dose-related), electrolyte disturbance with excess
+ddi:
+- None major (may reduce effect of mesalazine delayed-release)
+food:
+- Fluids :: Needed for laxative effect :: Drink plenty of water
+preg: Safe.
+lact: Safe.
+monitor:
+- Stool frequency; mental state in hepatic encephalopathy; electrolytes
+advice:
+- Effect may take 2–3 days; drink plenty of fluids
+- Taste is very sweet — can be mixed with water or juice
+- Wind and cramps are common at first
+storage: Below 25°C; do not refrigerate.
+pearls:
+- Rifaximin is added if lactulose alone fails to prevent hepatic encephalopathy
+
+=== drug: bisacodyl
+name: Bisacodyl
+class: Stimulant laxative
+group: Gastrointestinal
+nemlit: A (tablet 5 mg)
+forms: Enteric-coated tablet 5 mg; suppository 10 mg
+moa: Stimulates colonic enteric nerves → increased peristalsis and secretion.
+uses:
+- Constipation (including opioid-induced, with a softener); bowel preparation
+dose:
+- 5–10 mg at night (acts in 6–12 h); suppository 10 mg in the morning (acts in 20–60 min)
+ci:
+- Intestinal obstruction, acute abdomen, severe dehydration
+se:
+- Abdominal cramps, diarrhoea, hypokalaemia with chronic misuse
+ddi:
+- Antacids / milk / PPIs :: Dissolve enteric coat early → stomach irritation :: Do not take within 1 hour of antacids or milk
+- Diuretics / steroids :: Hypokalaemia with chronic use :: Avoid long-term
+food:
+- Milk :: Dissolves enteric coating :: Take with water, not milk
+preg: Use if lifestyle measures fail (bulk/osmotic first).
+lact: Compatible.
+monitor:
+- Bowel habit; avoid long-term use
+advice:
+- Swallow whole; take at bedtime; not with milk or antacids
+- Increase fibre and water intake
+storage: Below 25°C.
+pearls:
+- Every patient on regular morphine needs a regular laxative
+
+=== drug: hyoscine-butylbromide
+name: Hyoscine butylbromide
+class: Antimuscarinic antispasmodic (quaternary)
+group: Gastrointestinal
+nemlit: A (tablet 10 mg); B (injection 20 mg/mL)
+forms: Tablet 10 mg; injection 20 mg/mL
+moa: Blocks muscarinic receptors in GI, biliary and urinary smooth muscle → relieves spasm; quaternary amine — poor oral absorption, does not enter CNS.
+uses:
+- Abdominal colic, biliary/renal colic, IBS spasm, dysmenorrhoea
+- Palliative care: intestinal colic, terminal respiratory secretions ("death rattle")
+dose:
+- Oral: 20 mg four times daily (STG often 10–20 mg)
+- IM/IV: 20 mg, repeat after 30 min if needed (max 100 mg/day); STG emergency abdominal pain: 10 mg IM stat
+ci:
+- Myasthenia gravis, angle-closure glaucoma, mechanical GI obstruction, megacolon, tachyarrhythmia, BPH with retention
+se:
+- Dry mouth, tachycardia, blurred vision, urinary retention, constipation
+ddi:
+- Other anticholinergics (tricyclics, antihistamines) :: Additive effects :: Caution
+- Metoclopramide :: Opposing effects on gut motility :: Avoid combination
+food:
+- None significant
+preg: Avoid unless essential.
+lact: Probably compatible.
+monitor:
+- Pain relief, urinary retention, HR
+advice:
+- May cause dry mouth and blurred vision — do not drive if affected
+storage: Below 25°C.
+pearls:
+- Do not confuse with hyoscine hydrobromide (crosses BBB — motion sickness)
+
+=== drug: albendazole
+name: Albendazole
+class: Benzimidazole anthelmintic
+group: Anti-infective
+nemlit: A (tablet 200, 400 mg; suspension 100 mg/5 mL)
+forms: Tablet 200 mg, 400 mg (chewable); suspension 100 mg/5 mL
+moa: Binds parasite β-tubulin → inhibits microtubule formation and glucose uptake → worm death.
+uses:
+- Intestinal worms: roundworm, hookworm, whipworm, pinworm (single dose)
+- Mass deworming (school/child health days, with lymphatic filariasis programme with ivermectin)
+- Strongyloidiasis, neurocysticercosis, hydatid disease (prolonged courses)
+dose:
+- Children 1–2 years: 200 mg single dose; ≥2 years and adults: 400 mg single dose (repeat in 2 weeks for pinworm)
+- Strongyloides: 400 mg twice daily for 3 days (ivermectin preferred)
+- Neurocysticercosis: 15 mg/kg/day in 2 doses for 8–30 days (with steroid, specialist)
+ci:
+- First trimester of pregnancy; hypersensitivity
+se:
+- Single dose: mild abdominal pain, nausea, headache, dizziness
+- Prolonged use: raised liver enzymes, bone marrow suppression, alopecia
+ddi:
+- Dexamethasone / praziquantel :: Raise albendazole levels :: Used together intentionally in cysticercosis
+- Carbamazepine / phenytoin :: Reduce albendazole levels :: Monitor response
+food:
+- Fatty meal :: Increases absorption (needed for tissue infections) :: Take with fatty food for systemic infections; on empty stomach for gut worms
+preg: Avoid in first trimester; may be used from 2nd trimester (STG antenatal deworming).
+lact: Compatible (single dose).
+monitor:
+- LFTs and FBC with prolonged courses
+advice:
+- Chew the tablet; can be taken with or without food for intestinal worms
+- Wash hands, cut nails, wear shoes, use a toilet — to prevent reinfection
+storage: Below 25°C.
+pearls:
+- Hookworm is a leading cause of iron deficiency anaemia in Tanzania — deworm and give iron
+
+=== drug: mebendazole
+name: Mebendazole
+class: Benzimidazole anthelmintic
+group: Anti-infective
+nemlit: A (tablet 100 mg chewable; suspension 100 mg/5 mL)
+forms: Chewable tablet 100 mg, 500 mg; suspension 100 mg/5 mL
+moa: Inhibits microtubule formation in worms; poorly absorbed (acts in gut lumen).
+uses:
+- Roundworm, whipworm, hookworm, pinworm
+dose:
+- 500 mg single dose, or 100 mg twice daily for 3 days (age >1 year)
+- Pinworm: 100 mg single dose, repeat after 2 weeks
+ci:
+- First trimester; children <1 year
+se:
+- Abdominal pain, diarrhoea; rarely rash, convulsions in infants
+ddi:
+- Metronidazole :: Reports of Stevens–Johnson syndrome with combination :: Avoid combination
+- Cimetidine :: Raises mebendazole levels :: Minor
+food:
+- None significant (chew tablet)
+preg: Avoid first trimester.
+lact: Compatible.
+monitor:
+- Not routinely needed
+advice:
+- Chew tablets; treat the whole family for pinworm; wash bed linen
+storage: Below 25°C.
+pearls:
+- Less systemic absorption than albendazole — not for tissue infections
+
+=== drug: praziquantel
+name: Praziquantel
+class: Anthelmintic (anti-trematode/cestode)
+group: Anti-infective
+nemlit: A (tablet 600 mg)
+forms: Tablet 600 mg (scored)
+moa: Increases parasite membrane permeability to calcium → paralysis and tegument damage.
+uses:
+- Schistosomiasis (S. haematobium — urinary; S. mansoni — intestinal) including mass drug administration
+- Tapeworm (taeniasis), neurocysticercosis (with albendazole, specialist)
+dose:
+- Schistosomiasis: 40 mg/kg single dose (dose by height pole in MDA)
+- Taeniasis: 5–10 mg/kg single dose
+ci:
+- Ocular cysticercosis (destruction of parasite in eye causes damage)
+se:
+- Abdominal pain, nausea, dizziness, drowsiness, headache, urticaria; bloody stool in heavy S. mansoni
+ddi:
+- Rifampicin :: Markedly reduces praziquantel levels → treatment failure :: Stop rifampicin 4 weeks before, or avoid
+- Carbamazepine / phenytoin / dexamethasone :: Reduce levels :: Consider higher dose
+food:
+- Food :: Reduces nausea and increases absorption :: Take with or after food; swallow with water (bitter taste)
+preg: WHO recommends treatment in pregnancy and lactation (benefit > risk).
+lact: Compatible (some advise pausing 72 h).
+monitor:
+- Not routinely needed
+advice:
+- Take with food; may cause dizziness — avoid driving that day
+- Avoid contact with fresh water in lakes/rivers (snails) to prevent reinfection
+storage: Below 25°C.
+pearls:
+- Praziquantel kills adult worms, not immature ones — repeat in 4–6 weeks in heavy exposure
+
+=== drug: ivermectin
+name: Ivermectin
+class: Avermectin anthelmintic/ectoparasiticide
+group: Anti-infective
+nemlit: A (tablet 3 mg, 6 mg)
+forms: Tablet 3 mg, 6 mg
+moa: Binds glutamate-gated chloride channels in invertebrate nerve/muscle → hyperpolarisation and paralysis.
+uses:
+- Onchocerciasis (river blindness) and lymphatic filariasis (MDA with albendazole)
+- Strongyloidiasis (drug of choice); crusted/resistant scabies; head lice
+dose:
+- 150–200 mcg/kg single dose (on empty stomach); scabies: repeat after 7–14 days
+- Strongyloidiasis: 200 mcg/kg once daily for 1–2 days
+ci:
+- Children <15 kg; pregnancy; breastfeeding <1 week postpartum
+- High Loa loa microfilaraemia (risk of encephalopathy)
+se:
+- Mazzotti reaction in onchocerciasis (itching, fever, rash, lymphadenopathy); dizziness, nausea
+ddi:
+- Warfarin :: Possible raised INR :: Monitor
+food:
+- Food (fatty meal) :: Increases absorption/toxicity :: Take on an empty stomach with water
+preg: Avoid.
+lact: Avoid in first week postpartum.
+monitor:
+- Reaction after MDA
+advice:
+- Take with water on an empty stomach
+storage: Below 30°C.
+pearls:
+- Strongyloides hyperinfection risk before steroids in endemic areas — consider empirical ivermectin

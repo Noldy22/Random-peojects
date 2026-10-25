@@ -1,0 +1,1327 @@
+# Disease topics written for this app from STG/NEMLIT 6th Ed. (2021) structure, national programme
+# guidelines and standard references. These chapters are not covered by the 7th-Edition class notes,
+# so each one carries "source: stg2021" and must be cross-checked against the 7th Edition (2026).
+# Lists may contain "## Heading" items, rendered as sub-headings.
+
+=== disease: malaria-uncomplicated
+name: Uncomplicated Malaria
+category: Infectious Diseases
+stg: Ch. 5 — Malaria (§5.2.1)
+source: stg2021
+aka: malaria; homa ya malaria; P. falciparum; plasmodium
+summary: Symptomatic malaria without signs of severity or organ dysfunction. In Tanzania >95% is caused by Plasmodium falciparum, transmitted by female Anopheles mosquitoes. Every suspected case must be confirmed by mRDT or microscopy before treatment ("test, treat, track").
+causes:
+- Plasmodium falciparum (most), P. malariae, P. ovale; P. vivax is rare in Tanzania
+- Transmission by the bite of an infected female Anopheles mosquito (night biting)
+risk:
+- Children under 5, pregnant women, people living with HIV, non-immune travellers, sickle cell disease
+- No insecticide-treated net, living near breeding sites, rainy season
+features:
+- Fever or history of fever in the last 48 h, chills, rigors, sweating
+- Headache, body/joint pains, malaise, loss of appetite, nausea/vomiting, abdominal pain, diarrhoea (children)
+- Mild pallor, splenomegaly (in repeated infection)
+investigations:
+- Malaria rapid diagnostic test (mRDT) or blood slide microscopy — mandatory before treatment
+- Hb if pallor; glucose if unwell
+diagnosis: Fever + positive mRDT/blood slide, with NO danger signs and NO features of severe malaria.
+nonpharm:
+- Tepid sponging, oral fluids, continue feeding/breastfeeding
+- Insecticide-treated net every night; indoor residual spraying; remove standing water
+treatment:
+- ## First line (all ages ≥5 kg)
+- Artemether-lumefantrine (ALu 20/120 mg): 6 doses over 3 days (0, 8, 24, 36, 48, 60 h); 5–14 kg 1 tab, 15–24 kg 2 tabs, 25–34 kg 3 tabs, ≥35 kg 4 tabs per dose — take with fatty food or milk
+- ## Alternative
+- Dihydroartemisinin-piperaquine (DP) once daily for 3 days by weight (take without a fatty meal)
+- ## Symptomatic
+- Paracetamol 15 mg/kg every 6 hours (adults 1 g 8-hourly) for fever
+- ## Treatment failure
+- Returns within 14 days with positive test (and symptoms) → use alternative ACT (DP), consider severe malaria
+special:
+- Pregnancy: STG 2021 used oral quinine (10 mg/kg 8-hourly × 7 days) in the 1st trimester and ALu in 2nd/3rd; WHO 2022 now recommends ALu in all trimesters — confirm the 7th Edition position
+- Infants <5 kg: refer; HIV on co-trimoxazole: treat with ALu as normal; patients on efavirenz: monitor response
+complications:
+- Progression to severe malaria (cerebral malaria, severe anaemia, hypoglycaemia, acidosis, AKI), especially in children <5 and pregnancy
+danger:
+- Convulsions, unable to drink/breastfeed, vomiting everything, lethargy/unconsciousness, difficulty breathing, dark urine, jaundice, bleeding → severe malaria — give pre-referral artesunate and refer
+advice:
+- First ALu dose at the facility; complete all 6 doses even when you feel better
+- Take each dose with milk or fatty food; if vomiting within 30 minutes repeat the dose
+- Return immediately if danger signs appear or fever persists beyond 3 days
+- Sleep under an insecticide-treated net every night — especially children and pregnant women
+pearls:
+- Never treat without a positive test; a negative mRDT means look for other causes of fever
+- ALu needs fat for absorption; DP should be taken on an empty stomach
+- Pregnant women: IPTp with SP from 13 weeks at every ANC visit (except if on co-trimoxazole)
+drugs: artemether-lumefantrine, dihydroartemisinin-piperaquine, paracetamol, quinine, primaquine, sulfadoxine-pyrimethamine
+
+=== disease: malaria-severe
+name: Severe Malaria
+category: Infectious Diseases
+stg: Ch. 5 — Malaria (§5.2.2)
+source: stg2021
+aka: cerebral malaria; complicated malaria; malaria kali
+summary: P. falciparum infection with one or more features of organ dysfunction or high parasitaemia. It is a medical emergency with high mortality; parenteral artesunate is the treatment of choice in all age groups including pregnancy.
+causes:
+- Plasmodium falciparum (rarely P. vivax/knowlesi)
+risk:
+- Young children, pregnant women, non-immune adults, HIV, delay in treatment, incorrect treatment of uncomplicated malaria
+features:
+- Impaired consciousness/coma (cerebral malaria), prostration, multiple convulsions (>2 in 24 h)
+- Respiratory distress/acidotic breathing, circulatory collapse/shock, pulmonary oedema
+- Severe anaemia (Hb <5 g/dL children, <7 adults), hypoglycaemia (<2.2 mmol/L), jaundice, haemoglobinuria (dark urine)
+- Abnormal bleeding, AKI (creatinine >265 µmol/L), hyperparasitaemia (>10%)
+investigations:
+- mRDT/blood slide (parasite density), Hb/FBC, blood glucose (repeat 4-hourly), creatinine, electrolytes, lactate/blood gas, blood culture, LP if meningitis cannot be excluded, grouping and cross-match
+diagnosis: Positive malaria test + at least one WHO feature of severity.
+nonpharm:
+- ABC, recovery position, oxygen if SpO2 <94%, nasogastric feeding if unconscious
+- Careful fluid balance (avoid overload), catheterise to monitor urine output, nursing care of unconscious patient
+treatment:
+- ## Drug of choice
+- Artesunate IV/IM: ≥20 kg 2.4 mg/kg; <20 kg 3 mg/kg at 0, 12 and 24 hours, then once daily until able to take oral medication (minimum 3 doses/24 h)
+- Then complete a full 3-day course of ALu
+- ## Alternatives (if artesunate not available)
+- Artemether IM 3.2 mg/kg loading, then 1.6 mg/kg daily
+- Quinine IV 20 mg/kg loading in 5% dextrose over 4 h, then 10 mg/kg over 4 h every 8 hours (never IV bolus; monitor glucose)
+- ## Pre-referral (lower facilities)
+- Artesunate IM single dose, or rectal artesunate 10 mg/kg in children <6 years
+- ## Supportive
+- Hypoglycaemia: 10% dextrose 5 mL/kg IV (children) / 50% dextrose 25–50 mL (adults), then maintenance dextrose
+- Convulsions: diazepam 0.3 mg/kg IV or 0.5 mg/kg rectally; phenobarbital if persistent
+- Severe anaemia: transfuse packed cells 10 mL/kg (whole blood 20 mL/kg)
+- Fever: paracetamol; antibiotics (ceftriaxone) if bacterial co-infection suspected
+special:
+- Pregnancy: artesunate in ALL trimesters; watch for hypoglycaemia and pulmonary oedema; obstetric review
+complications:
+- Death, neurological sequelae, AKI, ARDS, post-artesunate delayed haemolysis (1–3 weeks)
+danger:
+- All features listed are danger signs — refer to hospital/ICU after pre-referral treatment
+advice:
+- Explain need to complete oral ACT after injections
+- Return for Hb check if pallor, tiredness or dark urine in the following weeks
+pearls:
+- Artesunate reduces mortality vs quinine (AQUAMAT/SEAQUAMAT) — first line
+- Steroids, heparin, mannitol and adrenaline are NOT recommended in cerebral malaria
+- Check glucose in every convulsing or unconscious child
+drugs: artesunate, quinine, artemether-lumefantrine, dextrose-50, diazepam, phenobarbital, paracetamol, ceftriaxone
+
+=== disease: hiv
+name: HIV and AIDS — Antiretroviral Therapy
+category: Infectious Diseases
+stg: Ch. 6 — HIV and AIDS (§6.1–6.7)
+source: stg2021
+aka: HIV; AIDS; ART; ARV; VVU; UKIMWI; PEP; PrEP
+summary: Chronic infection with HIV-1 causing progressive CD4 T-cell loss and opportunistic infections. Tanzania follows "test and treat": every person diagnosed with HIV is offered lifelong ART regardless of CD4, ideally the same day (rapid initiation) after counselling.
+causes:
+- HIV-1 transmitted through unprotected sex, mother-to-child (pregnancy, delivery, breastfeeding), blood and needle sharing
+risk:
+- Multiple partners, STIs, uncircumcised men, sex work, people who inject drugs, adolescent girls and young women, discordant couples
+features:
+- Acute: fever, sore throat, rash, lymphadenopathy (2–4 weeks after infection)
+- Chronic: weight loss, chronic diarrhoea, oral thrush, herpes zoster, recurrent pneumonia, TB, Kaposi sarcoma, cryptococcal meningitis, PCP (WHO stages 1–4)
+investigations:
+- HIV testing algorithm (two rapid tests; DNA PCR for infants <18 months)
+- Baseline: CD4 (advanced disease screening), HBsAg, creatinine/eGFR (for TDF), Hb, pregnancy test, TB screening, CrAg if CD4 <200
+- Monitoring: viral load at 6 and 12 months then yearly (more frequent in pregnancy/breastfeeding); target <50 copies/mL, failure >1000 copies/mL on two tests 3 months apart after adherence support
+diagnosis: Positive national HIV testing algorithm; virological failure = VL >1000 after enhanced adherence counselling.
+nonpharm:
+- Adherence counselling, disclosure support, nutrition support, condoms, partner/index testing, family planning
+treatment:
+- ## Preferred first line — adults, adolescents (≥30 kg) and pregnant women
+- TLD: tenofovir 300 mg + lamivudine 300 mg + dolutegravir 50 mg, one tablet once daily
+- Alternative: TDF/3TC/EFV (TLE) if DTG not suitable; ABC/3TC + DTG if eGFR <50
+- ## Children
+- ABC/3TC + DTG (paediatric DTG 10 mg dispersible for ≥4 weeks and ≥3 kg); weight-band dosing
+- ## Second line (after confirmed failure)
+- After DTG-based first line: AZT/3TC + ATV/r (or LPV/r) — guided by resistance testing where available
+- ## TB co-infection
+- Start ART within 2 weeks of TB treatment (4–8 weeks in TB meningitis); DTG 50 mg twice daily with rifampicin
+- ## Prophylaxis
+- Co-trimoxazole 960 mg daily (WHO stage 3/4 or CD4 ≤350); TB preventive therapy (3HP or 6H) once active TB excluded; fluconazole pre-emptive if CrAg positive
+- ## PEP (post-exposure)
+- Start within 72 hours (ideally <2 h): TLD once daily for 28 days; baseline and follow-up HIV tests
+- ## PrEP
+- TDF/FTC (or TDF/3TC) one tablet daily for people at substantial risk (protective after 7 days for receptive anal/vaginal sex per guideline)
+special:
+- PMTCT: all pregnant/breastfeeding women on lifelong TLD; infant prophylaxis NVP (± AZT for high-risk) for 6–12 weeks; DNA PCR at 6 weeks; breastfeed exclusively for 6 months
+- Cryptococcal meningitis: defer ART 4–6 weeks after antifungal start (IRIS risk)
+complications:
+- Opportunistic infections, IRIS after starting ART, drug resistance, HIV-associated cancers, cardiovascular/metabolic disease
+danger:
+- Severe headache/neck stiffness, breathlessness, persistent fever, confusion, severe skin rash after starting drugs → urgent review
+advice:
+- Take ART every day at the same time for life; use phone alarm; never share or stop
+- Keep antacids, iron, calcium and zinc 2 h after or 6 h before TLD
+- U=U: an undetectable viral load means HIV is not transmitted sexually
+- Use condoms to prevent other STIs; family planning (efavirenz reduces implant effectiveness)
+- Report insomnia, rash, jaundice, mood changes; attend viral load checks
+- Disclose to a trusted person/treatment supporter
+pearls:
+- DTG + rifampicin → DTG 50 mg BD; DTG + metformin → max metformin 1 g/day; DTG + polyvalent cations → separate
+- EFV ↓ levonorgestrel implant; rifampicin ↓ all hormonal methods except DMPA
+- Women on co-trimoxazole do not receive SP for IPTp
+drugs: tld, efavirenz, zidovudine, abacavir, lopinavir-ritonavir, atazanavir-ritonavir, nevirapine, cotrimoxazole, isoniazid, pyridoxine, fluconazole
+
+=== disease: tuberculosis
+name: Tuberculosis (Drug-Susceptible)
+category: Infectious Diseases
+stg: Ch. 7 — Tuberculosis & Leprosy (§7.1)
+source: stg2021
+aka: TB; kifua kikuu; pulmonary TB; PTB; extrapulmonary TB; TB meningitis
+summary: Infection with Mycobacterium tuberculosis, spread by airborne droplets. Tanzania is a high TB/HIV-burden country. Drug-susceptible TB is cured with 6 months of four-drug therapy given under directly observed treatment (DOT).
+causes:
+- Mycobacterium tuberculosis (airborne transmission from people with pulmonary TB)
+risk:
+- HIV (strongest), diabetes, malnutrition, close contact with a TB patient, crowded settings (prisons, mines), smoking, alcohol, silicosis, steroids/immunosuppression, children <5
+features:
+- Cough ≥2 weeks (any duration in PLHIV), fever, night sweats, weight loss, haemoptysis, chest pain
+- Children: failure to thrive, persistent fever, lymphadenopathy, contact history
+- Extrapulmonary: lymph nodes, pleura, spine (Pott's), meninges, abdomen, pericardium
+investigations:
+- GeneXpert MTB/RIF (Xpert Ultra) on sputum — first-line test (also detects rifampicin resistance); smear microscopy
+- Urine LF-LAM in PLHIV with advanced disease; chest X-ray; culture/DST; HIV test for all; blood glucose
+diagnosis: Bacteriologically confirmed (Xpert/smear/culture) or clinically diagnosed TB.
+nonpharm:
+- Cough hygiene, ventilation, masks for infectious patients; nutritional support
+- Contact tracing and screening of household members; TPT for eligible contacts
+treatment:
+- ## Adults: 2RHZE / 4RH (6 months)
+- Intensive phase 2 months: RHZE FDC (150/75/400/275) by weight — 30–39 kg 2 tabs; 40–54 kg 3; 55–70 kg 4; >70 kg 5, once daily
+- Continuation 4 months: RH (150/75) same number of tablets by weight
+- ## Children
+- Paediatric dispersible RHZ (75/50/150) ± E (100 mg) for 2 months, then RH (75/50) for 4 months; non-severe TB may be 4 months (2HRZ(E)/2HR) per WHO
+- ## TB meningitis and bone/joint TB
+- 2RHZE / 10RH plus dexamethasone/prednisolone (TB meningitis, pericarditis)
+- ## Adjuncts
+- Pyridoxine 25 mg daily (HIV, diabetes, pregnancy, malnutrition, alcohol)
+- ## TB preventive therapy (TPT)
+- 3HP (rifapentine + isoniazid weekly × 12) or 6H (isoniazid daily × 6 months) for PLHIV and contacts once active TB excluded
+- ## Drug-resistant TB
+- Rifampicin resistance on Xpert → refer to DR-TB centre (all-oral regimens such as BPaLM: bedaquiline, pretomanid, linezolid, moxifloxacin)
+special:
+- HIV: start ART within 2 weeks (TB meningitis 4–8 weeks); DTG twice daily; co-trimoxazole
+- Women: rifampicin reduces pills/implants — use DMPA or IUD
+- Pregnancy and breastfeeding: first-line drugs are safe; give pyridoxine
+complications:
+- Drug-induced hepatitis, IRIS, MDR-TB from poor adherence, haemoptysis, bronchiectasis, death
+danger:
+- Jaundice/persistent vomiting on treatment (hepatitis), massive haemoptysis, breathlessness, confusion → urgent
+advice:
+- Take all tablets once daily, every day, for the full 6 months — even when you feel well
+- Orange/red urine, tears and sweat are expected
+- Report yellow eyes, vomiting, numb/tingling feet, blurred vision
+- Cover your mouth when coughing; open windows; bring household members for screening
+- Avoid alcohol; eat well; women use DMPA/IUD/condoms
+pearls:
+- Monitoring: sputum at end of month 2, 5 and 6; weigh monthly and adjust dose
+- Hepatotoxic: isoniazid, rifampicin, pyrazinamide; ethambutol → optic neuritis
+- Rifampicin is a powerful enzyme inducer — check every co-prescribed drug
+drugs: rhze, isoniazid, pyridoxine, tld, cotrimoxazole, dexamethasone, prednisolone
+
+=== disease: pneumonia
+name: Pneumonia (Children and Adults)
+category: Respiratory
+stg: Ch. 9 — Respiratory (§9.1.1)
+source: stg2021
+aka: community-acquired pneumonia; CAP; lower respiratory tract infection; nimonia; homa ya mapafu
+summary: Acute infection of the lung parenchyma. In children it is the leading infectious cause of death; IMCI classification by respiratory rate, chest indrawing and danger signs guides treatment. In adults, most community-acquired pneumonia is due to Streptococcus pneumoniae.
+causes:
+- S. pneumoniae (commonest), H. influenzae, S. aureus, Mycoplasma/Chlamydophila (atypical), viruses (RSV, influenza)
+- PLHIV: PCP (Pneumocystis), TB
+risk:
+- Malnutrition, HIV, no immunisation (PCV, Hib, measles), indoor smoke, smoking, COPD, sickle cell disease, elderly
+features:
+- Cough, fever, fast breathing, chest indrawing, crackles, bronchial breathing, pleuritic chest pain
+- Fast breathing (children): <2 months ≥60/min; 2–12 months ≥50/min; 1–5 years ≥40/min
+- Danger signs: unable to drink, vomiting everything, convulsions, lethargy, stridor, central cyanosis, SpO2 <90%
+investigations:
+- Pulse oximetry; CXR if severe or not responding; FBC; blood culture (severe); sputum Xpert if cough ≥2 weeks/HIV; malaria test; HIV test
+- Adults: CURB-65 (confusion, urea >7, RR ≥30, BP <90/60, age ≥65) to assess severity
+diagnosis: Clinical (IMCI in children); radiological confirmation in adults where available.
+nonpharm:
+- Oxygen if SpO2 <90% (children) or <94% (adults); fluids and feeding; antipyretics; keep warm (infants)
+treatment:
+- ## Children — pneumonia (fast breathing and/or chest indrawing, no danger signs)
+- Amoxicillin dispersible tablets 40 mg/kg/dose twice daily for 5 days (3 days for fast breathing only in some guidelines)
+- ## Children — severe pneumonia (any danger sign)
+- Benzylpenicillin 50,000 IU/kg (or ampicillin 50 mg/kg) IV/IM 6-hourly + gentamicin 7.5 mg/kg IV/IM once daily for 5 days; ceftriaxone 80–100 mg/kg daily if no improvement in 48 h
+- Suspected staphylococcal pneumonia: cloxacillin + gentamicin
+- ## Adults — non-severe CAP
+- Amoxicillin 1 g every 8 hours for 5 days (add doxycycline 100 mg BD or azithromycin if atypical suspected); penicillin allergy: doxycycline or azithromycin
+- ## Adults — severe CAP
+- Ceftriaxone 1–2 g IV daily + azithromycin 500 mg daily (or erythromycin), switch to oral when improving (total 5–7 days)
+- ## HIV with suspected PCP
+- High-dose co-trimoxazole 21 days + prednisolone if hypoxic
+special:
+- Infants <2 months with pneumonia = possible serious bacterial infection → ampicillin + gentamicin, refer
+complications:
+- Empyema, lung abscess, sepsis, respiratory failure, pleural effusion
+danger:
+- Danger signs, SpO2 <90%, CURB-65 ≥2, failure to improve after 48 h → hospital
+advice:
+- Give amoxicillin twice daily for the full 5 days; continue breastfeeding and fluids
+- Return immediately if the child cannot drink, breathing becomes harder/faster, or lips turn blue
+- Vaccination (PCV, Hib, measles) and avoiding indoor smoke prevent pneumonia
+pearls:
+- IMCI: amoxicillin DT is first line for child pneumonia (oral) — benzylpenicillin/ampicillin + gentamicin for severe
+- Ciprofloxacin is not appropriate for community pneumonia
+drugs: amoxicillin, benzylpenicillin, ampicillin, gentamicin, ceftriaxone, azithromycin, doxycycline, erythromycin, cloxacillin, cotrimoxazole, prednisolone, paracetamol
+
+=== disease: uti
+name: Urinary Tract Infection
+category: Renal & Urology
+stg: Ch. 21 (§21.10)
+source: stg2021
+aka: UTI; cystitis; pyelonephritis; bladder infection; maambukizi ya njia ya mkojo
+summary: Bacterial infection of the urinary tract — lower (cystitis) or upper (pyelonephritis). Most commonly E. coli ascending from the perineum. Complicated UTI includes men, pregnancy, catheters, obstruction, diabetes and immunosuppression.
+causes:
+- E. coli (~80%), Klebsiella, Proteus, Enterococcus, Staphylococcus saprophyticus
+risk:
+- Female sex, sexual activity, pregnancy, diabetes, catheters, obstruction (BPH, stones), schistosomiasis, spermicides
+features:
+- Cystitis: dysuria, frequency, urgency, suprapubic pain, cloudy/smelly urine, haematuria
+- Pyelonephritis: fever, rigors, loin pain, nausea/vomiting, renal angle tenderness
+- Elderly: confusion; infants: fever, poor feeding, vomiting
+investigations:
+- Urine dipstick (nitrites, leucocytes), microscopy, culture and sensitivity (always in men, pregnancy, children, pyelonephritis, recurrence)
+- FBC, creatinine, blood culture (pyelonephritis); ultrasound if recurrent/complicated
+diagnosis: Symptoms + positive dipstick/microscopy; culture ≥10⁵ CFU/mL.
+nonpharm:
+- Increase fluid intake; void regularly and after intercourse; wipe front to back
+treatment:
+- ## Uncomplicated cystitis (non-pregnant women)
+- Nitrofurantoin 100 mg twice daily for 5 days (first choice); alternatives co-trimoxazole 960 mg BD for 3 days (if local sensitivity) or ciprofloxacin 250–500 mg BD for 3 days
+- ## Pregnancy (including asymptomatic bacteriuria)
+- Nitrofurantoin (avoid at term) or amoxicillin/co-amoxiclav per culture for 7 days; never ciprofloxacin or doxycycline
+- ## Acute pyelonephritis
+- Ceftriaxone 1–2 g IV daily (or gentamicin 5–7 mg/kg daily), then oral ciprofloxacin 500 mg BD to complete 7–14 days (per culture)
+- ## Men / complicated UTI
+- 7–14 days, culture-guided; consider prostatitis (ciprofloxacin 2–4 weeks)
+special:
+- Children: amoxicillin-clavulanate or cefixime orally; IV ceftriaxone/gentamicin if unwell; investigate after first febrile UTI
+complications:
+- Pyelonephritis, urosepsis, renal abscess, preterm labour in pregnancy, renal scarring in children
+danger:
+- High fever, rigors, vomiting, hypotension, confusion → urosepsis, refer
+advice:
+- Finish the antibiotic course; drink plenty of water
+- Nitrofurantoin turns urine brown and should be taken with food
+- Return if fever, back pain or vomiting develop
+pearls:
+- Nitrofurantoin is ineffective for pyelonephritis and when eGFR <45
+- Haematuria in a young person from a lake region → think Schistosoma haematobium
+drugs: nitrofurantoin, cotrimoxazole, ciprofloxacin, amoxicillin-clavulanate, amoxicillin, ceftriaxone, gentamicin, cefixime
+
+=== disease: typhoid
+name: Typhoid and Paratyphoid Fever
+category: Infectious Diseases
+stg: Ch. 10 (§10.1.10)
+source: stg2021
+aka: enteric fever; typhoid; homa ya matumbo; Salmonella Typhi
+summary: Systemic infection by Salmonella enterica serovar Typhi or Paratyphi, spread faeco-orally through contaminated food and water. Widal test is unreliable; blood culture is the diagnostic standard.
+causes:
+- Salmonella Typhi and Paratyphi A/B/C (faeco-oral, contaminated water/food, carriers)
+risk:
+- Unsafe water, poor sanitation, eating street food prepared unhygienically, household carriers
+features:
+- Step-ladder fever, headache, malaise, abdominal pain, constipation or diarrhoea, relative bradycardia
+- Coated tongue, hepatosplenomegaly, rose spots (rare); confusion in severe cases
+investigations:
+- Blood culture (first week; best), stool/urine culture (later), bone marrow culture; FBC (leucopenia); malaria test to exclude
+- Widal test is NOT recommended for diagnosis (poor specificity)
+diagnosis: Clinical + positive culture.
+nonpharm:
+- Fluids, nutrition; safe water (boil/treat), hand washing, food hygiene; exclude carriers from food handling
+treatment:
+- ## Uncomplicated
+- Ciprofloxacin 500 mg twice daily for 7–14 days (if sensitive), OR azithromycin 20 mg/kg (max 1 g) once daily for 7 days, OR cefixime 10–20 mg/kg/day (adults 200 mg BD) for 7–14 days
+- ## Severe (unable to take oral, complications)
+- Ceftriaxone 2 g IV daily (children 75–100 mg/kg/day) for 10–14 days
+- Dexamethasone in severe typhoid with delirium/shock (3 mg/kg then 1 mg/kg 6-hourly × 8 doses)
+special:
+- Pregnancy and children: azithromycin or ceftriaxone (avoid ciprofloxacin where possible)
+complications:
+- Intestinal perforation and haemorrhage (2nd–3rd week), encephalopathy, myocarditis, chronic carrier state (gallbladder)
+danger:
+- Severe abdominal pain, distension, GI bleeding, confusion → surgical/medical emergency
+advice:
+- Complete the antibiotic course; wash hands with soap after toilet and before handling food
+- Drink boiled or treated water
+pearls:
+- Fluoroquinolone resistance is increasing — azithromycin/ceftriaxone are important alternatives
+drugs: ciprofloxacin, azithromycin, cefixime, ceftriaxone, dexamethasone, paracetamol
+
+=== disease: cholera
+name: Cholera
+category: Infectious Diseases
+stg: Ch. 4 — Notifiable Diseases (§4.1.1)
+source: stg2021
+aka: cholera; kipindupindu; acute watery diarrhoea; rice-water stool
+summary: Acute secretory diarrhoeal illness caused by toxigenic Vibrio cholerae O1/O139. It can kill within hours from dehydration. It is a notifiable disease in Tanzania — report immediately. Rehydration is the cornerstone; antibiotics shorten illness and shedding.
+causes:
+- Vibrio cholerae (toxin activates adenylate cyclase → massive chloride and water secretion)
+risk:
+- Unsafe water, poor sanitation, outbreaks during floods/rainy season, crowding
+features:
+- Sudden profuse painless watery "rice-water" stools, vomiting, rapid dehydration, muscle cramps, hypovolaemic shock
+investigations:
+- Rapid diagnostic test, stool culture (outbreak confirmation), electrolytes, glucose
+diagnosis: Acute watery diarrhoea in an outbreak setting (WHO case definition) ± laboratory confirmation.
+nonpharm:
+- Isolation in cholera treatment centre/unit, chlorinated water, hygiene, safe disposal of excreta, notify authorities
+treatment:
+- ## Rehydration (WHO plans)
+- No dehydration: ORS after each loose stool (Plan A)
+- Some dehydration: ORS 75 mL/kg over 4 hours (Plan B)
+- Severe dehydration: Ringer's lactate 100 mL/kg IV — adults/children >1 year 30 mL/kg in 30 minutes then 70 mL/kg in 2.5 hours (infants: 1 hour then 5 hours) (Plan C)
+- ## Antibiotics (moderate–severe dehydration)
+- Adults: doxycycline 300 mg single dose (first line)
+- Children and pregnant women: azithromycin 20 mg/kg (max 1 g) single dose; alternative ciprofloxacin
+- ## Zinc
+- Children <5 years: zinc 10–20 mg daily for 10 days
+special:
+- Pregnancy: azithromycin; severe dehydration risks fetal loss — rehydrate aggressively
+complications:
+- Hypovolaemic shock, AKI, hypokalaemia, hypoglycaemia (children), death
+danger:
+- Lethargy, sunken eyes, unable to drink, weak/absent pulse → severe dehydration — IV fluids now
+advice:
+- Start ORS at home immediately; continue breastfeeding
+- Boil or chlorinate water; wash hands with soap; use latrines; cook food well and eat it hot
+pearls:
+- Antibiotics are adjuncts — fluids save lives
+- Notifiable disease: report immediately
+drugs: ors, doxycycline, azithromycin, ciprofloxacin, zinc
+
+=== disease: childhood-diarrhoea
+name: Acute Diarrhoea and Dehydration in Children
+category: Paediatrics
+stg: Ch. 1 (§1.17), Ch. 10; IMCI
+source: stg2021
+aka: diarrhoea in children; gastroenteritis; dehydration; kuharisha kwa watoto
+summary: Three or more loose stools in 24 hours. Most childhood diarrhoea is viral (rotavirus) and self-limiting; death is from dehydration. Management is classified by dehydration (no / some / severe) and the presence of blood (dysentery) or persistence (>14 days).
+causes:
+- Rotavirus and other viruses (most), E. coli, Shigella (bloody), Vibrio cholerae, Giardia, Entamoeba, Cryptosporidium (HIV)
+risk:
+- Unsafe water, poor hygiene, no breastfeeding, malnutrition, HIV, measles, no rotavirus vaccine
+features:
+- No dehydration: alert, drinks normally
+- Some dehydration (≥2): restless/irritable, sunken eyes, drinks eagerly, skin pinch goes back slowly
+- Severe dehydration (≥2): lethargic/unconscious, sunken eyes, unable to drink/drinks poorly, skin pinch goes back very slowly (>2 s)
+investigations:
+- Usually none; stool microscopy if bloody or persistent; malaria test if febrile; glucose and electrolytes if severe; HIV test if persistent
+diagnosis: IMCI dehydration classification.
+nonpharm:
+- Continue breastfeeding and feeding; hand washing; safe water; exclusive breastfeeding to 6 months; rotavirus vaccine
+treatment:
+- ## Plan A (no dehydration)
+- ORS after each loose stool: <2 years 50–100 mL; 2–10 years 100–200 mL; + zinc for 10 days (<6 months 10 mg; ≥6 months 20 mg)
+- ## Plan B (some dehydration)
+- ORS 75 mL/kg over 4 hours at the facility, then reassess; zinc
+- ## Plan C (severe dehydration)
+- Ringer's lactate (or normal saline) 100 mL/kg IV: infants <12 months 30 mL/kg over 1 h then 70 mL/kg over 5 h; ≥12 months 30 mL/kg over 30 min then 70 mL/kg over 2.5 h; NG ORS 20 mL/kg/h if IV impossible
+- Severe acute malnutrition: use ReSoMal and slower rates (no rapid IV unless shock)
+- ## Dysentery (blood in stool)
+- Ciprofloxacin 15 mg/kg twice daily for 3 days (Shigella); amoebiasis only if trophozoites seen (metronidazole)
+- ## Avoid
+- Antidiarrhoeals (loperamide) and antiemetics in children; antibiotics for watery diarrhoea (except cholera)
+special:
+- Persistent diarrhoea (>14 days): nutritional rehabilitation, look for HIV, giardiasis
+complications:
+- Hypovolaemic shock, AKI, electrolyte disturbance, malnutrition
+danger:
+- Lethargy, unable to drink, blood in stool, convulsions, very sunken eyes → urgent
+advice:
+- Mix ORS with the correct amount of clean water; give small sips with a cup and spoon
+- Give zinc daily for 10 days even after diarrhoea stops
+- Continue breastfeeding and normal food; return for danger signs
+pearls:
+- ORS + zinc + continued feeding is the core of IMCI diarrhoea management
+drugs: ors, zinc, ciprofloxacin, metronidazole, paracetamol
+
+=== disease: intestinal-parasites
+name: Intestinal Parasites (Amoebiasis, Giardiasis, Helminths, Schistosomiasis)
+category: Infectious Diseases
+stg: Ch. 10 (§10.1.1–10.1.9)
+source: stg2021
+aka: worms; minyoo; amoebiasis; amoebic dysentery; giardiasis; hookworm; roundworm; ascaris; schistosomiasis; bilharzia; kichocho; tapeworm
+summary: Protozoal and helminthic infections of the gut acquired through contaminated food, water, soil or fresh water. They cause dysentery, malabsorption, iron-deficiency anaemia (hookworm), growth faltering and, for schistosomiasis, haematuria, bladder and liver disease.
+causes:
+- Protozoa: Entamoeba histolytica, Giardia lamblia
+- Soil-transmitted helminths: Ascaris, hookworm (Necator/Ancylostoma), Trichuris, Strongyloides, Enterobius
+- Schistosoma haematobium (urinary) and S. mansoni (intestinal) — fresh water with snails (Lake Victoria, Lake zones)
+- Taenia (undercooked pork/beef)
+risk:
+- Poor sanitation, walking barefoot, contaminated water, swimming/washing in lakes and rivers, school-age children
+features:
+- Amoebiasis: bloody mucoid diarrhoea, abdominal pain; liver abscess — fever, RUQ pain, tender hepatomegaly
+- Giardiasis: greasy foul-smelling diarrhoea, bloating, weight loss
+- Hookworm: iron deficiency anaemia; Ascaris: abdominal pain, worms in stool, obstruction
+- S. haematobium: terminal haematuria; S. mansoni: abdominal pain, bloody diarrhoea, hepatosplenomegaly, portal hypertension
+investigations:
+- Stool microscopy (ova, cysts, trophozoites); urine microscopy (S. haematobium eggs, midday sample); FBC (eosinophilia, anaemia); ultrasound for liver abscess
+diagnosis: Microscopy; empirical treatment in mass drug administration programmes.
+nonpharm:
+- Latrines, hand washing, wearing shoes, safe water, avoid fresh-water contact, cook meat well
+treatment:
+- ## Amoebiasis (intestinal and liver abscess)
+- Metronidazole 800 mg three times daily for 5 days (children 10–15 mg/kg 8-hourly); liver abscess 7–10 days; or tinidazole 2 g daily for 3 days
+- ## Giardiasis
+- Metronidazole 2 g once daily for 3 days (or 400 mg TDS for 5 days), or tinidazole 2 g single dose
+- ## Soil-transmitted helminths
+- Albendazole 400 mg single dose (200 mg for 12–24 months) or mebendazole 500 mg single dose; pinworm repeat after 2 weeks
+- Strongyloidiasis: ivermectin 200 mcg/kg daily for 1–2 days
+- ## Schistosomiasis
+- Praziquantel 40 mg/kg single dose (repeat in 4–6 weeks in heavy exposure)
+- ## Taeniasis
+- Praziquantel 5–10 mg/kg single dose
+special:
+- Pregnancy: avoid albendazole/mebendazole in 1st trimester; praziquantel may be given
+complications:
+- Amoebic liver abscess rupture, iron-deficiency anaemia, intestinal obstruction (Ascaris), bladder cancer and hydronephrosis (S. haematobium), periportal fibrosis (S. mansoni)
+danger:
+- High fever with RUQ pain, abdominal distension with vomiting, heavy haematuria → refer
+advice:
+- Take praziquantel with food; metronidazole — no alcohol
+- Deworming every 6 months for children; avoid swimming/bathing in lakes and slow rivers
+pearls:
+- Hookworm → iron deficiency anaemia: treat both worm and iron deficiency
+- Mebendazole given together with metronidazole has been linked to Stevens–Johnson syndrome — avoid co-administration
+drugs: metronidazole, tinidazole, albendazole, mebendazole, ivermectin, praziquantel, ferrous-sulfate
+
+=== disease: meningitis
+name: Meningitis (Bacterial & Cryptococcal)
+category: Neurology
+stg: Ch. 4 (§4.1.4), Ch. 8 (§8.1.1–8.1.2)
+source: stg2021
+aka: bacterial meningitis; cerebrospinal meningitis; CSM; cryptococcal meningitis; homa ya uti wa mgongo
+summary: Inflammation of the meninges. Bacterial meningitis (pneumococcus, meningococcus, H. influenzae; GBS/E. coli/Listeria in neonates) is a medical emergency — give antibiotics within an hour. Cryptococcal meningitis is the commonest meningitis in adults with advanced HIV.
+causes:
+- Bacterial: S. pneumoniae, N. meningitidis, H. influenzae type b; neonates: group B Strep, E. coli, Listeria
+- Fungal: Cryptococcus neoformans (HIV with CD4 <100–200)
+- TB meningitis (subacute)
+risk:
+- HIV, sickle cell disease/asplenia, crowding (meningococcal), head injury, no Hib/PCV vaccination
+features:
+- Fever, severe headache, neck stiffness, photophobia, vomiting, altered consciousness, seizures
+- Petechial/purpuric rash (meningococcal); infants: bulging fontanelle, irritability, poor feeding
+- Cryptococcal: subacute headache (often weeks), raised ICP, visual loss
+investigations:
+- Lumbar puncture (unless contraindicated): opening pressure, cell count, protein, glucose, Gram stain, culture, CrAg, India ink, Xpert for TB
+- Blood culture, malaria test, glucose, HIV test; serum CrAg in PLHIV with CD4 <200
+diagnosis: CSF analysis; serum/CSF CrAg for cryptococcal meningitis.
+nonpharm:
+- ABC, manage seizures, treat raised ICP (cryptococcal: therapeutic LPs to keep pressure <20 cmH2O), fluids, notification (meningococcal)
+treatment:
+- ## Bacterial — adults
+- Ceftriaxone 2 g IV every 12 hours for 10–14 days (meningococcal 5–7 days); add ampicillin if Listeria suspected (elderly/immunosuppressed)
+- Dexamethasone 0.15 mg/kg IV 6-hourly for 4 days, starting before or with the first antibiotic dose (not in HIV-associated or neonatal)
+- ## Bacterial — children
+- Ceftriaxone 100 mg/kg/day (max 4 g) IV once daily or divided, for 10 days
+- Neonates: ampicillin + gentamicin (or cefotaxime) for 14–21 days
+- ## Epidemic meningococcal (when ceftriaxone not available)
+- Oily chloramphenicol or ceftriaxone single-dose regimens per outbreak guideline
+- ## Cryptococcal meningitis (WHO 2022)
+- Induction: single high-dose liposomal amphotericin B 10 mg/kg + flucytosine 100 mg/kg/day + fluconazole 1200 mg/day for 14 days
+- Alternative: amphotericin B deoxycholate 1 mg/kg/day + flucytosine for 7 days, then fluconazole 1200 mg/day for 7 days; or fluconazole 1200 mg + flucytosine for 14 days
+- Consolidation: fluconazole 800 mg daily for 8 weeks; maintenance 200 mg daily until CD4 >200 on ART (≥1 year)
+- Start ART 4–6 weeks after antifungal therapy
+- ## Prophylaxis of contacts (meningococcal)
+- Ciprofloxacin 500 mg single dose (adults) or ceftriaxone 250 mg IM
+special:
+- Amphotericin: pre-hydrate with saline + potassium, monitor creatinine/K+/Mg2+
+complications:
+- Deafness, seizures, hydrocephalus, cognitive impairment, death; IRIS in cryptococcal meningitis
+danger:
+- Decreasing consciousness, seizures, purpuric rash, shock → emergency
+advice:
+- Close contacts of meningococcal disease need prophylaxis
+- Hearing test after bacterial meningitis in children
+pearls:
+- Do not delay antibiotics for LP or imaging in suspected bacterial meningitis
+- Delay ART in cryptococcal meningitis (COAT trial) to reduce mortality
+drugs: ceftriaxone, ampicillin, gentamicin, dexamethasone, chloramphenicol, amphotericin-b, fluconazole, ciprofloxacin, benzylpenicillin
+
+=== disease: sti-urethral-vaginal
+name: STIs — Urethral & Vaginal Discharge, PID (Syndromic Management)
+category: Sexual & Reproductive Health
+stg: Ch. 12 — STIs (§12.2–12.4)
+source: stg2021
+aka: STI; sexually transmitted infection; gonorrhoea; chlamydia; trichomoniasis; bacterial vaginosis; candidiasis; PID; urethral discharge syndrome; UDS; vaginal discharge syndrome; VDS; kisonono; magonjwa ya zinaa
+summary: Tanzania uses syndromic management — treating all likely organisms for a syndrome at the first visit, plus partner notification, condom promotion and HIV testing ("4 Cs": Compliance, Counselling, Condoms, Contact tracing).
+causes:
+- Urethral discharge: Neisseria gonorrhoeae, Chlamydia trachomatis (also Mycoplasma genitalium, Trichomonas)
+- Vaginal discharge: vaginitis (Trichomonas vaginalis, bacterial vaginosis, Candida) and cervicitis (gonorrhoea, chlamydia)
+- PID: gonorrhoea, chlamydia, anaerobes
+risk:
+- Multiple partners, unprotected sex, young age, sex work, previous STI, HIV
+features:
+- Urethral discharge: discharge from urethra, dysuria
+- Vaginal discharge: abnormal colour/odour/amount, itching (candida — curd-like; trichomonas — frothy yellow-green; BV — grey fishy-smelling)
+- PID: lower abdominal pain, fever, cervical motion tenderness, dyspareunia
+investigations:
+- Syndromic diagnosis; speculum exam; HIV test, syphilis test (RPR/rapid), pregnancy test (PID); Gram stain/NAAT where available
+diagnosis: Syndrome flow charts (STG §12.11).
+nonpharm:
+- Abstain from sex until treatment complete and partners treated; condoms; partner notification slips
+treatment:
+- ## Urethral discharge syndrome (and cervicitis)
+- Ceftriaxone 250–500 mg IM single dose (or cefixime 400 mg orally) PLUS azithromycin 1 g orally single dose (or doxycycline 100 mg BD for 7 days)
+- ## Vaginal discharge — vaginitis
+- Metronidazole 2 g orally single dose (or 400–500 mg BD for 7 days) for trichomonas/BV
+- PLUS clotrimazole 500 mg vaginal pessary single dose (or fluconazole 150 mg oral) if candida features
+- ## Lower abdominal pain / PID (outpatient)
+- Ceftriaxone 250 mg IM single dose + doxycycline 100 mg BD for 14 days + metronidazole 400–500 mg BD for 14 days
+- Severe/pregnant/unable to take oral: admit — IV ceftriaxone/gentamicin + metronidazole
+- ## Pregnancy
+- Replace doxycycline with azithromycin 1 g (or erythromycin); clotrimazole rather than oral fluconazole
+special:
+- Neonatal conjunctivitis (ophthalmia neonatorum): ceftriaxone 50 mg/kg IM single dose (max 125 mg) + treat mother and partner
+complications:
+- Infertility, ectopic pregnancy, chronic pelvic pain, epididymo-orchitis, increased HIV transmission, neonatal infection
+danger:
+- Fever, severe abdominal pain, missed period (ectopic), pelvic mass → refer
+advice:
+- Take all medicines even if symptoms go; no alcohol with metronidazole
+- Bring/refer all sexual partners from the last 2–3 months for treatment
+- Use condoms every time; get tested for HIV and syphilis
+pearls:
+- Doxycycline is contraindicated in pregnancy — use azithromycin
+- An IUD does not need to be removed in PID if the woman improves within 72 hours of treatment
+- Check the current national STI guideline: ceftriaxone dose has moved from 250 mg to 500 mg internationally due to resistance
+drugs: ceftriaxone, cefixime, azithromycin, doxycycline, metronidazole, clotrimazole, fluconazole, erythromycin, gentamicin
+
+=== disease: genital-ulcer-syphilis
+name: Genital Ulcer Disease & Syphilis
+category: Sexual & Reproductive Health
+stg: Ch. 12 (§12.8, §12.10)
+source: stg2021
+aka: GUD; genital ulcer; syphilis; chancre; chancroid; genital herpes; LGV; inguinal bubo; kaswende
+summary: Genital ulcers are mainly due to herpes simplex virus (commonest), Treponema pallidum (syphilis) and Haemophilus ducreyi (chancroid). Syndromic treatment covers syphilis plus herpes; antenatal syphilis screening prevents congenital syphilis.
+causes:
+- HSV-2 (painful vesicles/ulcers), T. pallidum (painless indurated chancre), H. ducreyi (painful ragged ulcer + bubo), Chlamydia LGV serovars (bubo)
+risk:
+- Unprotected sex, multiple partners, HIV
+features:
+- Genital ulcer(s), inguinal lymphadenopathy/bubo
+- Secondary syphilis: rash on palms/soles, condylomata lata, mucous patches, fever
+- Latent syphilis: no symptoms (positive serology)
+investigations:
+- Syphilis serology (rapid treponemal test, RPR/VDRL titre), HIV test; dark-field microscopy where available
+diagnosis: Syndromic + serology.
+nonpharm:
+- Keep ulcers clean and dry; abstain until healed; partner treatment; condoms
+treatment:
+- ## Genital ulcer syndrome
+- Benzathine benzylpenicillin 2.4 MU IM single dose (syphilis) PLUS acyclovir 400 mg TDS for 7 days (HSV)
+- Add azithromycin 1 g single dose (or ciprofloxacin) if chancroid suspected
+- Penicillin allergy (non-pregnant): doxycycline 100 mg BD for 14 days
+- ## Late latent syphilis / unknown duration
+- Benzathine penicillin 2.4 MU IM weekly for 3 weeks
+- ## Inguinal bubo
+- Doxycycline 100 mg BD for 21 days (LGV) + azithromycin/ciprofloxacin (chancroid); aspirate fluctuant nodes (do not incise)
+- ## Syphilis in pregnancy
+- Benzathine penicillin — the only drug that reliably treats the fetus; treat partner; infant follow-up
+special:
+- Neurosyphilis: benzylpenicillin IV 10–14 days
+complications:
+- Congenital syphilis, neurosyphilis, cardiovascular syphilis, increased HIV acquisition/transmission, recurrent herpes
+danger:
+- Jarisch–Herxheimer reaction (fever, chills in first 24 h) — reassure, paracetamol
+advice:
+- Abstain until ulcers heal; partners must be treated
+- Herpes can recur; condoms reduce transmission; treat early in outbreaks
+pearls:
+- Every pregnant woman should be screened for syphilis at the first ANC visit
+- Benzathine penicillin is NEVER given IV
+drugs: benzathine-penicillin, acyclovir, azithromycin, doxycycline, ciprofloxacin, benzylpenicillin, paracetamol
+
+=== disease: skin-infections
+name: Common Skin Infections (Impetigo, Cellulitis, Abscess, Tinea, Scabies)
+category: Dermatology
+stg: Ch. 13 — Skin (§13.1–13.3)
+source: stg2021
+aka: impetigo; cellulitis; erysipelas; abscess; boil; tinea; ringworm; mba; scabies; upele; fungal skin infection
+summary: Bacterial (S. aureus, Streptococcus pyogenes), fungal (dermatophytes, Candida, Malassezia) and parasitic (Sarcoptes scabiei) skin infections are among the commonest reasons for clinic visits. Treat the infection, the household (scabies) and contributing factors (diabetes, HIV).
+causes:
+- Impetigo/abscess: S. aureus, Strep pyogenes; cellulitis/erysipelas: Strep pyogenes (± S. aureus)
+- Tinea corporis/capitis/pedis/cruris: dermatophytes; pityriasis versicolor: Malassezia
+- Scabies: Sarcoptes scabiei mite (close contact)
+risk:
+- Crowding, poor hygiene, skin trauma, eczema, diabetes, HIV, malnutrition, sharing combs (tinea capitis)
+features:
+- Impetigo: honey-crusted lesions (face, limbs)
+- Cellulitis: spreading red, warm, tender, swollen skin ± fever; erysipelas: sharply demarcated, raised
+- Abscess: fluctuant painful swelling
+- Tinea: annular scaly lesions with active edge and central clearing; tinea capitis: scaly patches with hair loss
+- Scabies: intense itching worse at night, burrows in finger webs, wrists, genitals; household members affected
+investigations:
+- Clinical; skin scraping with KOH if uncertain; glucose and HIV test in recurrent infections; pus culture for recurrent abscesses
+diagnosis: Clinical.
+nonpharm:
+- Wash with soap and water, keep nails short, do not share towels/combs; elevate limb in cellulitis; incision and drainage for abscess
+treatment:
+- ## Impetigo
+- Localised: clean crusts, topical antiseptic or fusidic acid/mupirocin; extensive: cloxacillin/flucloxacillin 500 mg QDS (children 12.5–25 mg/kg 6-hourly) for 7 days, or erythromycin if penicillin allergy
+- ## Cellulitis / erysipelas
+- Mild: oral cloxacillin 500 mg 6-hourly or amoxicillin-clavulanate for 5–7 days (erysipelas: phenoxymethylpenicillin/amoxicillin)
+- Severe: benzylpenicillin + cloxacillin IV (or ceftriaxone), then oral
+- ## Abscess
+- Incision and drainage (main treatment); antibiotics if cellulitis, systemic features or diabetes
+- ## Tinea
+- Body/groin/feet: clotrimazole 1% cream twice daily for 2–4 weeks (continue 2 weeks after clearing); Whitfield's ointment
+- Tinea capitis: griseofulvin 10–20 mg/kg/day for 6–8 weeks with fatty food (or terbinafine)
+- ## Scabies
+- Permethrin 5% cream or benzyl benzoate 25% from neck down, repeat after 7 days; treat the whole household simultaneously; chlorphenamine for itch
+- Crusted scabies: ivermectin 200 mcg/kg + topical
+special:
+- Infants: benzyl benzoate diluted; permethrin preferred in pregnancy
+complications:
+- Post-streptococcal glomerulonephritis (impetigo), necrotising fasciitis, sepsis, secondary infection of scabies
+danger:
+- Rapidly spreading redness, severe pain out of proportion, blisters, fever, hypotension → necrotising fasciitis (surgical emergency)
+advice:
+- Complete antibiotics; keep wounds clean and covered
+- Scabies: treat everyone at home on the same day, wash bedding in hot water/sun-dry; itch can last 2–4 weeks
+- Tinea: keep skin dry, do not share combs/caps; griseofulvin with fatty food, avoid pregnancy
+pearls:
+- Recurrent boils or extensive tinea → screen for diabetes and HIV
+drugs: cloxacillin, amoxicillin-clavulanate, phenoxymethylpenicillin, erythromycin, benzylpenicillin, ceftriaxone, clotrimazole, griseofulvin, permethrin, ivermectin, chlorphenamine
+
+=== disease: fungal-candidiasis
+name: Candidiasis (Oral, Oesophageal, Vaginal)
+category: Infectious Diseases
+stg: Ch. 13 (§13.2.5), Ch. 16 (§16.4.1)
+source: stg2021
+aka: thrush; candida; oral thrush; vaginal candidiasis; yeast infection; oesophageal candidiasis; fangasi
+summary: Overgrowth of Candida albicans on mucosa. Common in infants, pregnancy, diabetes, antibiotic and steroid use, and HIV (oral/oesophageal candidiasis is an HIV-defining clue).
+causes:
+- Candida albicans (and non-albicans species)
+risk:
+- Infancy, pregnancy, diabetes, broad-spectrum antibiotics, inhaled/systemic steroids, HIV, dentures, COCs
+features:
+- Oral: white curd-like plaques that can be scraped off leaving red base; angular cheilitis
+- Oesophageal: painful swallowing (odynophagia), retrosternal pain
+- Vaginal: itching, burning, thick white curd-like discharge, vulval redness
+investigations:
+- Clinical; KOH microscopy; HIV test and glucose if recurrent/oesophageal
+diagnosis: Clinical.
+nonpharm:
+- Oral hygiene; rinse mouth after inhaled steroid; loose cotton underwear; glycaemic control
+treatment:
+- ## Oral thrush
+- Nystatin suspension 1 mL (infants) – 4–6 mL (adults) four times daily for 7 days, or miconazole oral gel
+- Moderate/severe or HIV: fluconazole 100–200 mg daily for 7–14 days
+- ## Oesophageal candidiasis
+- Fluconazole 200–400 mg daily for 14–21 days
+- ## Vaginal candidiasis
+- Clotrimazole 500 mg pessary single dose (or 100 mg nightly × 6) or fluconazole 150 mg oral single dose (not in pregnancy)
+- Recurrent (≥4/year): fluconazole 150 mg every 72 h × 3 then weekly for 6 months
+special:
+- Pregnancy: topical clotrimazole for 7 nights; avoid oral fluconazole
+complications:
+- Poor feeding (infants), weight loss (oesophageal), systemic candidiasis in immunocompromised
+danger:
+- Unable to swallow, weight loss → refer (oesophageal disease)
+advice:
+- Treat the mother's nipples if baby has oral thrush; sterilise bottles/teats
+- Complete the full course of pessaries, even during menstruation
+pearls:
+- Oesophageal candidiasis = WHO stage 4 condition
+drugs: nystatin, fluconazole, clotrimazole
+
+=== disease: herpes-zoster
+name: Herpes Zoster (Shingles) & Chickenpox
+category: Dermatology
+stg: Ch. 13 (§13.4.2–13.4.4)
+source: stg2021
+aka: shingles; herpes zoster; chickenpox; varicella; tetekuwanga; post-herpetic neuralgia
+summary: Varicella-zoster virus causes chickenpox (primary infection) and later reactivates in a dorsal root ganglion as shingles. Shingles in a young adult is a classic clue to HIV infection.
+causes:
+- Varicella-zoster virus (VZV)
+risk:
+- Age >50, HIV, cancer, immunosuppression, stress
+features:
+- Shingles: burning pain then painful vesicles in a dermatome, not crossing the midline
+- Chickenpox: fever, itchy vesicles in crops (all stages present), centripetal distribution
+- Herpes zoster ophthalmicus: forehead/eye involvement (tip of nose = Hutchinson sign)
+investigations:
+- Clinical; HIV test in all adults with zoster
+diagnosis: Clinical.
+nonpharm:
+- Keep lesions clean and dry, calamine lotion, cut nails (children), avoid contact with pregnant women and newborns
+treatment:
+- ## Shingles
+- Acyclovir 800 mg five times daily for 7 days (start within 72 hours; any time in HIV/eye involvement)
+- Analgesia: paracetamol ± NSAID; amitriptyline 10–25 mg at night for neuropathic pain
+- ## Chickenpox
+- Children (healthy): symptomatic (paracetamol, calamine, chlorphenamine); adults/immunocompromised/pregnant: acyclovir 800 mg 5× daily for 7 days
+- ## Herpes zoster ophthalmicus
+- Acyclovir + eye ointment + urgent ophthalmology referral
+- ## Post-herpetic neuralgia
+- Amitriptyline, carbamazepine or gabapentin
+special:
+- Avoid aspirin in children (Reye's syndrome); NSAIDs in chickenpox linked to severe skin infection
+complications:
+- Post-herpetic neuralgia, secondary bacterial infection, eye damage, pneumonia/encephalitis (immunocompromised), congenital varicella
+danger:
+- Eye involvement, disseminated rash, confusion, breathlessness → refer
+advice:
+- Cover the rash; you are infectious until all blisters crust over
+- Start acyclovir early and take five times a day
+pearls:
+- Zoster in a young person = offer HIV test (WHO stage 2)
+drugs: acyclovir, paracetamol, amitriptyline, carbamazepine, chlorphenamine
+
+=== disease: rabies
+name: Rabies & Animal Bite (Post-Exposure Prophylaxis)
+category: Infectious Diseases
+stg: Ch. 4 (§4.2.3), Ch. 25 (§25.6)
+source: stg2021
+aka: rabies; dog bite; animal bite; kichaa cha mbwa; PEP
+summary: Rabies is an almost 100% fatal viral encephalitis transmitted mainly by dog bites. It is entirely preventable with prompt wound care, rabies vaccine and, for severe exposures, rabies immunoglobulin.
+causes:
+- Rabies lyssavirus in saliva of infected mammals (dogs >95%, also cats, jackals, bats)
+risk:
+- Bites from unvaccinated dogs, children (bites to head/neck), delayed or incomplete PEP
+features:
+- After incubation (weeks–months): fever, pain/tingling at bite site, agitation, hydrophobia, aerophobia, hypersalivation, paralysis, coma, death
+investigations:
+- Clinical; observe the dog for 10 days if possible
+diagnosis: WHO exposure category — I: touching/feeding, licks on intact skin; II: nibbling, minor scratches without bleeding; III: bites/scratches breaking skin, licks on broken skin/mucosa, bat exposure.
+nonpharm:
+- Wash wound immediately and thoroughly with soap and running water for 15 minutes, then apply povidone-iodine/alcohol
+- Do not suture immediately (delay or loose sutures after RIG infiltration)
+treatment:
+- ## Category I
+- No prophylaxis (wash area)
+- ## Category II
+- Wound care + rabies vaccine: IM Essen 4-dose (days 0, 3, 7, 14–28) or intradermal 2-site on days 0, 3, 7 (WHO)
+- ## Category III
+- Wound care + vaccine + rabies immunoglobulin (RIG) infiltrated into and around the wound on day 0 (or within 7 days of first vaccine)
+- ## Other
+- Tetanus toxoid/booster; antibiotics for high-risk/infected bites (amoxicillin-clavulanate 3–5 days)
+special:
+- Pregnancy and infancy are not contraindications to rabies vaccine
+complications:
+- Clinical rabies (fatal), wound infection, tetanus
+danger:
+- Any symptoms of rabies → palliative care, isolation (no curative treatment)
+advice:
+- Complete all vaccine doses on the scheduled days
+- Vaccinate your dogs against rabies every year
+pearls:
+- Wound washing alone reduces rabies risk substantially — start before arriving at the facility
+drugs: amoxicillin-clavulanate, paracetamol
+
+=== disease: epilepsy
+name: Epilepsy & Status Epilepticus
+category: Neurology
+stg: Ch. 1 (§1.5), Ch. 8 (§8.3)
+source: stg2021
+aka: epilepsy; seizures; convulsions; fits; status epilepticus; kifafa; febrile convulsions
+summary: Epilepsy is a tendency to recurrent unprovoked seizures. Status epilepticus — a seizure ≥5 minutes or repeated seizures without recovery — is an emergency. Most patients are controlled with a single antiepileptic chosen by seizure type.
+causes:
+- Idiopathic/genetic; structural (birth asphyxia, head injury, stroke, tumour); infection (cerebral malaria, meningitis, neurocysticercosis, HIV); metabolic
+- Provoked seizures: hypoglycaemia, hyponatraemia, eclampsia, alcohol withdrawal, isoniazid toxicity
+risk:
+- Perinatal brain injury, family history, CNS infections, head trauma
+features:
+- Generalised tonic-clonic: loss of consciousness, stiffening then jerking, tongue biting, incontinence, post-ictal drowsiness
+- Focal seizures (with/without impaired awareness), absence (brief staring), myoclonic jerks
+investigations:
+- Blood glucose (always), electrolytes, malaria test, pregnancy test, CT/MRI, EEG, LP if infection suspected
+diagnosis: Clinical history (eyewitness account); ≥2 unprovoked seizures >24 h apart.
+nonpharm:
+- During a seizure: protect from injury, place in recovery position, do not put anything in the mouth, time the seizure
+- Avoid triggers (sleep deprivation, alcohol, missed doses); no swimming alone, avoid heights and open fires; driving restrictions
+treatment:
+- ## Status epilepticus (STG 2021, §1.5)
+- 0–5 min: ABC, oxygen, IV access, check glucose — dextrose if ≤3.5 mmol/L
+- Diazepam IV 0.15–0.2 mg/kg (max 10 mg) or rectal 0.2–0.5 mg/kg, repeat every 5 minutes up to 3 doses (or midazolam 0.1 mg/kg)
+- 5–10 min (established): phenobarbitone 20 mg/kg IV slowly (adults max 50 mg/min; children 30 mg/min) OR phenytoin 20 mg/kg IV slowly
+- Refractory: intubate — thiopental, propofol or midazolam infusion in ICU
+- Eclampsia: magnesium sulfate (not diazepam) is first line
+- ## Maintenance therapy (monotherapy first)
+- Focal seizures: carbamazepine 100–200 mg BD, titrate (lamotrigine, levetiracetam alternatives)
+- Generalised tonic-clonic: sodium valproate (men/post-menopausal women), lamotrigine or levetiracetam in women of childbearing age; phenobarbital is an affordable level-A option
+- Absence: valproate or ethosuximide (carbamazepine worsens absence/myoclonic seizures)
+special:
+- Women: valproate is highly teratogenic; folic acid 5 mg pre-conception; enzyme inducers (carbamazepine, phenytoin, phenobarbital) make pills/implants fail — use DMPA/IUD
+- HIV: enzyme-inducing antiepileptics reduce ARV levels — prefer levetiracetam/valproate
+complications:
+- Injury, burns, drowning, SUDEP, status epilepticus, stigma, psychiatric comorbidity
+danger:
+- Seizure >5 minutes, repeated seizures, first seizure in pregnancy, head injury, fever with neck stiffness → emergency
+advice:
+- Take medicines every day; never stop suddenly (risk of status epilepticus)
+- Keep a seizure diary; avoid alcohol and sleep deprivation
+- Family: recovery position, time the seizure, call for help if >5 minutes
+- Women: plan pregnancy with your clinician; tell us if you use hormonal contraception
+pearls:
+- Always check glucose in a convulsing patient
+- Phenytoin IV: in saline only, ≤50 mg/min with ECG monitoring
+- Carbamazepine/phenytoin/phenobarbital: enzyme inducers — check ART, contraceptives, warfarin
+drugs: diazepam, phenobarbital, phenytoin, carbamazepine, sodium-valproate, levetiracetam, dextrose-50, magnesium-sulfate, folic-acid
+
+=== disease: depression
+name: Major Depressive Disorder
+category: Mental Health
+stg: Ch. 23 (§23.9–23.10)
+source: stg2021
+aka: depression; MDD; low mood; msongo wa mawazo; huzuni; suicide risk
+summary: Persistent low mood and/or loss of interest for at least 2 weeks with functional impairment. Common, under-diagnosed and treatable; always assess suicide risk.
+causes:
+- Biological (monoamine dysregulation, genetics), psychological and social stressors (bereavement, poverty, violence), medical illness (HIV, chronic pain), drugs (efavirenz, steroids, β-blockers)
+risk:
+- Previous episodes, family history, chronic illness, substance use, postpartum period, social isolation
+features:
+- Depressed mood, anhedonia, fatigue, sleep and appetite change, poor concentration, guilt/worthlessness, psychomotor change, thoughts of death or suicide
+investigations:
+- PHQ-9 screening; TFTs, Hb, HIV, glucose to exclude medical causes; suicide risk assessment
+diagnosis: DSM-5: ≥5 symptoms for ≥2 weeks including depressed mood or anhedonia.
+nonpharm:
+- Psychoeducation, problem-solving therapy, CBT, interpersonal therapy, physical activity, social support, address substance use
+treatment:
+- ## First line
+- SSRI: fluoxetine 20 mg each morning (or citalopram/sertraline) — assess at 2–4 weeks; full effect 6–8 weeks
+- ## Alternative (lower cost, level A)
+- Amitriptyline 25–50 mg at night, increase to 75–150 mg (avoid in suicide risk/cardiac disease; dispense limited quantities)
+- ## Duration
+- Continue for at least 6–12 months after remission (≥2 years if recurrent), taper slowly
+- ## Severe/psychotic/suicidal
+- Refer; antidepressant + antipsychotic or ECT
+special:
+- Pregnancy/breastfeeding: psychological therapy first; sertraline preferred if medication needed
+- Adolescents: fluoxetine; monitor closely for suicidal thoughts
+complications:
+- Suicide, substance misuse, poor adherence to other treatments (e.g. ART), disability
+danger:
+- Suicidal plans, self-harm, psychosis, not eating/drinking → urgent referral; remove access to means
+advice:
+- Antidepressants take 2–4 weeks to start helping; continue even when you feel better
+- They are not addictive; do not stop suddenly
+- Talk to someone and seek help immediately if you have thoughts of harming yourself
+pearls:
+- Efavirenz can cause depression — consider switching to DTG
+- TCAs are dangerous in overdose — supply small amounts
+drugs: fluoxetine, amitriptyline
+
+=== disease: schizophrenia
+name: Schizophrenia & Acute Psychosis
+category: Mental Health
+stg: Ch. 23 (§23.1, §23.4–23.7)
+source: stg2021
+aka: psychosis; schizophrenia; acute psychotic disorder; agitation; aggression; wazimu; ugonjwa wa akili
+summary: A chronic psychotic disorder with positive symptoms (delusions, hallucinations, disorganised speech/behaviour) and negative symptoms (blunted affect, withdrawal), lasting ≥6 months. Antipsychotics reduce symptoms and relapse; adherence is the main challenge.
+causes:
+- Dopamine (mesolimbic) hyperactivity and glutamate dysfunction; genetic and neurodevelopmental factors; cannabis use; stress
+risk:
+- Family history, cannabis/khat/stimulant use, urban upbringing, obstetric complications
+features:
+- Hallucinations (auditory), delusions (persecutory), disorganised speech and behaviour, catatonia
+- Negative symptoms: social withdrawal, poor self-care, flat affect, lack of motivation
+investigations:
+- Exclude organic causes: glucose, malaria test, HIV, syphilis, drug screen, TFTs; baseline weight, glucose, lipids
+diagnosis: DSM-5 criteria (≥2 core symptoms, ≥6 months duration).
+nonpharm:
+- Psychoeducation for patient and family, adherence support, psychosocial rehabilitation, avoid cannabis/alcohol
+treatment:
+- ## Acute agitation (rapid tranquillisation)
+- Haloperidol 5 mg IM ± promethazine 25–50 mg IM (or diazepam), repeat after 30–60 min if needed; monitor vital signs
+- ## Maintenance (first episode and chronic)
+- Haloperidol 1.5–5 mg two to three times daily, or chlorpromazine 75–300 mg/day (level A)
+- Atypicals (risperidone 2–6 mg/day, olanzapine 10–20 mg/day) where available — fewer EPS, more metabolic effects
+- Poor adherence: depot fluphenazine decanoate 12.5–50 mg IM every 2–4 weeks (or haloperidol decanoate)
+- ## Extrapyramidal side effects
+- Benzhexol 2–5 mg two to three times daily (only when EPS present)
+- ## Duration
+- First episode: at least 1–2 years after remission; recurrent: long-term
+special:
+- Pregnancy: continue antipsychotic (relapse risk outweighs drug risk); haloperidol has most data
+complications:
+- Relapse, suicide, violence, neuroleptic malignant syndrome, tardive dyskinesia, metabolic syndrome
+danger:
+- High fever + rigidity + confusion (NMS), violence, suicidal behaviour, refusal of food/fluids → emergency
+advice:
+- Take medicines every day even when well — stopping causes relapse
+- Report stiffness, restlessness, tremor; avoid alcohol and cannabis
+- Family: watch for early warning signs (poor sleep, withdrawal, suspiciousness)
+pearls:
+- NMS: stop antipsychotic, cool, IV fluids, refer (dantrolene/bromocriptine)
+- Metoclopramide + antipsychotic increases EPS
+drugs: haloperidol, chlorpromazine, risperidone, olanzapine, benzhexol, promethazine, diazepam
+
+=== disease: bipolar
+name: Bipolar Mood Disorder
+category: Mental Health
+stg: Ch. 23 (§23.8)
+source: stg2021
+aka: bipolar disorder; manic depression; mania
+summary: Recurrent episodes of mania (elevated/irritable mood, increased energy, reduced need for sleep) and depression. Mood stabilisers prevent relapse; antidepressants alone can trigger mania.
+causes:
+- Strong genetic component; neurotransmitter dysregulation; triggered by stress, sleep loss, substances
+risk:
+- Family history, substance use, postpartum period
+features:
+- Mania: elevated or irritable mood, grandiosity, decreased sleep, pressured speech, flight of ideas, risky behaviour, psychosis
+- Depression: as for major depressive disorder
+investigations:
+- Exclude organic causes (TFTs, drug screen, HIV); baseline renal, thyroid, liver function, weight before mood stabilisers
+diagnosis: At least one manic episode (bipolar I).
+nonpharm:
+- Psychoeducation, regular sleep routine, avoid alcohol/drugs, early-warning-sign plans
+treatment:
+- ## Acute mania
+- Antipsychotic (haloperidol, olanzapine, risperidone) ± benzodiazepine for agitation; stop antidepressants
+- ## Mood stabiliser (maintenance)
+- Sodium valproate 500 mg–2 g/day (avoid in women of childbearing potential), carbamazepine 400–1200 mg/day, or lithium (specialist; level 0.4–1.0 mmol/L)
+- ## Bipolar depression
+- Mood stabiliser ± antipsychotic (quetiapine/olanzapine); antidepressant only with a mood stabiliser
+special:
+- Women of childbearing age: avoid valproate; lithium/carbamazepine need specialist planning
+complications:
+- Suicide, substance misuse, financial/social harm
+danger:
+- Severe mania with dehydration/exhaustion, psychosis, suicidal depression → admit
+advice:
+- Keep regular sleep; take mood stabiliser every day; attend blood tests
+pearls:
+- Carbamazepine induces enzymes — hormonal contraception and ART interactions
+drugs: sodium-valproate, carbamazepine, lithium, haloperidol, olanzapine, risperidone, diazepam
+
+=== disease: anxiety
+name: Generalized Anxiety & Panic Disorder
+category: Mental Health
+stg: Ch. 23 (§23.11–23.12)
+source: stg2021
+aka: anxiety; GAD; panic attacks; wasiwasi
+summary: Excessive, uncontrollable worry (GAD) or recurrent unexpected panic attacks causing distress and impairment. Psychological therapy and SSRIs are first line; benzodiazepines only short term.
+causes:
+- GABA/serotonin/noradrenaline dysregulation, stress, trauma, genetics; medical (hyperthyroidism) and substance (caffeine, stimulants, withdrawal) causes
+risk:
+- Family history, trauma, chronic illness, substance use
+features:
+- GAD: worry ≥6 months, restlessness, fatigue, poor concentration, irritability, muscle tension, insomnia
+- Panic: sudden palpitations, sweating, trembling, breathlessness, chest pain, fear of dying, lasting minutes
+investigations:
+- TFTs, glucose, ECG (if chest pain), Hb, drug/caffeine history
+diagnosis: DSM-5 criteria.
+nonpharm:
+- Psychoeducation, CBT, relaxation and breathing exercises, exercise, reduce caffeine and alcohol
+treatment:
+- ## First line
+- SSRI (fluoxetine 10–20 mg daily, start low) for at least 6–12 months
+- ## Short-term relief only
+- Diazepam 2–5 mg two to three times daily for maximum 2–4 weeks
+- ## Somatic symptoms (palpitations, tremor)
+- Propranolol 10–40 mg two to three times daily (not in asthma)
+special:
+- Elderly: avoid benzodiazepines (falls)
+complications:
+- Depression, substance misuse, benzodiazepine dependence
+danger:
+- Suicidal thoughts, chest pain not explained → assess urgently
+advice:
+- SSRIs may increase anxiety in the first week — continue; benefits appear after 2–4 weeks
+- Benzodiazepines are for short-term use only
+pearls:
+- Always exclude hyperthyroidism and stimulant use
+drugs: fluoxetine, diazepam, propranolol, amitriptyline
+
+=== disease: pph
+name: Postpartum Haemorrhage
+category: Obstetrics & Gynaecology
+stg: Ch. 11 (§11.5)
+source: stg2021
+aka: PPH; bleeding after delivery; postpartum bleeding; kutokwa damu baada ya kujifungua
+summary: Blood loss ≥500 mL after vaginal birth (≥1000 mL after caesarean) or any bleeding causing haemodynamic compromise within 24 hours (primary) or up to 12 weeks (secondary). Leading cause of maternal death in Tanzania; prevent with active management of the third stage of labour (AMTSL).
+causes:
+- 4 Ts: Tone (uterine atony — commonest), Trauma (tears, rupture), Tissue (retained placenta/products), Thrombin (coagulopathy)
+risk:
+- Prolonged/obstructed labour, multiple pregnancy, polyhydramnios, grand multiparity, previous PPH, anaemia, pre-eclampsia, induced labour, placenta praevia/abruption
+features:
+- Heavy vaginal bleeding, soft boggy uterus (atony), tachycardia, hypotension, pallor, dizziness, shock
+investigations:
+- Hb, grouping and cross-match, clotting profile (bedside clotting test), platelets
+diagnosis: Estimated blood loss and clinical signs of shock (shock index HR/SBP >0.9).
+nonpharm:
+- Call for help; massage the uterus; empty the bladder; two large-bore IV lines; bimanual/aortic compression; examine for tears and placenta completeness; non-pneumatic anti-shock garment; surgery if needed
+treatment:
+- ## Prevention (AMTSL)
+- Oxytocin 10 IU IM within 1 minute of birth (misoprostol 600 mcg orally if no oxytocin), controlled cord traction, uterine massage
+- ## Treatment
+- Oxytocin 10 IU IV/IM, then infusion 20–40 IU in 1 L saline at 60 drops/min
+- Tranexamic acid 1 g IV over 10 minutes within 3 hours of birth (repeat 1 g after 30 min if bleeding continues)
+- Misoprostol 800 mcg sublingually if bleeding continues
+- Ergometrine 0.2–0.5 mg IM (NOT if hypertensive/pre-eclamptic/cardiac disease)
+- IV crystalloids (Ringer's lactate/saline) and blood transfusion as needed
+- ## Retained placenta / tissue
+- Manual removal under anaesthesia + prophylactic antibiotics
+special:
+- Secondary PPH (infection, retained products): antibiotics (ampicillin + gentamicin + metronidazole), evacuation
+complications:
+- Hypovolaemic shock, DIC, Sheehan syndrome, anaemia, hysterectomy, death
+danger:
+- Soaking a pad in <5 minutes, dizziness, fainting, fast pulse → emergency
+advice:
+- Deliver at a health facility; take iron and folic acid during pregnancy to prevent anaemia
+pearls:
+- Oxytocin requires cold chain (2–8°C); misoprostol is heat-stable
+- Tranexamic acid works only if given early (within 3 hours)
+drugs: oxytocin, misoprostol, tranexamic-acid, ergometrine, ampicillin, gentamicin, metronidazole, ferrous-sulfate
+
+=== disease: contraception
+name: Contraception & Family Planning
+category: Obstetrics & Gynaecology
+stg: Ch. 11 (§11.9)
+source: stg2021
+aka: family planning; uzazi wa mpango; contraception; pills; injection; implant; IUD; emergency contraception
+summary: Safe, effective contraception reduces maternal and infant deaths. Method choice follows WHO Medical Eligibility Criteria and the client's preferences, with special attention to drug interactions (rifampicin, efavirenz, anticonvulsants).
+causes:
+- Not applicable
+risk:
+- Not applicable
+features:
+- Short-acting: combined oral contraceptive (COC), progestogen-only pill (POP), DMPA injection (3-monthly), condoms
+- Long-acting reversible: implants (levonorgestrel 5 years; etonogestrel 3 years), copper IUD (10–12 years), LNG-IUS
+- Permanent: tubal ligation, vasectomy; emergency: levonorgestrel 1.5 mg, copper IUD within 5 days
+investigations:
+- BP, pregnancy test if uncertain; screen for STIs where indicated
+diagnosis: Not applicable — counselling and WHO MEC eligibility.
+nonpharm:
+- Counselling (balanced information on effectiveness, side effects, return to fertility); lactational amenorrhoea method (exclusive breastfeeding <6 months, amenorrhoeic)
+treatment:
+- ## Combined oral contraceptive
+- One tablet daily; not if breastfeeding <6 months, smoker ≥35, BP ≥160/100, migraine with aura, history of VTE/stroke
+- ## DMPA
+- 150 mg IM every 3 months (grace period 4 weeks); effective with rifampicin/efavirenz/enzyme inducers
+- ## Implants
+- Levonorgestrel (Jadelle) 5 years; efficacy reduced by efavirenz and rifampicin — add condoms or choose DMPA/IUD
+- ## Emergency contraception
+- Levonorgestrel 1.5 mg within 72 hours (double dose with enzyme inducers) or copper IUD within 5 days
+special:
+- Postpartum: progestogen-only methods or IUD (within 48 h or after 4 weeks); avoid COC <6 months if breastfeeding
+complications:
+- Side effects: irregular bleeding, weight change, headaches; VTE (COC)
+danger:
+- On COC: severe chest pain, leg swelling, sudden headache, visual loss → stop and seek care
+advice:
+- Condoms are the only method that also protects against HIV/STIs
+- Missed pill rules and back-up methods; DMPA return dates
+pearls:
+- Rifampicin: only DMPA or IUD/condoms are reliable
+- Efavirenz: reduces implant levonorgestrel ~50%
+drugs: combined-oral-contraceptive, dmpa, levonorgestrel-ec
+
+=== disease: anaphylaxis
+name: Anaphylaxis
+category: Emergency
+stg: Ch. 1 (§1.8), Ch. 13 (§13.6)
+source: stg2021
+aka: anaphylactic shock; severe allergic reaction; allergy emergency
+summary: A severe, life-threatening systemic hypersensitivity reaction with rapidly developing airway, breathing and/or circulation problems, usually with skin/mucosal changes (STG 2021). Adrenaline IM is the first and most important treatment.
+causes:
+- Drugs (penicillins, cephalosporins, NSAIDs, IV iron, contrast, anaesthetic agents, antivenom), foods (nuts, shellfish), insect stings, latex
+risk:
+- Previous reaction, asthma, atopy, parenteral administration
+features:
+- Hives, angioedema, wheeze, difficult breathing, stridor, hypotension (SBP <90 or >30% fall), collapse, diarrhoea/vomiting
+investigations:
+- Clinical diagnosis; blood gases, electrolytes, ECG; serum tryptase where available
+diagnosis: Acute skin/mucosal involvement + respiratory compromise or hypotension after likely allergen exposure.
+nonpharm:
+- Stop/remove the trigger; call for help; lie flat with legs raised (sit up if breathing difficulty); oxygen if SpO2 <95%; two large-bore IV lines; early airway management
+treatment:
+- ## STG 2021 (§1.8)
+- Adrenaline IM (1:1000) — adults 0.3–0.5 mg (max 0.5 mg), children 0.01 mg/kg — every 5–15 minutes as needed, into the anterolateral thigh
+- If inadequate response: adrenaline IV infusion 2–10 mcg/min (children 0.05–1 mcg/kg/min)
+- Hypotension: 0.9% saline or Ringer's lactate 1–2 L (children 20 mL/kg), repeat as needed
+- Adjuncts: hydrocortisone 200 mg IV; nebulised salbutamol for bronchospasm; chlorphenamine 10 mg IV/IM for skin symptoms
+- ## Disposition
+- Observe at least 4 hours after mild reactions responding to IM adrenaline; admit if repeated adrenaline needed (biphasic reaction risk)
+special:
+- Patients on β-blockers may respond poorly — glucagon IV
+complications:
+- Airway obstruction, cardiac arrest, biphasic reaction (recurrence hours later)
+danger:
+- Stridor, wheeze, hypotension, collapse — this IS the emergency
+advice:
+- Avoid the trigger; carry an allergy card/wear an alert bracelet; carry adrenaline auto-injector if available
+- Always tell health workers about drug allergies
+pearls:
+- Adrenaline 1:1000 = 1 mg/mL IM; 1:10,000 IV only in cardiac arrest
+- Antihistamines and steroids do NOT replace adrenaline
+drugs: adrenaline, hydrocortisone, chlorphenamine, salbutamol, promethazine
+
+=== disease: sepsis
+name: Sepsis and Septic Shock
+category: Emergency
+stg: Ch. 1 (§1.12)
+source: stg2021
+aka: septicaemia; sepsis; septic shock; blood infection
+summary: Life-threatening organ dysfunction caused by a dysregulated host response to infection. Septic shock adds vasopressor-requiring hypotension and lactate >2 mmol/L despite fluids. Broad-spectrum antibiotics must be started within the first hour.
+causes:
+- Pneumonia, UTI/pyelonephritis, intra-abdominal infection, skin/soft tissue, meningitis, obstetric infection, malaria (consider), lines
+risk:
+- Extremes of age, HIV, diabetes, malnutrition, cancer/chemotherapy, pregnancy/postpartum, sickle cell disease
+features:
+- Temp >38°C or <36°C, HR >90, RR >20 plus organ dysfunction: hypotension, altered mental state, oliguria, jaundice
+- qSOFA: RR ≥22, altered mentation, SBP ≤100 mmHg (≥2 = high risk)
+investigations:
+- Blood cultures BEFORE antibiotics (if no delay), FBC, CRP, lactate, blood gas, creatinine, electrolytes, LFTs, clotting, malaria test, urine dipstick, CXR, source cultures
+diagnosis: Suspected infection + organ dysfunction (qSOFA/SOFA ≥2).
+nonpharm:
+- ABC, oxygen if hypoxic, cardiac monitoring, source control (drain abscess, remove infected line, surgery), nutrition
+treatment:
+- ## Fluids (STG 2021)
+- 0.9% saline or Ringer's lactate: adults 2 L, children 20 mL/kg over 20 minutes, then second bolus (small boluses in heart failure)
+- Vasopressor if no response after ~4 L: noradrenaline 5–20 mcg/min (MAP ≥65); dobutamine 2–20 mcg/kg/min for poor cardiac output
+- Hydrocortisone 200 mg IV (refractory shock); transfuse if Hb <7 g/dL
+- ## Empirical antibiotics (within 1 hour)
+- Ampicillin 150–200 mg/kg/day 6-hourly + cloxacillin 50–100 mg/kg/day 6-hourly + gentamicin 120 mg (children 7.5 mg/kg) daily
+- No improvement in 24 h: ceftriaxone 1 g (children 100 mg/kg) daily + gentamicin, and refer
+- Hospital-acquired/resistant: ceftriaxone-sulbactam or piperacillin-tazobactam (+ gentamicin); de-escalate by culture
+- Add metronidazole for abdominal/pelvic source
+special:
+- Neonates: may present only with poor feeding, temperature instability or respiratory distress — ampicillin + gentamicin
+complications:
+- Septic shock, multi-organ failure, ARDS, DIC, death
+danger:
+- Hypotension, confusion, very fast breathing, low urine output → emergency, ICU/HDU referral
+advice:
+- Seek care early for fever with confusion, fast breathing, reduced urine or mottled skin
+pearls:
+- Every hour of antibiotic delay increases mortality
+- Review antibiotics at 48–72 h (stewardship: de-escalate, IV-to-oral switch)
+drugs: ampicillin, cloxacillin, gentamicin, ceftriaxone, metronidazole, hydrocortisone, meropenem, vancomycin
+
+=== disease: thyroid
+name: Thyroid Disorders (Hypo- and Hyperthyroidism)
+category: Endocrine
+stg: Ch. 19 (§19.12)
+source: stg2021
+aka: hypothyroidism; hyperthyroidism; thyrotoxicosis; Graves' disease; goitre; tezi ya shingo; thyroid storm
+summary: Hypothyroidism (low thyroid hormone) is treated with lifelong levothyroxine. Hyperthyroidism (Graves', toxic nodular goitre) is controlled with thionamides and β-blockers, then radioiodine or surgery if needed.
+causes:
+- Hypothyroidism: Hashimoto's thyroiditis, iodine deficiency, post-thyroidectomy/radioiodine, drugs (amiodarone, lithium), congenital
+- Hyperthyroidism: Graves' disease, toxic multinodular goitre, toxic adenoma, thyroiditis, excess levothyroxine
+risk:
+- Female sex, family history, autoimmune disease, iodine deficiency (highland areas), amiodarone
+features:
+- Hypo: fatigue, weight gain, cold intolerance, constipation, dry skin, hair loss, bradycardia, menstrual irregularity, depression, goitre
+- Hyper: weight loss, heat intolerance, palpitations/AF, tremor, sweating, anxiety, diarrhoea, eye signs (Graves'), goitre
+investigations:
+- TSH (best screening test), free T4 (± T3), thyroid antibodies, thyroid ultrasound/scan, ECG (AF)
+diagnosis: Hypo: high TSH, low fT4. Hyper: suppressed TSH, high fT4/T3.
+nonpharm:
+- Iodised salt; eye protection in Graves' ophthalmopathy; stop smoking
+treatment:
+- ## Hypothyroidism
+- Levothyroxine 1.6 mcg/kg/day (start 25 mcg in elderly/heart disease), empty stomach in the morning; adjust every 6 weeks by TSH
+- ## Hyperthyroidism
+- Carbimazole 15–40 mg daily, reduce to 5–15 mg maintenance for 12–18 months; propylthiouracil 100–150 mg 8-hourly in first trimester/thyroid storm
+- Propranolol 10–40 mg 3–4 times daily for symptoms
+- Radioiodine or thyroidectomy for relapse/large goitre
+- ## Thyroid storm
+- PTU, propranolol, Lugol's iodine (1 h after PTU), hydrocortisone, cooling, treat precipitant — ICU
+special:
+- Pregnancy: levothyroxine dose increases 25–50%; PTU in 1st trimester, carbimazole thereafter
+complications:
+- Hypo: myxoedema coma, infertility; hyper: AF, heart failure, osteoporosis, thyroid storm, agranulocytosis (drug)
+danger:
+- Sore throat/fever on carbimazole (agranulocytosis); confusion, high fever, AF (storm) → emergency
+advice:
+- Levothyroxine: empty stomach, 30–60 min before breakfast, 4 hours apart from iron/calcium/antacids
+- Carbimazole: stop and get a blood test for sore throat, fever, mouth ulcers
+pearls:
+- TSH takes ~6 weeks to stabilise after a dose change
+drugs: levothyroxine, carbimazole, propranolol, hydrocortisone
+
+=== disease: tonsillitis-otitis
+name: Pharyngotonsillitis & Acute Otitis Media
+category: ENT
+stg: Ch. 15 — ENT (§15.3.1, §15.8.1)
+source: stg2021
+aka: sore throat; tonsillitis; pharyngitis; strep throat; ear infection; otitis media; AOM; masikio
+summary: Most sore throats are viral and do not need antibiotics; streptococcal tonsillitis is treated for 10 days to prevent rheumatic fever. Acute otitis media is common in young children and treated with amoxicillin when indicated.
+causes:
+- Pharyngotonsillitis: viruses (most), Streptococcus pyogenes (Group A Strep)
+- Otitis media: S. pneumoniae, H. influenzae, M. catarrhalis, viruses
+risk:
+- Children 5–15 (strep throat), crowding; AOM: young children, bottle feeding lying down, smoke exposure, day care
+features:
+- Strep throat: fever, tonsillar exudate, tender anterior cervical nodes, absence of cough (Centor criteria)
+- AOM: ear pain, fever, irritability, bulging red tympanic membrane, discharge if perforated
+investigations:
+- Clinical (Centor/McIsaac score); rapid strep test/throat swab where available; otoscopy
+diagnosis: Clinical.
+nonpharm:
+- Paracetamol/ibuprofen for pain and fever, fluids, salt-water gargles; keep ear dry (dry wicking) in discharging ears
+treatment:
+- ## Streptococcal tonsillitis
+- Phenoxymethylpenicillin 500 mg QDS (children 15 mg/kg 6-hourly) for 10 days, OR benzathine penicillin 1.2 MU IM single dose (children <30 kg 600,000 IU), OR amoxicillin 50 mg/kg once daily for 10 days
+- Penicillin allergy: erythromycin or azithromycin
+- ## Acute otitis media
+- Amoxicillin 40–45 mg/kg twice daily (adults 500 mg–1 g TDS) for 5 days (10 days if <2 years or severe)
+- No improvement in 48–72 h: amoxicillin-clavulanate
+- ## Chronic suppurative otitis media
+- Dry mopping + topical ciprofloxacin ear drops for 2 weeks
+special:
+- Peritonsillar abscess (quinsy): drainage + IV benzylpenicillin + metronidazole
+complications:
+- Rheumatic fever, post-streptococcal glomerulonephritis, quinsy; mastoiditis, hearing loss, meningitis (AOM)
+danger:
+- Drooling, unable to swallow, trismus, stridor; swelling behind the ear → refer
+advice:
+- Complete 10 days of penicillin for strep throat even when better — prevents rheumatic heart disease
+- Most sore throats and colds get better without antibiotics
+pearls:
+- Amoxicillin causes rash in infectious mononucleosis (EBV pharyngitis)
+drugs: phenoxymethylpenicillin, benzathine-penicillin, amoxicillin, amoxicillin-clavulanate, erythromycin, azithromycin, paracetamol, ibuprofen, ciprofloxacin
+
+=== disease: conjunctivitis
+name: Conjunctivitis (incl. Ophthalmia Neonatorum)
+category: Eye
+stg: Ch. 14 — Eye (§14.2.5), Ch. 12 (§12.9)
+source: stg2021
+aka: red eye; pink eye; conjunctivitis; macho mekundu; ophthalmia neonatorum; allergic conjunctivitis
+summary: Inflammation of the conjunctiva — bacterial, viral or allergic. Neonatal conjunctivitis within 28 days of birth (gonococcal/chlamydial) is an emergency that can cause blindness.
+causes:
+- Bacterial: S. aureus, S. pneumoniae, H. influenzae; neonatal: N. gonorrhoeae, C. trachomatis
+- Viral: adenovirus; allergic: pollen, dust (vernal keratoconjunctivitis in children)
+risk:
+- Contact with infected people, poor hygiene; maternal STI (neonates); atopy
+features:
+- Bacterial: red eye, purulent discharge, eyelids stuck in the morning
+- Viral: watery discharge, gritty, preauricular node, often bilateral after one eye
+- Allergic: intense itching, watery, bilateral, seasonal
+- Neonatal: swollen lids, profuse pus within first days of life
+investigations:
+- Clinical; Gram stain/culture in neonates; visual acuity; fluorescein if pain/photophobia
+diagnosis: Clinical.
+nonpharm:
+- Clean eyes with boiled cooled water; hand washing; do not share towels; cold compress (allergic)
+treatment:
+- ## Bacterial
+- Chloramphenicol 0.5% eye drops every 2 hours for 2 days then 4 times daily for 5 days, or tetracycline 1% eye ointment 3–4 times daily for 5–7 days
+- ## Viral
+- Supportive; antibiotic drops only if secondary infection
+- ## Allergic
+- Antihistamine (oral cetirizine), cold compresses; mast-cell stabiliser/steroid drops under specialist care only
+- ## Ophthalmia neonatorum
+- Ceftriaxone 50 mg/kg IM single dose (max 125 mg) + frequent saline eye washes; chlamydia — erythromycin syrup 50 mg/kg/day for 14 days; treat mother and partner
+- ## Prevention at birth
+- Tetracycline 1% eye ointment to both eyes within 1 hour of birth
+special:
+- Never use steroid eye drops without ophthalmology review (herpes keratitis, glaucoma)
+complications:
+- Keratitis, corneal ulcer, blindness (neonatal gonococcal)
+danger:
+- Pain, reduced vision, photophobia, corneal opacity → urgent eye referral
+advice:
+- Wash hands before and after applying drops; do not touch the eye with the dropper tip
+- Discard eye drops 28 days after opening
+pearls:
+- Red eye with pain and reduced vision is NOT simple conjunctivitis — think keratitis, uveitis, acute glaucoma
+drugs: chloramphenicol, ceftriaxone, erythromycin, cetirizine

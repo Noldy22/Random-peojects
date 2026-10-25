@@ -1,0 +1,492 @@
+# Hand-written MCQs. "a" is the correct answer; "w" lists distractors separated by " | ".
+# topic links the question to a disease or drug id (or "law").
+
+=== mcq: m1
+topic: malaria-uncomplicated
+q: A 4-year-old (16 kg) has fever and a positive mRDT with no danger signs. What is the correct artemether-lumefantrine dose?
+a: 2 tablets (20/120 mg) per dose, 6 doses over 3 days
+w: 1 tablet per dose, 6 doses over 3 days | 3 tablets per dose, 6 doses over 3 days | 2 tablets once daily for 3 days
+why: 15–24 kg = 2 tablets per dose at 0, 8, 24, 36, 48 and 60 hours, taken with fatty food or milk.
+
+=== mcq: m2
+topic: artemether-lumefantrine
+q: Which counselling point most improves lumefantrine absorption?
+a: Take each dose with fatty food or milk
+w: Take on an empty stomach | Take with an antacid | Take with orange juice
+why: Lumefantrine absorption increases many-fold with dietary fat.
+
+=== mcq: m3
+topic: malaria-severe
+q: The drug of choice for severe malaria in a pregnant woman in her first trimester is:
+a: Parenteral artesunate
+w: Oral artemether-lumefantrine | IV quinine only | Sulfadoxine-pyrimethamine
+why: WHO and STG recommend IV/IM artesunate for severe malaria in all trimesters — it saves maternal lives.
+
+=== mcq: m4
+topic: malaria-severe
+q: Which adverse effect should be monitored for 1–3 weeks after parenteral artesunate?
+a: Delayed haemolysis
+w: Hypoglycaemia | QT prolongation | Ototoxicity
+why: Post-artesunate delayed haemolysis — check Hb at days 7, 14 and 28.
+
+=== mcq: m5
+topic: sulfadoxine-pyrimethamine
+q: A pregnant woman living with HIV takes co-trimoxazole prophylaxis. What should she receive for IPTp?
+a: No SP — co-trimoxazole already provides protection and combining increases sulfa toxicity
+w: SP monthly from 13 weeks | SP plus extra folic acid 5 mg | SP only in the third trimester
+why: Women on CPT must not receive SP (risk of Stevens–Johnson syndrome).
+
+=== mcq: m6
+topic: tld
+q: A patient on TLD starts rifampicin-based TB treatment. What adjustment is needed?
+a: Add an extra dolutegravir 50 mg dose 12 hours later (DTG twice daily)
+w: No change is needed | Stop TLD until TB treatment ends | Switch rifampicin to isoniazid alone
+why: Rifampicin halves DTG levels; give DTG 50 mg BD during and for 2 weeks after rifampicin.
+
+=== mcq: m7
+topic: tld
+q: How should a patient take TLD with an aluminium/magnesium antacid?
+a: TLD 2 hours before or 6 hours after the antacid
+w: Together in the same glass of water | TLD 30 minutes after the antacid | Antacids never interact with TLD
+why: Polyvalent cations chelate dolutegravir and reduce its absorption.
+
+=== mcq: m8
+topic: efavirenz
+q: Which contraceptive is most reduced in effectiveness by efavirenz?
+a: Levonorgestrel implant
+w: DMPA injection | Copper IUD | Male condom
+why: Efavirenz induces metabolism and lowers levonorgestrel implant levels by about 50%.
+
+=== mcq: m9
+topic: rhze
+q: A woman on 2RHZE asks about contraception. The most appropriate hormonal option is:
+a: DMPA injection every 3 months
+w: Combined oral contraceptive pill | Progestogen-only pill | Levonorgestrel implant
+why: Rifampicin induces enzymes and makes pills and implants unreliable; DMPA (or IUD) remains effective.
+
+=== mcq: m10
+topic: rhze
+q: Which first-line TB drug causes optic neuritis with red-green colour blindness?
+a: Ethambutol
+w: Isoniazid | Pyrazinamide | Rifampicin
+why: Ethambutol — check visual acuity and colour vision.
+
+=== mcq: m11
+topic: isoniazid
+q: Peripheral neuropathy from isoniazid is prevented by:
+a: Pyridoxine (vitamin B6)
+w: Thiamine | Folic acid | Vitamin B12
+why: Isoniazid depletes pyridoxine; give 10–25 mg daily to at-risk patients.
+
+=== mcq: m12
+topic: hypertension
+q: According to the STG 7th Edition, the default first-line antihypertensive without a compelling indication is:
+a: A thiazide diuretic
+w: A beta-blocker | An ACE inhibitor in all patients | Methyldopa
+why: The 7th Edition names a thiazide as the default first-line agent.
+
+=== mcq: m13
+topic: enalapril
+q: Which is an absolute contraindication to an ACE inhibitor?
+a: Pregnancy
+w: Type 2 diabetes | Heart failure | Previous myocardial infarction
+why: ACE inhibitors are fetotoxic; they are first-line in diabetes, HF and post-MI.
+
+=== mcq: m14
+topic: enalapril
+q: A patient develops a dry tickly cough on enalapril. The best alternative is:
+a: Losartan
+w: Captopril | Lisinopril | Enalapril at a lower dose
+why: Cough is a class effect of ACE inhibitors (bradykinin); ARBs do not cause it.
+
+=== mcq: m15
+topic: ibuprofen
+q: The "triple whammy" causing acute kidney injury is:
+a: ACE inhibitor/ARB + diuretic + NSAID
+w: Beta-blocker + CCB + statin | Metformin + sulfonylurea + insulin | Aspirin + clopidogrel + PPI
+why: Each reduces renal perfusion or glomerular pressure; together they precipitate AKI.
+
+=== mcq: m16
+topic: pregnancy-hypertension
+q: Before each maintenance dose of magnesium sulfate you must check all EXCEPT:
+a: Blood glucose
+w: Patellar reflexes | Respiratory rate ≥16/min | Urine output ≥30 mL/hour
+why: Loss of reflexes, respiratory depression and oliguria signal toxicity.
+
+=== mcq: m17
+topic: magnesium-sulfate
+q: The antidote for magnesium sulfate toxicity is:
+a: Calcium gluconate 10%, 10 mL IV over 10 minutes
+w: Naloxone 0.4 mg IV | Atropine 1 mg IV | Sodium bicarbonate 8.4%
+why: Calcium antagonises magnesium at the neuromuscular junction.
+
+=== mcq: m18
+topic: warfarin
+q: Which antimicrobial is most likely to cause a dangerous rise in INR in a patient on warfarin?
+a: Metronidazole
+w: Rifampicin | Amoxicillin | Nitrofurantoin
+why: Metronidazole inhibits warfarin metabolism (CYP2C9); rifampicin lowers INR.
+
+=== mcq: m19
+topic: warfarin
+q: The best dietary advice for a patient on warfarin is:
+a: Keep intake of green leafy vegetables consistent
+w: Completely avoid all vegetables | Eat as much spinach as possible | Diet does not matter
+why: Vitamin K intake changes alter INR — consistency matters more than avoidance.
+
+=== mcq: m20
+topic: digoxin
+q: Which electrolyte disturbance most increases the risk of digoxin toxicity?
+a: Hypokalaemia
+w: Hyperkalaemia | Hypernatraemia | Hypocalcaemia
+why: Low K+ (e.g. from loop/thiazide diuretics) increases digoxin binding to Na/K-ATPase.
+
+=== mcq: m21
+topic: amiodarone
+q: When amiodarone is started in a patient on digoxin, the digoxin dose should be:
+a: Halved
+w: Doubled | Unchanged | Stopped permanently
+why: Amiodarone roughly doubles digoxin levels.
+
+=== mcq: m22
+topic: diabetes
+q: Metformin should be stopped when eGFR falls below:
+a: 30 mL/min/1.73 m²
+w: 60 mL/min/1.73 m² | 90 mL/min/1.73 m² | 15 mL/min/1.73 m²
+why: Risk of lactic acidosis; reduce dose when eGFR 30–45.
+
+=== mcq: m23
+topic: metformin
+q: Which antiretroviral roughly doubles metformin levels?
+a: Dolutegravir
+w: Efavirenz | Zidovudine | Nevirapine
+why: DTG inhibits OCT2/MATE1 — limit metformin to 1 g/day.
+
+=== mcq: m24
+topic: diabetes
+q: In DKA, insulin should NOT be started until potassium is at least:
+a: 3.3 mmol/L
+w: 5.5 mmol/L | 2.5 mmol/L | 4.5 mmol/L
+why: Insulin drives K+ into cells and can cause fatal hypokalaemia.
+
+=== mcq: m25
+topic: glibenclamide
+q: Which sulfonylurea is preferred in an elderly patient because of lower hypoglycaemia risk?
+a: Gliclazide
+w: Glibenclamide | Chlorpropamide | Glimepiride at maximum dose
+why: Glibenclamide is long-acting with active metabolites — prolonged hypoglycaemia in elderly/renal impairment.
+
+=== mcq: m26
+topic: insulin-soluble
+q: How should unopened insulin vials be stored?
+a: 2–8°C in a refrigerator, never frozen
+w: In the freezer | At 30–40°C in a sunny place | Below 0°C
+why: Freezing denatures insulin; in-use vials may be kept below 25–30°C for 28 days.
+
+=== mcq: m27
+topic: asthma
+q: After using a steroid inhaler, a patient should:
+a: Rinse the mouth with water and spit
+w: Lie down for 30 minutes | Take a second puff immediately | Drink milk
+why: Prevents oral candidiasis and hoarseness.
+
+=== mcq: m28
+topic: asthma
+q: Which drug is contraindicated in a patient with asthma?
+a: Propranolol
+w: Salbutamol | Beclometasone | Montelukast
+why: Non-selective β-blockers cause bronchospasm.
+
+=== mcq: m29
+topic: peptic-ulcer
+q: Standard H. pylori triple therapy is given for:
+a: 14 days
+w: 3 days | 30 days | Single dose
+why: PPI + amoxicillin + clarithromycin (or metronidazole) twice daily for 14 days.
+
+=== mcq: m30
+topic: clopidogrel
+q: Which PPI is preferred in a patient taking clopidogrel?
+a: Pantoprazole
+w: Omeprazole | Esomeprazole | Any PPI is equally fine
+why: Omeprazole/esomeprazole inhibit CYP2C19, reducing activation of clopidogrel.
+
+=== mcq: m31
+topic: ciprofloxacin
+q: Ciprofloxacin should be separated from ferrous sulfate because:
+a: Iron chelates ciprofloxacin and reduces its absorption
+w: Iron increases ciprofloxacin toxicity | Ciprofloxacin destroys iron | They cause hypoglycaemia together
+why: Take ciprofloxacin 2 h before or 6 h after iron, zinc, calcium, antacids.
+
+=== mcq: m32
+topic: doxycycline
+q: Which counselling point prevents oesophageal ulceration with doxycycline?
+a: Take with a full glass of water and stay upright for 30 minutes
+w: Take at bedtime lying down | Chew the capsule | Take with milk
+why: Pill oesophagitis occurs if the capsule lodges in the oesophagus.
+
+=== mcq: m33
+topic: metronidazole
+q: A patient on metronidazole should avoid alcohol for how long after the last dose?
+a: 48 hours
+w: 1 hour | 2 weeks | No restriction is needed
+why: Disulfiram-like reaction; 72 h for tinidazole.
+
+=== mcq: m34
+topic: ceftriaxone
+q: Ceftriaxone must not be co-infused with which IV fluid, especially in neonates?
+a: Ringer's lactate (calcium-containing)
+w: 0.9% sodium chloride | 5% dextrose | Water for injection
+why: Ceftriaxone–calcium precipitates can deposit in lungs and kidneys.
+
+=== mcq: m35
+topic: gentamicin
+q: Which combination increases the risk of ototoxicity with gentamicin?
+a: Furosemide
+w: Paracetamol | Amoxicillin | Metformin
+why: Loop diuretics and aminoglycosides are both ototoxic.
+
+=== mcq: m36
+topic: meropenem
+q: Meropenem should be avoided in a patient on which anticonvulsant?
+a: Sodium valproate
+w: Levetiracetam | Phenobarbital | Diazepam
+why: Carbapenems reduce valproate levels dramatically within 24 hours.
+
+=== mcq: m37
+topic: pneumonia
+q: First-line treatment of pneumonia (chest indrawing, no danger signs) in a 2-year-old per IMCI is:
+a: Oral amoxicillin dispersible 40 mg/kg twice daily for 5 days
+w: Ciprofloxacin syrup | IM ceftriaxone for 10 days | Co-trimoxazole for 3 days
+why: Oral amoxicillin DT is first line; danger signs need benzylpenicillin/ampicillin + gentamicin.
+
+=== mcq: m38
+topic: uti
+q: Nitrofurantoin should NOT be used for:
+a: Acute pyelonephritis
+w: Uncomplicated cystitis | Cystitis in the second trimester | UTI prophylaxis
+why: It only achieves therapeutic concentrations in urine, not renal tissue.
+
+=== mcq: m39
+topic: childhood-diarrhoea
+q: Zinc is given to children with diarrhoea for:
+a: 10 days
+w: 3 days | 1 day | 30 days
+why: 10 mg (<6 months) or 20 mg (≥6 months) daily for 10 days.
+
+=== mcq: m40
+topic: childhood-diarrhoea
+q: Plan C rehydration for a 3-year-old with severe dehydration is Ringer's lactate:
+a: 30 mL/kg in 30 minutes, then 70 mL/kg in 2.5 hours
+w: 10 mL/kg over 24 hours | 100 mL/kg in 10 minutes | 75 mL/kg orally over 4 hours
+why: Children ≥12 months: 30 mL/kg in 30 min then 70 mL/kg in 2.5 h (infants 1 h then 5 h).
+
+=== mcq: m41
+topic: anaphylaxis
+q: The first-line drug and route for anaphylaxis in an adult is:
+a: Adrenaline 0.5 mg (1:1000) intramuscularly into the thigh
+w: Chlorphenamine 10 mg IV | Hydrocortisone 200 mg IV | Adrenaline 1 mg (1:1000) IV bolus
+why: IM adrenaline reverses airway oedema, bronchospasm and hypotension; antihistamines and steroids are adjuncts.
+
+=== mcq: m42
+topic: paracetamol
+q: The antidote for paracetamol poisoning is:
+a: N-acetylcysteine
+w: Naloxone | Flumazenil | Deferoxamine
+why: NAC replenishes glutathione to detoxify NAPQI; most effective within 8 hours.
+
+=== mcq: m43
+topic: poisoning
+q: Activated charcoal is NOT useful for poisoning with:
+a: Kerosene (paraffin)
+w: Paracetamol | Carbamazepine | Phenobarbital
+why: Charcoal does not adsorb hydrocarbons, corrosives, iron, alcohols or lithium; kerosene also risks aspiration.
+
+=== mcq: m44
+topic: atropine
+q: The end-point of atropinisation in organophosphate poisoning is:
+a: Clear chest (dry secretions), HR >80, SBP >80 mmHg
+w: Pupils fully dilated | Patient fully awake | Temperature above 39°C
+why: Titrate to drying of bronchial secretions, not pupil size.
+
+=== mcq: m45
+topic: morphine
+q: Which medicine should always be co-prescribed with regular morphine?
+a: A laxative (e.g. bisacodyl + lactulose)
+w: Loperamide | An antacid | Ciprofloxacin
+why: Opioid-induced constipation does not develop tolerance.
+
+=== mcq: m46
+topic: naloxone
+q: Why must patients be observed for several hours after naloxone reversal?
+a: Naloxone's duration is shorter than most opioids — re-sedation may occur
+w: Naloxone causes delayed seizures | Naloxone causes hypoglycaemia | Naloxone is nephrotoxic
+why: Naloxone lasts 30–90 minutes; repeat doses or infusion may be needed.
+
+=== mcq: m47
+topic: sodium-valproate
+q: Which antiepileptic should be avoided in women of childbearing potential unless there is no alternative?
+a: Sodium valproate
+w: Levetiracetam | Lamotrigine | Diazepam (single dose)
+why: Valproate has the highest risk of neural tube defects and neurodevelopmental harm.
+
+=== mcq: m48
+topic: epilepsy
+q: Per STG 2021, first-line drug for a seizure lasting more than 5 minutes is:
+a: Diazepam IV 0.15–0.2 mg/kg (max 10 mg) or rectal
+w: Phenytoin orally | Carbamazepine syrup | Haloperidol IM
+why: Benzodiazepine first, then phenobarbitone/phenytoin 20 mg/kg if seizures persist.
+
+=== mcq: m49
+topic: haloperidol
+q: A young man develops an oculogyric crisis after haloperidol. The treatment is:
+a: An anticholinergic such as benzhexol (or IV/IM biperiden/diphenhydramine)
+w: More haloperidol | Metoclopramide | Propranolol
+why: Acute dystonia is an extrapyramidal effect reversed by anticholinergics.
+
+=== mcq: m50
+topic: fluoxetine
+q: Fluoxetine should be avoided with tamoxifen because:
+a: It inhibits CYP2D6, reducing activation of tamoxifen
+w: It causes hyperkalaemia | It induces tamoxifen metabolism | It precipitates with tamoxifen
+why: Endoxifen formation depends on CYP2D6.
+
+=== mcq: m51
+topic: gout
+q: When should allopurinol be started in relation to an acute gout attack?
+a: About 2 weeks after the attack settles, with colchicine/NSAID cover
+w: During the acute attack | Never in gout | Only if uric acid is normal
+why: Starting during an attack can prolong it; do not stop if already taking it.
+
+=== mcq: m52
+topic: methotrexate
+q: Low-dose methotrexate for rheumatoid arthritis is taken:
+a: Once weekly
+w: Once daily | Twice daily | Every 3 months
+why: Daily dosing by mistake causes fatal toxicity; folic acid is given on a different day.
+
+=== mcq: m53
+topic: sickle-cell
+q: Penicillin V prophylaxis in a 4-year-old with sickle cell disease is:
+a: 250 mg twice daily
+w: 125 mg once weekly | 500 mg four times daily | Benzathine penicillin monthly only in adults
+why: <3 years 125 mg BD; ≥3 years 250 mg BD, at least until age 5.
+
+=== mcq: m54
+topic: hydroxyurea
+q: The main mechanism of benefit of hydroxyurea in sickle cell disease is:
+a: Increased fetal haemoglobin (HbF)
+w: Increased HbS production | Iron chelation | Splenic enlargement
+why: HbF interferes with HbS polymerisation.
+
+=== mcq: m55
+topic: ferrous-sulfate
+q: Which drink is best taken with ferrous sulfate to improve absorption?
+a: Orange juice
+w: Tea | Milk | Coffee
+why: Vitamin C enhances iron absorption; tea, milk and coffee reduce it.
+
+=== mcq: m56
+topic: pph
+q: The uterotonic of choice for active management of the third stage of labour is:
+a: Oxytocin 10 IU IM within 1 minute of birth
+w: Ergometrine 0.5 mg IV in all women | Misoprostol 2 mg vaginally | Magnesium sulfate 4 g IV
+why: Oxytocin is first line; misoprostol 600 mcg orally if oxytocin unavailable.
+
+=== mcq: m57
+topic: ergometrine
+q: Ergometrine is contraindicated in a woman with:
+a: Pre-eclampsia/hypertension
+w: Anaemia | Previous caesarean section | Diabetes
+why: Ergometrine causes vasoconstriction and severe hypertension.
+
+=== mcq: m58
+topic: tranexamic-acid
+q: For PPH, tranexamic acid must be given within:
+a: 3 hours of birth
+w: 24 hours of birth | 1 week of birth | Any time
+why: WOMAN trial — benefit falls with delay and disappears after 3 hours.
+
+=== mcq: m59
+topic: sti-urethral-vaginal
+q: Which drug replaces doxycycline in the syndromic treatment of a pregnant woman?
+a: Azithromycin
+w: Ciprofloxacin | Tetracycline | Metronidazole
+why: Tetracyclines are contraindicated in pregnancy.
+
+=== mcq: m60
+topic: genital-ulcer-syphilis
+q: The ONLY recommended treatment of syphilis in pregnancy is:
+a: Benzathine benzylpenicillin
+w: Doxycycline | Ciprofloxacin | Acyclovir
+why: Penicillin reliably treats the fetus and prevents congenital syphilis.
+
+=== mcq: m61
+topic: glyceryl-trinitrate
+q: Glyceryl trinitrate is absolutely contraindicated with:
+a: Sildenafil
+w: Aspirin | Atorvastatin | Bisoprolol
+why: PDE-5 inhibitors + nitrates cause severe, potentially fatal hypotension.
+
+=== mcq: m62
+topic: adrenaline
+q: Adrenaline 1:1000 contains:
+a: 1 mg per mL
+w: 0.1 mg per mL | 10 mg per mL | 1 mcg per mL
+why: 1:1000 = 1 g in 1000 mL = 1 mg/mL (IM use); 1:10,000 = 0.1 mg/mL (IV in arrest).
+
+=== mcq: m63
+topic: law
+q: Under the Pharmacy (Premises Registration) Regulations 2020, the minimum distance between community pharmacies is:
+a: 150 metres
+w: 50 metres | 300 metres | 500 metres
+why: ≥150 m from an existing community pharmacy (does not apply to wholesale/consultant pharmacies).
+
+=== mcq: m64
+topic: law
+q: A pharmacy (business) permit in Tanzania expires on:
+a: 30 June every year
+w: 31 December every 5 years | 1 January every year | 30 June every 5 years
+why: The premises certificate is valid 5 years; the permit is annual, expiring 30 June.
+
+=== mcq: m65
+topic: law
+q: A standard prescription (without refills) is valid for:
+a: 7 days from the date it was written
+w: 30 days | 180 days | 1 year
+why: Prescription Handling and Control Regulations 2020; refill prescriptions for stable patients 180 days; no refills for controlled drugs.
+
+=== mcq: m66
+topic: law
+q: Which colour prescription is used at secondary-level health facilities?
+a: Yellow
+w: White | Blue | Green
+why: White — tertiary; Yellow — secondary; Blue — primary.
+
+=== mcq: m67
+topic: law
+q: The minimum remaining shelf-life for imported medicines at the port of entry (TMDA) is:
+a: 60% of the total shelf-life
+w: 25% | 40% | 90%
+why: 50% may be allowed for products with ≤24-month shelf-life with prior approval.
+
+=== mcq: m68
+topic: law
+q: Which medicine is NOT permitted in an ADDO (DLDM)?
+a: Ceftriaxone injection
+w: Artemether-lumefantrine | Amoxicillin capsules | Oral rehydration salts
+why: Injectables and broad-spectrum/WATCH antibiotics are prohibited in ADDOs.
+
+=== mcq: m69
+topic: law
+q: Pharmaceutical technicians are recorded in the:
+a: Roll
+w: Register | List | Gazette
+why: Pharmacists — Register; Technicians — Roll; Assistants — List.
+
+=== mcq: m70
+topic: law
+q: Under NEMLIT 2021, a Clinical Officer may prescribe medicines of level:
+a: A and B
+w: A only | A, B and C | A, B, C, D and S
+why: ACO — A; CO — A & B; AMO — A, B, C; MO — A–D; Specialist — A–D and S.

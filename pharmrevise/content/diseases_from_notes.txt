@@ -1,0 +1,1005 @@
+# Disease topics whose core text (introduction → pharmacological management, and "What changed")
+# is pulled automatically from the 7th-Edition (2026) class notes. Fields below ADD to that text.
+# notes: <NotesFile>#<topic number>   quickref: <heading in Quick_Reference_Summary>
+
+=== disease: hypertension
+name: Essential Hypertension
+category: Cardiovascular
+stg: Ch. 20 — Cardiovascular (§20.5)
+notes: Cardiovascular_Disorders_Study_Notes#1
+quickref: Essential Hypertension
+aka: high blood pressure; HTN; shinikizo la damu
+investigations:
+- BP measured correctly on 3 occasions (seated, arm at heart level, correct cuff size)
+- Urinalysis (protein, blood), serum creatinine/eGFR, electrolytes (K+), fasting glucose/HbA1c, lipid profile
+- ECG (LVH), fundoscopy; echocardiogram if LVH or heart failure suspected
+advice:
+- Hypertension is usually silent — keep taking your tablets even when you feel well
+- Reduce salt (no added salt at the table, avoid salty snacks, dagaa and processed foods), eat more vegetables and fruit
+- Walk briskly 30 minutes most days; aim for a healthy weight; stop smoking; limit alcohol
+- Check your BP regularly and bring your readings to clinic
+- Avoid painkillers like ibuprofen/diclofenac and decongestant cold remedies without advice (they raise BP)
+- ACE inhibitor/ARB users: use contraception, report dry cough or lip/face swelling
+pearls:
+- STG 7th Ed: thiazide diuretic is the default first-line drug when no compelling indication
+- Start two drugs when BP is >20/10 mmHg above target
+- Never combine an ACE inhibitor with an ARB
+- Pregnancy: labetalol, nifedipine, methyldopa, hydralazine — never ACEi/ARB
+danger:
+- BP ≥180/110 with headache, chest pain, breathlessness, confusion, weakness or visual loss → hypertensive emergency, refer
+drugs: hydrochlorothiazide, amlodipine, enalapril, captopril, losartan, atenolol, bisoprolol, carvedilol, methyldopa, labetalol, nifedipine, spironolactone, furosemide, hydralazine
+
+=== disease: coronary-heart-disease
+name: Coronary Heart Disease (Angina & Acute Coronary Syndrome)
+category: Cardiovascular
+stg: Ch. 20 (§20.1–20.4)
+notes: Cardiovascular_Disorders_Study_Notes#2
+quickref: Coronary Heart Disease
+aka: ischaemic heart disease; IHD; angina; myocardial infarction; heart attack; ACS; STEMI; NSTEMI
+investigations:
+- 12-lead ECG within 10 minutes of arrival (ST elevation/depression, T inversion, new LBBB)
+- Cardiac troponin (repeat at 3–6 h), FBC, electrolytes, creatinine, glucose, lipids
+- Echocardiography; exercise stress test or angiography for stable disease
+advice:
+- Keep GTN with you; sit down, use 1 spray under the tongue, repeat after 5 minutes; if pain persists 5 minutes after first dose call for emergency help
+- Take aspirin/clopidogrel every day; never stop after a stent without talking to your cardiologist
+- Statin daily; stop smoking completely; healthy diet; gradual return to exercise
+- Do not use sildenafil-type medicines with nitrates
+pearls:
+- ACS immediate care: aspirin 300 mg chewed + clopidogrel loading, oxygen only if SpO2 <90%, GTN, analgesia (morphine), anticoagulation, reperfusion
+- Long-term "ABCS": Antiplatelet, Beta-blocker, ACE inhibitor, Statin
+- Avoid NSAIDs and non-dihydropyridine CCBs in heart failure after MI
+danger:
+- Chest pain >20 minutes at rest, sweating, breathlessness, syncope → emergency referral
+drugs: aspirin, clopidogrel, glyceryl-trinitrate, atorvastatin, atenolol, bisoprolol, enalapril, heparin, enoxaparin, morphine, alteplase, simvastatin
+
+=== disease: pregnancy-hypertension
+name: Hypertensive Disorders of Pregnancy (Pre-eclampsia & Eclampsia)
+category: Obstetrics & Gynaecology
+stg: Ch. 11 (§11.7.2–11.7.5)
+notes: Cardiovascular_Disorders_Study_Notes#3
+quickref: Pregnancy-Induced Hypertension (and Pre-Eclampsia/Eclampsia)
+aka: pregnancy-induced hypertension; PIH; pre-eclampsia; eclampsia; HELLP; gestational hypertension
+investigations:
+- BP every visit; urine protein (dipstick ≥2+ or PCR ≥0.3)
+- FBC with platelets, LFTs (ALT/AST), creatinine, uric acid, LDH and blood film (HELLP), clotting profile
+- Fetal assessment: growth scan, Doppler, CTG
+advice:
+- Attend every antenatal visit; BP checks are vital in the second half of pregnancy
+- Seek urgent care for severe headache, blurred vision/flashing lights, upper abdominal pain, sudden swelling of face/hands, reduced baby movements, or fits
+- Low-dose aspirin at night from 12 weeks if high risk (as prescribed); calcium supplement where advised
+- Methyldopa can cause drowsiness; switch is often made after delivery
+pearls:
+- MgSO4 is the anticonvulsant of choice (Pritchard: 4 g IV + 10 g IM, then 5 g IM 4-hourly); check reflexes, RR ≥16, urine ≥30 mL/h before each dose
+- Antidote for magnesium toxicity: calcium gluconate 1 g IV over 10 min
+- Definitive treatment is delivery; give dexamethasone 6 mg IM 12-hourly × 4 if <34 weeks
+- ACE inhibitors/ARBs are contraindicated in pregnancy
+danger:
+- BP ≥160/110, convulsions, oliguria, pulmonary oedema, platelets <100 → severe pre-eclampsia/eclampsia — stabilise and refer
+drugs: magnesium-sulfate, methyldopa, labetalol, nifedipine, hydralazine, calcium-gluconate, aspirin, dexamethasone
+
+=== disease: heart-failure
+name: Heart Failure
+category: Cardiovascular
+stg: Ch. 20 (§20.9–20.11)
+notes: Cardiovascular_Disorders_Study_Notes#4
+quickref: Heart Failure
+aka: congestive cardiac failure; CCF; HFrEF; HFpEF; pulmonary oedema
+investigations:
+- Echocardiography (ejection fraction), ECG, chest X-ray (cardiomegaly, Kerley B lines, effusions)
+- BNP/NT-proBNP where available; FBC (anaemia), electrolytes, creatinine, TFTs, glucose
+advice:
+- Weigh yourself every morning; report a gain of more than 2 kg in 3 days or increasing ankle swelling/breathlessness
+- Limit salt; follow fluid advice (often 1.5–2 L/day if advanced)
+- Take furosemide in the morning; keep taking beta-blocker and ACE inhibitor even if you feel tired at first
+- Avoid NSAIDs (ibuprofen, diclofenac) — they cause fluid retention and worsen heart failure
+- Get influenza/pneumococcal vaccination where available
+pearls:
+- Mortality-reducing "pillars" in HFrEF: ACEi/ARB(/ARNI), evidence-based β-blocker, MRA (spironolactone), SGLT2 inhibitor
+- Diuretics relieve symptoms only — no mortality benefit
+- Avoid verapamil/diltiazem, NSAIDs, thiazolidinediones in HFrEF
+- Digoxin toxicity is precipitated by hypokalaemia from diuretics
+danger:
+- Breathlessness at rest, pink frothy sputum, chest pain, fainting → acute pulmonary oedema emergency
+drugs: furosemide, enalapril, captopril, losartan, bisoprolol, carvedilol, spironolactone, digoxin, glyceryl-trinitrate, hydralazine
+
+=== disease: arrhythmias
+name: Cardiac Arrhythmias (incl. Atrial Fibrillation)
+category: Cardiovascular
+stg: Ch. 20 (§20.15–20.17)
+notes: Cardiovascular_Disorders_Study_Notes#5
+quickref: Cardiac Arrhythmias
+aka: atrial fibrillation; AF; SVT; ventricular tachycardia; heart block; bradycardia; palpitations
+investigations:
+- 12-lead ECG (and rhythm strip/Holter), electrolytes (K+, Mg2+, Ca2+), TFTs, echocardiogram
+- Assess stroke risk (CHA2DS2-VASc) and bleeding risk (HAS-BLED) in AF
+advice:
+- Take anticoagulant at the same time daily and attend INR checks; carry an anticoagulant card
+- Learn to check your pulse; report fainting, chest pain, breathlessness
+- Limit alcohol and caffeine; treat thyroid disease
+pearls:
+- AF management = rate control (β-blocker, digoxin) + rhythm control (selected) + stroke prevention (warfarin/DOAC)
+- Unstable tachyarrhythmia (shock, syncope, ischaemia, heart failure) → synchronised DC cardioversion
+- Amiodarone: thyroid, lung, liver, skin toxicity and doubles digoxin/raises INR
+danger:
+- Palpitations with fainting, chest pain, hypotension or breathlessness → emergency
+drugs: amiodarone, digoxin, bisoprolol, atenolol, propranolol, warfarin, heparin, aspirin
+
+=== disease: peripheral-vascular
+name: Peripheral Vascular Disorders (Peripheral Arterial Disease)
+category: Cardiovascular
+stg: Ch. 20
+notes: Cardiovascular_Disorders_Study_Notes#6
+quickref: Peripheral Vascular Disorders
+aka: peripheral arterial disease; PAD; intermittent claudication; critical limb ischaemia
+investigations:
+- Ankle-brachial pressure index (ABPI <0.9 diagnostic), Doppler ultrasound, angiography before revascularisation
+- Glucose/HbA1c, lipids, renal function
+advice:
+- Stop smoking completely — the single most important measure
+- Walk daily until pain, rest, then continue (supervised exercise improves walking distance)
+- Inspect feet daily (especially diabetics), wear well-fitting shoes, never walk barefoot
+pearls:
+- All patients need antiplatelet + statin + BP/glucose control
+- Non-selective β-blockers may worsen claudication — use cautiously
+danger:
+- Sudden cold, pale, painful, pulseless limb → acute limb ischaemia (surgical emergency)
+drugs: aspirin, clopidogrel, atorvastatin, enalapril, heparin
+
+=== disease: dvt-pe
+name: Venous Thromboembolism (DVT & Pulmonary Embolism)
+category: Cardiovascular
+stg: Ch. 3 (§3.3.1–3.3.2), Ch. 20 (§20.14)
+notes: Cardiovascular_Disorders_Study_Notes#7
+quickref: Thromboembolic Disorders — Deep Vein Thrombosis and Pulmonary Embolism
+aka: deep vein thrombosis; DVT; pulmonary embolism; PE; VTE; blood clot
+investigations:
+- Wells score; D-dimer (to exclude if low probability); compression ultrasound (DVT)
+- CT pulmonary angiography (PE); ECG (sinus tachycardia, S1Q3T3), echo for RV strain
+- Baseline FBC, platelets, PT/INR, APTT, creatinine before anticoagulation
+advice:
+- Warfarin: same time daily, regular INR checks, consistent vitamin K intake, avoid NSAIDs and herbal remedies
+- LMWH: inject into abdomen, rotate sites, do not rub
+- Report bleeding, black stools, severe headache; chest pain or breathlessness
+- On long journeys walk/stretch hourly and stay hydrated
+pearls:
+- Overlap heparin/LMWH with warfarin for ≥5 days AND until INR ≥2 on 2 consecutive days
+- Provoked VTE: 3 months; unprovoked/recurrent: longer or indefinite; cancer: LMWH preferred
+- Pregnancy: LMWH (warfarin is teratogenic)
+- Antidotes: protamine (heparin), vitamin K ± FFP/PCC (warfarin)
+danger:
+- Sudden breathlessness, chest pain, coughing blood, collapse → possible PE (emergency)
+drugs: heparin, enoxaparin, warfarin, alteplase, vitamin-k
+
+=== disease: stroke
+name: Stroke (Ischaemic & Haemorrhagic)
+category: Neurology
+stg: Ch. 8 (§8.2)
+notes: Cardiovascular_Disorders_Study_Notes#8
+quickref: Thromboembolic Disorders — Stroke
+aka: CVA; cerebrovascular accident; brain attack; TIA; transient ischaemic attack; kiharusi
+investigations:
+- Urgent non-contrast CT head (to exclude haemorrhage before aspirin/thrombolysis)
+- Blood glucose (exclude hypoglycaemia), FBC, clotting, electrolytes, lipids, ECG (AF), echo, carotid Doppler
+advice:
+- Recognise FAST: Face drooping, Arm weakness, Speech difficulty — Time to call for help
+- Secondary prevention for life: antiplatelet (ischaemic), statin, BP control, stop smoking, control diabetes
+- Swallow assessment before giving oral medicines/food; physiotherapy early
+pearls:
+- Thrombolysis (alteplase) within 4.5 h for ischaemic stroke only after CT excludes bleeding
+- Aspirin 300 mg daily for 14 days after ischaemic stroke (once haemorrhage excluded), then long-term antiplatelet
+- Nimodipine 60 mg 4-hourly for subarachnoid haemorrhage (prevents vasospasm)
+- Permissive BP in acute ischaemic stroke (treat only if >220/120, or >185/110 if thrombolysing)
+danger:
+- Any sudden weakness, speech or vision loss → emergency referral (time is brain)
+drugs: aspirin, clopidogrel, atorvastatin, alteplase, enalapril, hydrochlorothiazide, amlodipine, warfarin, heparin
+
+=== disease: hypertensive-crisis
+name: Hypertensive Crises (Urgency & Emergency)
+category: Cardiovascular
+stg: Ch. 20 (§20.6–20.8)
+notes: Cardiovascular_Disorders_Study_Notes#9
+quickref: Hypertensive Crises (Urgency and Emergency)
+aka: hypertensive emergency; hypertensive urgency; malignant hypertension; hypertensive encephalopathy
+investigations:
+- Look for acute target-organ damage: fundoscopy, ECG, troponin, creatinine, urinalysis, CXR, CT head if neurological signs, pregnancy test
+advice:
+- After stabilisation, adherence to long-term antihypertensives prevents recurrence (non-adherence is the commonest cause)
+pearls:
+- Urgency (no organ damage): oral agents, lower over 24–48 h
+- Emergency: IV labetalol/GTN/hydralazine; reduce MAP by ≤25% in the first hour
+- Aortic dissection: β-blocker first, target SBP <120 within 20 min; phaeochromocytoma: α-blocker before β-blocker
+- Never use sublingual nifedipine
+danger:
+- Severe BP with chest pain, breathlessness, confusion, seizure, weakness or pregnancy → emergency
+drugs: labetalol, hydralazine, glyceryl-trinitrate, nifedipine, captopril, amlodipine, magnesium-sulfate, furosemide
+
+=== disease: asthma
+name: Asthma
+category: Respiratory
+stg: Ch. 9 (§9.2.1–9.2.2)
+notes: Pulmonary_GI_Hepatic_Study_Notes#1
+quickref: Asthma
+aka: bronchial asthma; pumu; wheeze
+investigations:
+- Peak expiratory flow (variability >20%), spirometry with reversibility (FEV1 ↑ ≥12% and 200 mL after salbutamol)
+- Acute: SpO2, PEF, ability to talk; CXR if pneumothorax/pneumonia suspected; blood gases in life-threatening asthma
+advice:
+- Preventer (steroid) inhaler every day; reliever only when needed — needing it >2 times a week means poor control
+- Correct inhaler technique with a spacer; rinse mouth after steroid inhaler
+- Avoid triggers: smoke, dust, cold air, aspirin/NSAIDs if sensitive, β-blockers
+- Written action plan: when to increase treatment and when to go to hospital
+pearls:
+- Acute severe asthma: oxygen, salbutamol (± ipratropium) nebulised every 20 min, prednisolone 40–50 mg (or hydrocortisone IV), MgSO4 IV if poor response
+- Every asthmatic needs an inhaled steroid-containing treatment (no SABA-only therapy)
+- Propranolol and other non-selective β-blockers are contraindicated
+danger:
+- Cannot speak in sentences, drowsy, cyanosis, silent chest, PEF <33% → life-threatening asthma
+drugs: salbutamol, beclometasone, budesonide-formoterol, ipratropium, prednisolone, hydrocortisone, aminophylline, magnesium-sulfate
+
+=== disease: copd
+name: Chronic Obstructive Pulmonary Disease (COPD)
+category: Respiratory
+stg: Ch. 9 (§9.3–9.5)
+notes: Pulmonary_GI_Hepatic_Study_Notes#2
+quickref: Chronic Obstructive Pulmonary Disease
+aka: COPD; chronic bronchitis; emphysema
+investigations:
+- Spirometry (post-bronchodilator FEV1/FVC <0.7), CXR (hyperinflation, exclude TB/cancer), SpO2, FBC (polycythaemia)
+- Sputum for AFB if chronic cough (TB is common in Tanzania)
+advice:
+- Stop smoking and avoid biomass/charcoal smoke — the only measures that slow decline
+- Use inhalers daily with correct technique; pulmonary rehabilitation/exercise
+- Get vaccinated (influenza, pneumococcal) where available
+- Start rescue pack/seek care early when sputum increases, changes colour or breathlessness worsens
+pearls:
+- Exacerbation: bronchodilators, prednisolone 40 mg × 5 days, antibiotics if purulent sputum (amoxicillin/doxycycline), controlled oxygen (target SpO2 88–92%)
+- High-flow oxygen can cause CO2 retention in COPD
+danger:
+- Confusion, drowsiness, cyanosis, severe breathlessness → hospital
+drugs: salbutamol, ipratropium, beclometasone, budesonide-formoterol, prednisolone, amoxicillin, doxycycline, aminophylline
+
+=== disease: cystic-fibrosis
+name: Cystic Fibrosis
+category: Respiratory
+stg: (Specialist topic)
+notes: Pulmonary_GI_Hepatic_Study_Notes#3
+quickref: Cystic Fibrosis
+aka: CF; mucoviscidosis
+investigations:
+- Sweat chloride test (≥60 mmol/L), CFTR genetic testing, sputum cultures (Pseudomonas, S. aureus), faecal elastase
+advice:
+- Daily airway clearance physiotherapy; pancreatic enzymes with every meal and snack; high-calorie, high-salt diet; fat-soluble vitamins
+pearls:
+- Pancreatic enzyme replacement must be taken with food; CFTR modulators are specialist therapies
+danger:
+- Haemoptysis, worsening breathlessness, fever → urgent review
+drugs: salbutamol, amoxicillin-clavulanate, ciprofloxacin
+
+=== disease: peptic-ulcer
+name: Peptic Ulcer Disease
+category: Gastrointestinal
+stg: Ch. 10 (§10.2.1–10.2.3)
+notes: Pulmonary_GI_Hepatic_Study_Notes#4
+quickref: Peptic Ulcer Disease
+aka: PUD; gastric ulcer; duodenal ulcer; H. pylori; vidonda vya tumbo
+investigations:
+- H. pylori stool antigen or urea breath test (off PPI for 2 weeks), serology (initial only)
+- Endoscopy if alarm features (age >55 new symptoms, weight loss, dysphagia, anaemia, vomiting, GI bleeding)
+- FBC for anaemia
+advice:
+- Complete the full 14-day H. pylori course even if pain stops early
+- Take omeprazole 30–60 minutes before breakfast
+- Avoid NSAIDs/aspirin (use paracetamol), smoking, alcohol
+- Black stools or vomiting blood = emergency
+pearls:
+- H. pylori triple therapy: PPI + amoxicillin + clarithromycin (metronidazole if penicillin allergy) for 14 days
+- NSAID ulcer: stop NSAID, PPI 8 weeks; if NSAID essential, add PPI
+- Upper GI bleed: resuscitate, IV pantoprazole 80 mg then 8 mg/h, endoscopy
+danger:
+- Haematemesis, melaena, severe sudden abdominal pain (perforation) → emergency
+drugs: omeprazole, amoxicillin, metronidazole, antacid
+
+=== disease: gord
+name: Gastro-oesophageal Reflux Disease (GORD/GERD)
+category: Gastrointestinal
+stg: Ch. 10
+notes: Pulmonary_GI_Hepatic_Study_Notes#5
+quickref: Gastroesophageal Reflux Disease
+aka: GERD; GORD; heartburn; reflux; acid reflux
+investigations:
+- Clinical diagnosis; trial of PPI; endoscopy if alarm features or no response
+advice:
+- Raise the head of the bed, avoid lying down within 3 hours of eating, smaller meals
+- Avoid trigger foods (fatty/spicy food, coffee, alcohol, chocolate), stop smoking, lose weight
+- Antacids give quick relief; take PPI before breakfast
+pearls:
+- Drugs that worsen reflux: nitrates, CCBs, theophylline, anticholinergics, bisphosphonates, NSAIDs
+- Pregnancy heartburn: lifestyle, antacids (alginate), then ranitidine-type/PPI
+danger:
+- Difficulty or pain on swallowing, weight loss, vomiting blood → endoscopy
+drugs: omeprazole, antacid, metoclopramide
+
+=== disease: ibd
+name: Inflammatory Bowel Disease (Ulcerative Colitis & Crohn's)
+category: Gastrointestinal
+stg: Ch. 10 (§10.3.1)
+notes: Pulmonary_GI_Hepatic_Study_Notes#6
+quickref: Inflammatory Bowel Disease (Ulcerative Colitis and Crohn's Disease)
+aka: IBD; ulcerative colitis; UC; Crohn's disease
+investigations:
+- Colonoscopy with biopsy, stool culture (exclude infection incl. amoebiasis/TB), faecal calprotectin, FBC, CRP, albumin
+advice:
+- Take maintenance therapy even when well; recognise flare symptoms early
+- Stop smoking (especially Crohn's); balanced diet; report fever or severe pain
+pearls:
+- Steroids induce remission but are not for maintenance; aminosalicylates (mesalazine) for UC
+- Exclude amoebic colitis and intestinal TB before giving steroids in Tanzania
+danger:
+- >6 bloody stools/day, fever, tachycardia, abdominal distension → acute severe colitis
+drugs: prednisolone, hydrocortisone, metronidazole, methotrexate
+
+=== disease: constipation-diarrhoea
+name: Constipation and Diarrhoea
+category: Gastrointestinal
+stg: Ch. 10; Ch. 1 (§1.17 dehydration)
+notes: Pulmonary_GI_Hepatic_Study_Notes#7
+quickref: Constipation and Diarrhoea
+aka: constipation; diarrhoea; loose stools; kuharisha; choo kigumu
+investigations:
+- Diarrhoea: assess dehydration; stool microscopy (amoeba, giardia), culture if bloody; malaria test if febrile
+- Constipation: review drugs (opioids, iron, anticholinergics, CCBs), TFTs, calcium; alarm features → colonoscopy
+advice:
+- Diarrhoea: ORS after every loose stool, continue feeding/breastfeeding, zinc for 10 days in children, hand washing and safe water
+- Constipation: fibre (vegetables, fruits, whole grains), 2 L water daily, exercise, do not ignore the urge
+pearls:
+- Antidiarrhoeals (loperamide) are not for children or bloody diarrhoea
+- Opioid-induced constipation: stimulant + softener laxative; bulk laxatives are not suitable
+danger:
+- Signs of severe dehydration, blood in stool, high fever, persistent vomiting → refer
+drugs: ors, zinc, loperamide, lactulose, bisacodyl, metronidazole, ciprofloxacin
+
+=== disease: liver-disease
+name: Liver Disease (Cirrhosis & Complications)
+category: Gastrointestinal
+stg: Ch. 10 (§10.4.1–10.4.3)
+notes: Pulmonary_GI_Hepatic_Study_Notes#8
+quickref: Liver Disease (Cirrhosis and Its Complications)
+aka: cirrhosis; hepatitis B; hepatitis C; ascites; varices; hepatic encephalopathy; SBP; portal hypertension
+investigations:
+- LFTs, albumin, INR, FBC (platelets), HBsAg, anti-HCV, abdominal ultrasound, AFP (HCC screening), ascitic tap (SBP: neutrophils >250/mm³)
+- Child-Pugh and MELD scoring
+advice:
+- No alcohol at all; avoid herbal remedies and unnecessary medicines
+- Low-salt diet for ascites; weigh daily on diuretics
+- Lactulose 2–3 soft stools daily to prevent confusion; report drowsiness or confusion
+- Avoid NSAIDs and sedatives; paracetamol max 2 g/day
+- Hepatitis B: vaccination of household contacts; do not stop tenofovir abruptly
+pearls:
+- Ascites: spironolactone 100 mg + furosemide 40 mg (ratio 100:40)
+- Variceal bleed: octreotide/terlipressin, antibiotic prophylaxis (ceftriaxone), band ligation; propranolol for prophylaxis
+- Hepatic encephalopathy: lactulose ± rifaximin; treat precipitants (bleeding, infection, constipation, sedatives)
+danger:
+- Vomiting blood, black stools, confusion, fever with abdominal pain → emergency
+drugs: spironolactone, furosemide, lactulose, propranolol, ceftriaxone, ciprofloxacin, tld, vitamin-k
+
+=== disease: pancreatitis
+name: Pancreatitis (Acute & Chronic)
+category: Gastrointestinal
+stg: Ch. 10 (§10.4)
+notes: Pulmonary_GI_Hepatic_Study_Notes#9
+quickref: Pancreatitis
+aka: acute pancreatitis; chronic pancreatitis
+investigations:
+- Serum lipase/amylase (>3× upper limit), ultrasound (gallstones), CT if diagnosis unclear or after 72 h for complications
+- FBC, CRP, glucose, calcium, triglycerides, LFTs, creatinine
+advice:
+- Stop alcohol completely; small low-fat meals; pancreatic enzymes with food in chronic pancreatitis
+pearls:
+- Main causes: gallstones and alcohol ("I GET SMASHED"); drugs include azathioprine, valproate, thiazides, didanosine
+- Aggressive IV fluids (Ringer's lactate), analgesia, early feeding; antibiotics only for infected necrosis
+danger:
+- Severe abdominal pain radiating to the back with vomiting and shock → emergency
+drugs: morphine, paracetamol, metoclopramide, omeprazole
+
+=== disease: biliary-disorders
+name: Biliary Disorders (Gallstones, Cholecystitis, Cholangitis)
+category: Gastrointestinal
+stg: Ch. 10 (§10.4.3)
+notes: Pulmonary_GI_Hepatic_Study_Notes#10
+quickref: Biliary Disorders (Cholelithiasis, Cholecystitis, Choledocholithiasis, Cholangitis)
+aka: gallstones; cholelithiasis; cholecystitis; cholangitis; biliary colic
+investigations:
+- Abdominal ultrasound, LFTs (obstructive pattern), FBC, lipase, blood cultures (cholangitis)
+advice:
+- Low-fat diet while awaiting surgery; seek care for fever, jaundice or persistent pain
+pearls:
+- Charcot's triad (fever, jaundice, RUQ pain) = ascending cholangitis — antibiotics + urgent biliary drainage
+- Biliary colic analgesia: NSAID (diclofenac) or opioid; hyoscine for spasm
+danger:
+- Fever with jaundice and RUQ pain, confusion, hypotension → emergency
+drugs: diclofenac, hyoscine-butylbromide, ceftriaxone, metronidazole, morphine
+
+=== disease: diabetes
+name: Diabetes Mellitus (incl. DKA/HHS & Hypoglycaemia)
+category: Endocrine
+stg: Ch. 19 (§19.1–19.11)
+notes: Endocrine_Musculoskeletal_Neurological_Study_Notes#1
+quickref: Diabetes Mellitus (Type 1, Type 2, DKA/HHS)
+aka: DM; sugar; kisukari; type 1 diabetes; type 2 diabetes; DKA; HHS; hypoglycaemia
+investigations:
+- Diagnosis: fasting plasma glucose ≥7.0 mmol/L, 2-h OGTT ≥11.1, random ≥11.1 with symptoms, HbA1c ≥6.5%
+- Monitoring: HbA1c 3–6 monthly, urine albumin:creatinine, creatinine/eGFR, lipids, BP, annual eye and foot examination
+- DKA: glucose, ketones, blood gas (pH, bicarbonate), electrolytes (K+), creatinine, precipitants (infection, MI)
+advice:
+- Diet: regular meals, reduce sugar and refined starch (white bread, soda), more vegetables, portion control (ugali/rice)
+- Exercise 150 minutes/week; stop smoking
+- Recognise and treat hypoglycaemia (3 sugar cubes or ½ glass juice, recheck in 15 min, then a snack)
+- Insulin storage: fridge or cool clay pot, never freeze; rotate injection sites
+- Daily foot check; well-fitting shoes; never walk barefoot
+- Sick-day rules: never stop insulin; pause metformin if vomiting/dehydrated; seek help early
+pearls:
+- Metformin is first line for type 2; stop if eGFR <30, hold for contrast
+- DKA: fluids first → insulin 0.1 unit/kg/h → potassium (do not start insulin if K+ <3.3); add dextrose when glucose ≈ 14 mmol/L
+- Sulfonylureas + elderly/renal impairment = prolonged hypoglycaemia (prefer gliclazide)
+- Dolutegravir doubles metformin levels (max 1 g/day)
+danger:
+- Vomiting, abdominal pain, deep breathing, drowsiness (DKA); confusion/sweating/fits (hypoglycaemia) → emergency
+drugs: metformin, glibenclamide, gliclazide, glimepiride, insulin-soluble, insulin-nph, dextrose-50, enalapril, losartan, atorvastatin, aspirin, amitriptyline
+
+=== disease: osteoarthritis
+name: Osteoarthritis
+category: Musculoskeletal
+stg: Ch. 17 (§17.2.4)
+notes: Endocrine_Musculoskeletal_Neurological_Study_Notes#2
+quickref: Osteoarthritis
+aka: OA; degenerative joint disease; arthritis of the knee
+investigations:
+- Clinical diagnosis (age >45, activity-related pain, morning stiffness <30 min); X-ray (joint space narrowing, osteophytes)
+- ESR/CRP and uric acid if inflammatory or gout suspected
+advice:
+- Weight loss and quadriceps-strengthening exercise are the most effective treatments
+- Paracetamol regularly or topical NSAID gel; oral NSAIDs with food for short periods only
+- Walking aids, supportive footwear
+pearls:
+- Topical NSAIDs preferred in elderly; oral NSAID + PPI if needed and no contraindication
+- Intra-articular steroid for flares (max 3–4 per year)
+danger:
+- Hot, swollen joint with fever → septic arthritis (urgent)
+drugs: paracetamol, ibuprofen, diclofenac, tramadol, prednisolone
+
+=== disease: rheumatoid-arthritis
+name: Rheumatoid Arthritis
+category: Musculoskeletal
+stg: Ch. 17 (§17.2.1)
+notes: Endocrine_Musculoskeletal_Neurological_Study_Notes#3
+quickref: Rheumatoid Arthritis
+aka: RA; rheumatism; inflammatory arthritis
+investigations:
+- RF and anti-CCP, ESR/CRP, FBC, LFTs and creatinine (before DMARDs), X-rays of hands/feet (erosions), hepatitis B/C, chest X-ray
+advice:
+- Methotrexate is taken ONCE A WEEK only; folic acid on a different day
+- Report sore throat, fever, mouth ulcers, cough; attend blood monitoring
+- Use effective contraception on methotrexate; avoid alcohol
+- Joint protection, exercise, stop smoking
+pearls:
+- Start DMARD (methotrexate) early — within 3 months of symptoms; steroids as bridge only
+- Methotrexate + co-trimoxazole = fatal marrow suppression
+danger:
+- Fever, sore throat or mouth ulcers on DMARDs → urgent FBC (neutropenia)
+drugs: methotrexate, prednisolone, ibuprofen, diclofenac, folic-acid, paracetamol
+
+=== disease: osteoporosis
+name: Osteoporosis
+category: Musculoskeletal
+stg: Ch. 17 (§17.3.1)
+notes: Endocrine_Musculoskeletal_Neurological_Study_Notes#4
+quickref: Osteoporosis
+aka: brittle bones; low bone density; fragility fracture
+investigations:
+- DXA scan (T-score ≤ −2.5), FRAX risk; calcium, vitamin D, TFTs, renal function, testosterone (men)
+advice:
+- Alendronate: take on an empty stomach with a full glass of water, stay upright 30 minutes, nothing else for 30 minutes
+- Calcium/vitamin D-rich diet, sunlight, weight-bearing exercise, falls prevention
+pearls:
+- Steroids ≥3 months → assess bone protection
+- Bisphosphonate oesophagitis is prevented by correct administration
+danger:
+- New severe back pain after minor trauma → vertebral fracture
+drugs: prednisolone
+
+=== disease: gout
+name: Gout and Hyperuricaemia
+category: Musculoskeletal
+stg: Ch. 17 (§17.2.3)
+notes: Endocrine_Musculoskeletal_Neurological_Study_Notes#5
+quickref: Gout and Hyperuricaemia
+aka: gout; gouty arthritis; podagra; hyperuricaemia; tophi
+investigations:
+- Joint aspiration (negatively birefringent needle-shaped urate crystals) — also excludes septic arthritis
+- Serum urate (may be normal during an attack), creatinine, glucose, lipids
+advice:
+- Acute attack: rest, ice, raise the joint, NSAID or colchicine at the first sign
+- Allopurinol daily for life if prescribed — do not stop during an attack
+- Limit alcohol (especially beer), red/organ meat, seafood and sugary drinks; drink 2–3 L water daily; lose weight
+pearls:
+- Do not START allopurinol during an acute attack; start 2 weeks after, with colchicine/NSAID cover
+- Diuretics and low-dose aspirin raise urate; losartan lowers it
+- Allopurinol + azathioprine = dangerous interaction
+danger:
+- Hot joint with fever, rigors → exclude septic arthritis
+drugs: allopurinol, colchicine, ibuprofen, diclofenac, prednisolone, losartan
+
+=== disease: connective-tissue
+name: Connective Tissue Disorders (SLE)
+category: Musculoskeletal
+stg: Ch. 13 (§13.15)
+notes: Endocrine_Musculoskeletal_Neurological_Study_Notes#6
+quickref: Connective Tissue Disorders (Systemic Lupus Erythematosus and Related Conditions)
+aka: SLE; lupus; systemic lupus erythematosus; scleroderma
+investigations:
+- ANA, anti-dsDNA, complement (C3/C4), FBC, urinalysis (lupus nephritis), creatinine, ESR/CRP
+advice:
+- Sun protection; hydroxychloroquine daily with yearly eye checks; plan pregnancy when disease quiet
+pearls:
+- Drug-induced lupus: hydralazine, isoniazid, procainamide, phenytoin
+danger:
+- Swelling, reduced urine, chest pain, seizures → organ-threatening flare
+drugs: prednisolone, methotrexate, ibuprofen
+
+=== disease: pain-palliative
+name: Pain Management and Palliative Care
+category: Pain & Palliative Care
+stg: Ch. 1 (§1.13); NEMLIT §2
+notes: Endocrine_Musculoskeletal_Neurological_Study_Notes#7
+quickref: Pain Management and Palliative Care
+aka: WHO analgesic ladder; cancer pain; neuropathic pain; palliative care; end of life care
+investigations:
+- Pain assessment (scale 0–10, site, nature, neuropathic features), renal and liver function before opioids
+advice:
+- Take pain medicines "by the clock" for constant pain, with extra doses for breakthrough pain
+- Always take a laxative with morphine
+- Morphine used for pain does not cause addiction in palliative care
+- Keep controlled medicines secure; return unused ones
+pearls:
+- WHO ladder: non-opioid → weak opioid (tramadol/codeine) → strong opioid (morphine) ± adjuvants
+- Neuropathic pain: amitriptyline, carbamazepine, gabapentin/pregabalin
+- Breakthrough dose = 1/6 of total daily morphine dose
+danger:
+- Drowsiness, slow breathing, pinpoint pupils on opioids → naloxone
+drugs: paracetamol, ibuprofen, diclofenac, tramadol, morphine, amitriptyline, carbamazepine, haloperidol, hyoscine-butylbromide, bisacodyl, lactulose, dexamethasone, naloxone
+
+=== disease: aki
+name: Acute Kidney Injury
+category: Renal & Urology
+stg: Ch. 21 (§21.2)
+notes: Renal_RRT_Urological_Study_Notes#1
+quickref: Acute Kidney Injury
+aka: AKI; acute renal failure
+investigations:
+- Serum creatinine (rise ≥26.5 µmol/L in 48 h or ≥1.5× baseline), urine output (<0.5 mL/kg/h for 6 h)
+- Electrolytes (K+), blood gas, urinalysis, renal ultrasound (obstruction), FBC, malaria test
+advice:
+- Avoid NSAIDs and herbal medicines; ensure good hydration during illness
+- Sick-day rules for ACE inhibitors, ARBs, diuretics and metformin
+pearls:
+- Nephrotoxins: NSAIDs, aminoglycosides, contrast, amphotericin, ACEi/ARB in hypovolaemia ("triple whammy")
+- Review and adjust renally cleared drugs (gentamicin, metformin, digoxin, LMWH)
+- Hyperkalaemia: calcium gluconate (protect heart), insulin-dextrose, salbutamol, then remove K+
+danger:
+- Very low urine output, K+ >6.5 with ECG changes, pulmonary oedema, severe acidosis → dialysis
+drugs: furosemide, calcium-gluconate, insulin-soluble, dextrose-50, salbutamol
+
+=== disease: ckd
+name: Chronic Kidney Disease
+category: Renal & Urology
+stg: Ch. 21 (§21.1)
+notes: Renal_RRT_Urological_Study_Notes#2
+quickref: Chronic Kidney Disease
+aka: CKD; chronic renal failure; ESRD; diabetic kidney disease
+investigations:
+- eGFR and urine albumin:creatinine ratio (staging G1–G5, A1–A3), FBC (anaemia), K+, bicarbonate, calcium, phosphate, PTH, renal ultrasound
+advice:
+- Control BP and sugar; low-salt diet; potassium and phosphate restrictions as advised
+- Avoid NSAIDs and herbal remedies; always tell prescribers you have kidney disease (doses change)
+- Keep fistula arm free of BP cuffs and blood draws
+pearls:
+- ACEi/ARB for proteinuria (accept creatinine rise ≤30%); SGLT2 inhibitors slow progression
+- Dose-adjust: metformin (stop <30), gentamicin, digoxin, nitrofurantoin (avoid <45), LMWH
+- Anaemia: iron first, then erythropoietin
+danger:
+- Breathlessness, confusion, very low urine output, K+ >6 → urgent care
+drugs: enalapril, losartan, furosemide, amlodipine, iron-sucrose, ferrous-sulfate, atorvastatin, calcium-gluconate
+
+=== disease: rrt
+name: Renal Replacement Therapy (Dialysis)
+category: Renal & Urology
+stg: Ch. 21 (§21.1.3)
+notes: Renal_RRT_Urological_Study_Notes#3
+quickref: Renal Replacement Therapy (Haemodialysis and Peritoneal Dialysis)
+aka: dialysis; haemodialysis; peritoneal dialysis; HD; PD
+investigations:
+- Pre/post-dialysis electrolytes, urea reduction ratio, Hb, ferritin, hepatitis B/C, HIV status
+advice:
+- Follow fluid and potassium restrictions between sessions; protect your fistula
+- Some medicines are removed by dialysis — take them after your session
+pearls:
+- Indications (AEIOU): Acidosis, Electrolytes (K+), Intoxication, Overload, Uraemia
+- Many antibiotics need dose adjustment or post-dialysis dosing
+danger:
+- Fever/catheter site redness, breathlessness, chest pain → urgent
+drugs: iron-sucrose, heparin, calcium-gluconate
+
+=== disease: nephrolithiasis
+name: Nephrolithiasis (Kidney Stones)
+category: Renal & Urology
+stg: Ch. 21 (§21.10.4)
+notes: Renal_RRT_Urological_Study_Notes#4
+quickref: Nephrolithiasis (Kidney Stones)
+aka: kidney stones; renal colic; urolithiasis; ureteric stone
+investigations:
+- Urinalysis (haematuria), CT KUB (non-contrast) or ultrasound, creatinine, calcium, uric acid; stone analysis
+advice:
+- Drink enough to pass ≥2.5 L urine daily; reduce salt and animal protein; do not cut dietary calcium
+pearls:
+- Renal colic: NSAID (diclofenac) is first-line analgesia; tamsulosin aids passage of distal stones <10 mm
+- Drugs causing stones: topiramate, indinavir, atazanavir, high-dose vitamin C
+danger:
+- Fever with obstruction (infected obstructed kidney) → urgent drainage
+drugs: diclofenac, tamsulosin, allopurinol, hyoscine-butylbromide, morphine
+
+=== disease: bph-ed
+name: Benign Prostatic Hyperplasia & Erectile Dysfunction
+category: Renal & Urology
+stg: Ch. 21 (§21.10.2, §21.11)
+notes: Renal_RRT_Urological_Study_Notes#5
+quickref: Benign Prostatic Hyperplasia
+aka: BPH; enlarged prostate; LUTS; erectile dysfunction; ED; impotence
+investigations:
+- BPH: IPSS score, DRE, urinalysis, creatinine, PSA (counselled), post-void residual, ultrasound
+- ED: glucose/HbA1c, lipids, testosterone, BP; review drugs (thiazides, β-blockers, SSRIs, antipsychotics)
+advice:
+- BPH: reduce fluids in the evening, limit caffeine/alcohol, take tamsulosin after the same meal daily, rise slowly
+- Avoid decongestants and anticholinergic antihistamines (urinary retention)
+- Sildenafil: never with nitrate chest-pain medicines; seek help for erection >4 hours
+pearls:
+- α-blocker works in days; 5-ARI (finasteride) shrinks prostate over 6 months and halves PSA
+- ED is an early marker of cardiovascular disease
+danger:
+- Inability to pass urine (acute retention), blood in urine → urgent
+drugs: tamsulosin, finasteride, sildenafil
+
+=== disease: anaemia
+name: Anaemia (Iron-deficiency, Megaloblastic, Haemolytic)
+category: Haematology
+stg: Ch. 3 (§3.1), Ch. 11 (§11.7.1)
+notes: Hematological_Cancer_Toxicology_Study_Notes#1
+quickref: Anaemia
+aka: iron deficiency anaemia; IDA; megaloblastic anaemia; B12 deficiency; folate deficiency; upungufu wa damu
+investigations:
+- FBC (Hb, MCV, MCH), blood film, reticulocytes, ferritin, B12/folate, stool for hookworm/occult blood, malaria test, sickling test, HIV, renal function
+advice:
+- Iron: black stools are normal; take with orange juice, not with tea/milk; continue 3 months after Hb normal
+- Eat iron-rich foods (beans, dark green vegetables, liver, meat, fish); deworm every 6 months
+- Keep iron tablets away from children
+pearls:
+- Response: reticulocytes rise in 7–10 days; Hb rises ~1 g/dL every 2–3 weeks
+- Never give folic acid alone in megaloblastic anaemia until B12 deficiency excluded
+- Transfuse if Hb <5 g/dL (or <7 with decompensation/active bleeding)
+danger:
+- Breathlessness at rest, chest pain, heart failure signs → urgent transfusion assessment
+drugs: ferrous-sulfate, folic-acid, hydroxocobalamin, iron-sucrose, albendazole, mebendazole, prednisolone
+
+=== disease: sickle-cell
+name: Sickle Cell Disease
+category: Haematology
+stg: Ch. 3 (§3.1.4)
+notes: Hematological_Cancer_Toxicology_Study_Notes#2
+quickref: Sickle Cell Disease
+aka: SCD; sickle cell anaemia; HbSS; sickle cell crisis; vaso-occlusive crisis
+investigations:
+- Hb electrophoresis/HPLC, sickling test, FBC, reticulocytes, LFTs (bilirubin), renal function, transcranial Doppler (children 2–16 years)
+- In crisis: FBC, malaria test, blood cultures, CXR (acute chest syndrome), urinalysis
+advice:
+- Drink plenty of water every day; avoid extreme cold, dehydration and over-exertion
+- Folic acid daily and penicillin V twice daily (children) — never miss
+- Sleep under a mosquito net; malaria triggers crises
+- Seek care immediately for fever ≥38°C, severe pain, breathlessness, weakness, priapism or a big spleen
+- Hydroxyurea: take daily, attend blood tests, use contraception
+pearls:
+- Painful crisis: rapid analgesia (paracetamol + NSAID, morphine for severe pain), hydration, oxygen if SpO2 <95%, treat infection
+- Hydroxyurea raises HbF — disease-modifying; macrocytosis means adherence
+- Avoid pethidine; avoid excess IV fluids (acute chest syndrome)
+danger:
+- Fever, chest pain + breathlessness, sudden weakness/speech loss, enlarging spleen with pallor, priapism >2 hours → emergency
+drugs: hydroxyurea, folic-acid, phenoxymethylpenicillin, paracetamol, ibuprofen, morphine, tramadol, deferoxamine, artemether-lumefantrine
+
+=== disease: haemophilia
+name: Bleeding Disorders — Haemophilia
+category: Haematology
+stg: Ch. 3 (§3.2.1)
+notes: Hematological_Cancer_Toxicology_Study_Notes#3
+quickref: Bleeding Disorders — Haemophilia
+aka: haemophilia A; haemophilia B; factor VIII deficiency; factor IX deficiency; von Willebrand disease
+investigations:
+- Prolonged APTT with normal PT and platelets; factor VIII/IX assay; inhibitor screen (mixing study, Bethesda assay)
+advice:
+- Avoid aspirin, NSAIDs and IM injections — use paracetamol
+- Treat bleeds early (factor at home where available); RICE for joint bleeds
+- Regular dental care; tell dentists/surgeons beforehand; wear medical ID
+pearls:
+- Factor VIII dose (IU) = weight (kg) × desired % rise ÷ 2; factor IX ÷ 1
+- Desmopressin for mild haemophilia A only; tranexamic acid for mucosal bleeds (not haematuria)
+danger:
+- Head injury, headache, neck/throat bleeding, large muscle bleeds → emergency factor replacement
+drugs: tranexamic-acid, paracetamol
+
+=== disease: bone-marrow-transplant
+name: Bone Marrow (Haematopoietic Stem Cell) Transplant
+category: Haematology
+stg: Ch. 3 / Ch. 22 (specialist)
+notes: Hematological_Cancer_Toxicology_Study_Notes#4
+quickref: Bone Marrow (Haematopoietic Stem Cell) Transplant
+aka: HSCT; stem cell transplant; BMT; GVHD
+investigations:
+- HLA typing, infectious screen (HIV, HBV, HCV, CMV), organ function tests; post-transplant: FBC, ciclosporin levels, CMV PCR
+advice:
+- Strict infection precautions; take immunosuppressants at exact times; avoid grapefruit and new medicines/herbs without checking
+pearls:
+- Ciclosporin/tacrolimus: many CYP3A4 interactions (azoles, macrolides raise; rifampicin, carbamazepine lower levels)
+danger:
+- Any fever during neutropenia → emergency (febrile neutropenia)
+drugs: methotrexate, prednisolone, fluconazole, acyclovir, cotrimoxazole
+
+=== disease: cancer-principles
+name: Cancer Management Principles, Biomarkers & Cytotoxic Handling
+category: Oncology
+stg: Ch. 22 (§22.1)
+notes: Hematological_Cancer_Toxicology_Study_Notes#5
+quickref: General Principles, Biomarkers, and Cytotoxic Drug Handling
+aka: chemotherapy; cytotoxic reconstitution; tumour markers; oncology principles
+investigations:
+- Histology, staging (TNM/FIGO), tumour markers (PSA, CA-125, CEA, AFP, β-hCG), performance status, FBC/renal/liver function before each cycle
+advice:
+- Chemotherapy patients: report fever ≥38°C immediately; mouth care; avoid crowds/sick contacts during low counts
+- Antiemetics as prescribed before nausea starts
+pearls:
+- Reconstitute cytotoxics in a biological safety cabinet with PPE (double chemo gloves, gown); pregnant staff should not handle
+- Dose by body surface area; check counts (ANC >1.5, platelets >100) before each cycle
+danger:
+- Fever with neutropenia, uncontrolled vomiting, bleeding → emergency
+drugs: ondansetron, dexamethasone, metoclopramide, allopurinol, morphine
+
+=== disease: cervical-cancer
+name: Cervical Cancer
+category: Oncology
+stg: Ch. 22 (§22.2.1)
+notes: Hematological_Cancer_Toxicology_Study_Notes#6
+quickref: Cervical Cancer
+aka: cancer of the cervix; HPV cancer; saratani ya mlango wa kizazi
+investigations:
+- Screening: VIA/VILI, HPV DNA test, Pap smear; colposcopy and biopsy; staging (FIGO 2018) with imaging; HIV test
+advice:
+- HPV vaccination for girls 9–14 years; regular screening (every 3 years in WLHIV, 5–10 years otherwise)
+- Report post-coital or post-menopausal bleeding early
+pearls:
+- Weekly cisplatin is the radiosensitiser with chemoradiation; women living with HIV are at higher risk
+danger:
+- Heavy vaginal bleeding, reduced urine (obstructive uropathy) → urgent
+drugs: morphine, ondansetron, dexamethasone
+
+=== disease: endometrial-cancer
+name: Endometrial (Uterine) Cancer
+category: Oncology
+stg: Ch. 22 (§22.2.2)
+notes: Hematological_Cancer_Toxicology_Study_Notes#7
+quickref: Endometrial (Uterine) Cancer
+aka: uterine cancer; endometrial carcinoma
+investigations:
+- Transvaginal ultrasound (endometrial thickness), endometrial biopsy, staging (FIGO 2023)
+advice:
+- Any bleeding after menopause must be checked
+pearls:
+- Risk factors: unopposed oestrogen, obesity, tamoxifen, PCOS, nulliparity
+danger:
+- Post-menopausal bleeding → refer
+drugs: tamoxifen, morphine
+
+=== disease: breast-cancer
+name: Breast Cancer
+category: Oncology
+stg: Ch. 22 (§22.3)
+notes: Hematological_Cancer_Toxicology_Study_Notes#8
+quickref: Breast Cancer
+aka: breast carcinoma; saratani ya matiti
+investigations:
+- Triple assessment: clinical exam, imaging (mammogram/ultrasound), biopsy; ER/PR/HER2 receptor status; staging
+advice:
+- Breast self-awareness monthly; tamoxifen daily for 5–10 years; report abnormal vaginal bleeding or calf pain
+pearls:
+- ER+: tamoxifen (premenopausal), aromatase inhibitors (postmenopausal); HER2+: trastuzumab (cardiotoxic — monitor echo)
+- Avoid fluoxetine/paroxetine with tamoxifen (CYP2D6)
+danger:
+- New breast lump, skin dimpling, bloody nipple discharge → refer
+drugs: tamoxifen, ondansetron, dexamethasone, morphine
+
+=== disease: kaposi-sarcoma
+name: Kaposi Sarcoma
+category: Oncology
+stg: Ch. 22 (§22.4.3)
+notes: Hematological_Cancer_Toxicology_Study_Notes#9
+quickref: Kaposi Sarcoma
+aka: KS; HHV-8; AIDS-related Kaposi
+investigations:
+- Biopsy of lesion, HIV test, CD4, viral load, CXR/endoscopy for visceral disease
+advice:
+- ART is the foundation of treatment — adherence leads to regression in many cases
+pearls:
+- Epidemic (HIV-associated) KS is the commonest form in Tanzania; start ART promptly
+danger:
+- Breathlessness, coughing blood, GI bleeding → visceral KS
+drugs: tld, morphine
+
+=== disease: hcc
+name: Hepatocellular Carcinoma (Liver Cancer)
+category: Oncology
+stg: Ch. 22 (§22.6.3)
+notes: Hematological_Cancer_Toxicology_Study_Notes#10
+quickref: Hepatocellular Carcinoma (Liver Cancer)
+aka: HCC; liver cancer; hepatoma
+investigations:
+- Ultrasound + AFP (6-monthly surveillance in cirrhosis/HBV), triple-phase CT, LFTs, Child-Pugh score
+advice:
+- Hepatitis B vaccination and treatment; avoid alcohol and aflatoxin-contaminated grains/groundnuts
+pearls:
+- HBV, HCV, aflatoxin and alcohol are the main risk factors in Tanzania
+danger:
+- Rapid abdominal swelling, jaundice, bleeding → urgent
+drugs: tld, morphine, paracetamol
+
+=== disease: colon-cancer
+name: Colorectal Cancer
+category: Oncology
+stg: Ch. 22 (§22.6.4–22.6.5)
+notes: Hematological_Cancer_Toxicology_Study_Notes#11
+quickref: Colon Cancer
+aka: colon cancer; rectal cancer; bowel cancer; CRC
+investigations:
+- Colonoscopy with biopsy, CEA, CT staging, FBC (iron deficiency anaemia)
+advice:
+- Report change in bowel habit, blood in stool, weight loss; high-fibre diet, less red/processed meat
+pearls:
+- Iron deficiency anaemia in an older man or post-menopausal woman → investigate GI tract
+danger:
+- Bowel obstruction (vomiting, distension, no stool) → emergency
+drugs: ondansetron, dexamethasone, morphine
+
+=== disease: lung-cancer
+name: Lung Cancer
+category: Oncology
+stg: Ch. 22 (§22.7)
+notes: Hematological_Cancer_Toxicology_Study_Notes#12
+quickref: Lung Cancer
+aka: bronchial carcinoma; NSCLC; SCLC
+investigations:
+- CXR, CT chest, bronchoscopy/biopsy, molecular markers (EGFR, ALK, PD-L1); exclude TB (sputum GeneXpert)
+advice:
+- Stop smoking; report haemoptysis, weight loss, persistent cough
+pearls:
+- In Tanzania, always exclude TB in a chronic cough with haemoptysis
+danger:
+- Facial/arm swelling (SVC obstruction), stridor → emergency
+drugs: morphine, dexamethasone, ondansetron
+
+=== disease: prostate-cancer
+name: Carcinoma of the Prostate
+category: Oncology
+stg: Ch. 22 (§22.8.1)
+notes: Hematological_Cancer_Toxicology_Study_Notes#13
+quickref: Carcinoma of the Prostate
+aka: prostate cancer; CaP
+investigations:
+- PSA, DRE, TRUS/MRI-guided biopsy (Gleason/ISUP grade), bone scan for metastases
+advice:
+- Men ≥50 (≥45 if high risk/family history) discuss PSA screening
+pearls:
+- Androgen deprivation (goserelin/bicalutamide/orchidectomy); flare with GnRH agonist — cover with anti-androgen first
+- Finasteride halves PSA
+danger:
+- Back pain with leg weakness/urinary retention → spinal cord compression (dexamethasone + urgent referral)
+drugs: dexamethasone, morphine, tamsulosin
+
+=== disease: haem-malignancy
+name: Haematological Malignancies (Lymphoma, Leukaemia, Myeloma)
+category: Oncology
+stg: Ch. 22 (§22.9)
+notes: Hematological_Cancer_Toxicology_Study_Notes#14
+quickref: Haematological Malignancies (Lymphoma, Leukaemia, Multiple Myeloma)
+aka: leukaemia; lymphoma; Hodgkin; non-Hodgkin; Burkitt lymphoma; multiple myeloma; CML; ALL; AML
+investigations:
+- FBC and blood film, bone marrow aspirate/biopsy, lymph node biopsy, LDH, uric acid, calcium, renal function, serum protein electrophoresis (myeloma), HIV
+advice:
+- Report fever immediately; good hydration and allopurinol before chemotherapy (TLS prevention)
+pearls:
+- Burkitt lymphoma (EBV, endemic in East Africa) is very chemosensitive → high TLS risk
+- Imatinib for CML; CHOP ± rituximab for NHL; ABVD for Hodgkin
+danger:
+- Fever with neutropenia, bleeding, reduced urine after chemo → emergency
+drugs: allopurinol, prednisolone, dexamethasone, methotrexate, ondansetron, hydroxyurea
+
+=== disease: onc-emergencies
+name: Oncological Emergencies (TLS, Febrile Neutropenia, SVCO, Cord Compression)
+category: Oncology
+stg: Ch. 22 (§22.11)
+notes: Hematological_Cancer_Toxicology_Study_Notes#15
+quickref: Oncological Emergencies
+aka: tumour lysis syndrome; febrile neutropenia; superior vena cava obstruction; spinal cord compression; hypercalcaemia of malignancy
+investigations:
+- TLS: K+, phosphate, calcium, uric acid, creatinine 6–8 hourly; febrile neutropenia: FBC, blood cultures, CXR, urine culture
+advice:
+- Chemotherapy patients: thermometer at home; any fever ≥38°C → hospital immediately
+pearls:
+- Febrile neutropenia: broad-spectrum IV antibiotics (e.g. piperacillin-tazobactam/ceftazidime) within 1 hour
+- Cord compression: dexamethasone 16 mg/day immediately + urgent radiotherapy/surgery
+- TLS prophylaxis: hydration + allopurinol (or rasburicase)
+danger:
+- All are emergencies
+drugs: allopurinol, dexamethasone, ceftriaxone, gentamicin, calcium-gluconate, insulin-soluble
+
+=== disease: substance-use
+name: Narcotics, Recreational Drugs & Substance Use Disorders
+category: Toxicology & Poisoning
+stg: Ch. 23 (§23.15)
+notes: Hematological_Cancer_Toxicology_Study_Notes#16
+quickref: Opioid Use Disorder, Intoxication, and Withdrawal
+aka: drug abuse; opioid dependence; heroin; methadone; MAT; stimulants; cocaine; khat; cannabis; nicotine
+investigations:
+- History, urine toxicology, HIV/hepatitis B and C screening, LFTs, mental health assessment
+advice:
+- Methadone (MAT clinics): daily observed dose; never combine with alcohol or benzodiazepines
+- Harm reduction: do not share needles; naloxone for overdose; test for HIV/HCV
+pearls:
+- Opioid overdose triad: pinpoint pupils, coma, respiratory depression → naloxone
+- Opioid withdrawal is unpleasant but rarely fatal (unlike alcohol/benzodiazepine withdrawal)
+danger:
+- Unrousable, slow breathing, blue lips → overdose (naloxone, ventilate)
+drugs: naloxone, diazepam, haloperidol
+
+=== disease: alcohol
+name: Alcohol Abuse, Dependence & Toxicity
+category: Toxicology & Poisoning
+stg: Ch. 23 (§23.15), Ch. 25 (§25.5)
+notes: Hematological_Cancer_Toxicology_Study_Notes#17
+quickref: Alcohol Withdrawal and Delirium Tremens
+aka: alcoholism; alcohol use disorder; alcohol withdrawal; delirium tremens; DTs; Wernicke encephalopathy; ulevi
+investigations:
+- Blood glucose, electrolytes (Mg, phosphate, K+), LFTs (GGT), FBC (MCV), INR; CIWA-Ar withdrawal score
+advice:
+- Do not stop heavy drinking abruptly without medical help (risk of seizures)
+- Thiamine supplements; healthy diet; support groups/counselling
+pearls:
+- Withdrawal: diazepam (symptom-triggered) + thiamine BEFORE glucose (prevents Wernicke's)
+- Disulfiram-like reactions: metronidazole, tinidazole, griseofulvin, some cephalosporins
+danger:
+- Seizures, confusion, hallucinations, tremor with fever (DTs) → emergency
+drugs: diazepam, haloperidol, dextrose-50, metronidazole
+
+=== disease: poisoning
+name: Common Poisons & General Management of Poisoning
+category: Toxicology & Poisoning
+stg: Ch. 25 (§25.1–25.6)
+notes: Hematological_Cancer_Toxicology_Study_Notes#18
+quickref: Organophosphate and Carbamate Poisoning
+aka: poisoning; overdose; organophosphate; paracetamol overdose; kerosene; iron poisoning; aspirin poisoning; antidotes; snake bite; sumu
+investigations:
+- Identify the poison (container, time, amount), glucose, electrolytes, blood gas, paracetamol/salicylate levels, LFTs, INR, ECG (QRS/QT), cholinesterase (organophosphate)
+advice:
+- Store medicines and chemicals out of children's reach, in original labelled containers (never in soda bottles)
+- Do not induce vomiting; bring the container to hospital
+pearls:
+- Antidotes: paracetamol → N-acetylcysteine; organophosphate → atropine (+ pralidoxime); opioid → naloxone; benzodiazepine → flumazenil (caution); iron → deferoxamine; warfarin → vitamin K; heparin → protamine; MgSO4 → calcium gluconate; TCA/salicylate → sodium bicarbonate; methaemoglobinaemia → methylene blue; digoxin → Fab
+- Activated charcoal within 1 hour — NOT for kerosene, corrosives, iron, alcohols, lithium
+- Kerosene: no vomiting (aspiration pneumonitis)
+danger:
+- Reduced consciousness, seizures, breathing difficulty, arrhythmia → resuscitate and refer
+drugs: acetylcysteine, atropine, naloxone, activated-charcoal, deferoxamine, vitamin-k, calcium-gluconate, diazepam, adrenaline

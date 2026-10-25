@@ -1,0 +1,8 @@
+# Personal class notes and STG extract (bundled into the APK at build time, not published)
+pharmrevise/content/notes/
+# APK signing key — keep private; needed to ship updates that install over this version
+pharmrevise/keystore/
+# Build output
+pharmrevise/build/
+pharmrevise/app/data/
+pharmrevise/app/icon-192.png

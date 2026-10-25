@@ -1,0 +1,1064 @@
+# Drug monographs — cardiovascular.
+# Format: "=== drug: id" starts an entry; "key: value" scalars; "key:" then "- item" lists;
+# interaction items are "Partner :: effect :: what to do".
+
+=== drug: hydrochlorothiazide
+name: Hydrochlorothiazide (HCTZ)
+class: Thiazide diuretic
+group: Cardiovascular
+nemlit: D (tablet 12.5 mg, 25 mg); bendroflumethiazide 5 mg is level A
+forms: Tablet 12.5 mg, 25 mg; fixed-dose combinations with losartan/candesartan/telmisartan/irbesartan
+moa: Inhibits the Na+/Cl- co-transporter in the distal convoluted tubule → natriuresis and diuresis; long-term BP fall is from reduced peripheral vascular resistance.
+uses:
+- First-line antihypertensive when there is no compelling indication (STG 7th Ed.)
+- Isolated systolic hypertension; secondary prevention after stroke (with an ACE inhibitor)
+- Mild oedema (heart failure, add-on to loop diuretic for resistant oedema)
+dose:
+- Hypertension: 12.5–25 mg once daily in the morning (doses above 25 mg add little BP effect but more metabolic side effects)
+- Oedema: 25–50 mg once daily
+ci:
+- Anuria; severe renal impairment (eGFR <30 — ineffective)
+- Refractory hypokalaemia, hyponatraemia, hypercalcaemia
+- Symptomatic hyperuricaemia / history of gout (relative)
+- Sulfonamide allergy (cross-sensitivity possible)
+se:
+- Hypokalaemia, hyponatraemia, hypomagnesaemia, hypercalcaemia
+- Hyperuricaemia (can precipitate gout), hyperglycaemia, raised lipids
+- Postural hypotension, dizziness, erectile dysfunction
+- Photosensitivity rash; rarely pancreatitis, blood dyscrasias
+ddi:
+- Digoxin :: Thiazide-induced hypokalaemia increases digoxin toxicity :: Monitor K+; keep K+ ≥4 mmol/L
+- Lithium :: Reduced lithium clearance → lithium toxicity :: Avoid or halve lithium dose and monitor levels
+- NSAIDs :: Blunt the antihypertensive/diuretic effect; ↑ risk of AKI :: Avoid regular NSAIDs; use paracetamol
+- Corticosteroids / salbutamol (high dose) :: Additive hypokalaemia :: Monitor potassium
+- Antidiabetic drugs :: Thiazides raise blood glucose :: Monitor glucose; dose adjust if needed
+food:
+- Alcohol :: Additive postural hypotension :: Limit alcohol; rise slowly
+- High-salt diet :: Reduces effectiveness :: Salt <5 g/day
+- Potassium-rich foods (bananas, oranges, beans) :: Help offset hypokalaemia :: Encourage
+preg: Avoid for gestational hypertension (reduces plasma volume); not first choice in pregnancy.
+lact: Low doses acceptable; high doses may suppress lactation.
+renal: Ineffective when eGFR <30 mL/min — use a loop diuretic.
+monitor:
+- BP, serum electrolytes (K+, Na+) and creatinine at baseline and 2–4 weeks after starting
+- Uric acid and glucose, especially in gout or diabetes
+advice:
+- Take in the morning so the diuresis does not disturb sleep
+- Stand up slowly; report muscle cramps, weakness or palpitations (low potassium)
+- Use sunscreen — skin may burn more easily
+- Continue lifestyle measures; do not stop without advice even when you feel well
+storage: Below 25°C, protect from moisture.
+pearls:
+- STG 7th Ed. makes a thiazide the default first-line agent for uncomplicated hypertension (6th Ed. favoured CCB or thiazide in Black patients)
+- Metabolic effects are dose-related — "low dose is the right dose"
+
+=== drug: furosemide
+name: Furosemide
+class: Loop diuretic
+group: Cardiovascular
+nemlit: B (tablet 40 mg; injection 10 mg/mL)
+forms: Tablet 40 mg; injection 10 mg/mL (2 mL ampoule)
+moa: Blocks the Na+/K+/2Cl- co-transporter in the thick ascending limb of the loop of Henle → powerful, short-acting diuresis; IV also causes early venodilatation.
+uses:
+- Acute pulmonary oedema and acute decompensated heart failure
+- Oedema of heart failure, CKD, nephrotic syndrome, liver cirrhosis (with spironolactone)
+- Hypertension with fluid overload or CKD (eGFR <30); hypercalcaemia (after rehydration)
+dose:
+- Oedema: 20–40 mg PO once daily in the morning, titrate up to 80–120 mg/day (higher in CKD)
+- STG 7th Ed. heart failure/hypertension: initial 40 mg PO twice daily, adjust to congestion
+- Acute pulmonary oedema: 40–80 mg IV slowly (≤4 mg/min), repeat according to response
+- Children: 1 mg/kg PO/IV (max 40 mg) 1–2 times daily
+ci:
+- Anuria; severe hypovolaemia or dehydration
+- Hepatic encephalopathy / pre-coma
+- Severe hypokalaemia or hyponatraemia
+se:
+- Hypokalaemia, hyponatraemia, hypomagnesaemia, hypocalcaemia, metabolic alkalosis
+- Dehydration, hypotension, pre-renal AKI
+- Hyperuricaemia/gout, hyperglycaemia
+- Ototoxicity (tinnitus, deafness) with rapid IV doses or with aminoglycosides
+ddi:
+- Gentamicin / other aminoglycosides :: Additive ototoxicity and nephrotoxicity :: Avoid combination or monitor closely; slow IV furosemide
+- Digoxin :: Hypokalaemia potentiates digoxin toxicity :: Monitor K+; supplement or add spironolactone
+- Lithium :: Increased lithium levels :: Monitor lithium levels
+- NSAIDs :: Reduced diuretic effect; ↑ AKI risk ("triple whammy" with ACE inhibitor) :: Avoid
+- ACE inhibitors :: First-dose hypotension in volume-depleted patients :: Start ACE inhibitor low; consider holding diuretic 24 h
+food:
+- Alcohol :: Enhanced hypotension :: Limit
+- Potassium-rich foods :: Help prevent hypokalaemia :: Encourage unless on K+-sparing drugs or in CKD
+preg: Avoid unless clearly needed (may reduce placental perfusion); not for gestational hypertension.
+lact: May suppress lactation; use with care.
+renal: Effective at low eGFR but higher doses are needed.
+hepatic: Can precipitate hepatic encephalopathy through hypokalaemia — combine with spironolactone in cirrhosis.
+monitor:
+- Weight daily (target loss 0.5–1 kg/day in oedema), fluid balance, BP
+- Electrolytes and creatinine
+advice:
+- Take in the morning (second dose no later than mid-afternoon) to avoid night-time urination
+- Weigh yourself daily at the same time; report gain of >2 kg in 3 days
+- Report dizziness, severe thirst, muscle cramps, ringing in ears
+storage: Below 25°C; protect injection from light (do not use if discoloured).
+pearls:
+- Onset ~1 h orally (lasts ~6 h — "furo-six"), ~5 min IV
+- Rapid IV injection → ototoxicity; give no faster than 4 mg/min
+
+=== drug: spironolactone
+name: Spironolactone
+class: Mineralocorticoid (aldosterone) receptor antagonist; potassium-sparing diuretic
+group: Cardiovascular
+nemlit: C (tablet 12.5 mg, 25 mg)
+forms: Tablet 12.5 mg, 25 mg
+moa: Competitive antagonist of aldosterone at the distal tubule/collecting duct → Na+ excretion and K+ retention; reduces myocardial fibrosis in heart failure.
+uses:
+- Heart failure with reduced ejection fraction (mortality benefit)
+- Ascites due to cirrhosis (with furosemide in a 100:40 mg ratio)
+- Resistant hypertension (step 4); primary hyperaldosteronism
+- Nephrotic syndrome oedema
+dose:
+- Heart failure: 12.5–25 mg once daily (max 50 mg)
+- Resistant hypertension: 25–50 mg once daily (STG: 25 mg OD)
+- Ascites: 100 mg once daily, increase every 3–5 days to max 400 mg (with furosemide 40–160 mg)
+ci:
+- Hyperkalaemia (K+ >5.0 mmol/L); Addison's disease
+- Severe renal impairment (eGFR <30) / anuria
+- Concomitant potassium supplements or other K+-sparing diuretics (unless monitored)
+se:
+- Hyperkalaemia (can be fatal), hyponatraemia
+- Gynaecomastia, breast tenderness, menstrual irregularity, impotence (anti-androgenic)
+- GI upset, dizziness, rash
+ddi:
+- ACE inhibitors / ARBs :: Additive hyperkalaemia :: Monitor K+ and creatinine closely (week 1, 4, then regularly)
+- Potassium chloride / K+ supplements / salt substitutes :: Severe hyperkalaemia :: Avoid
+- NSAIDs :: Hyperkalaemia and AKI :: Avoid
+- Co-trimoxazole (trimethoprim) :: Hyperkalaemia :: Monitor K+
+- Digoxin :: Spironolactone may raise digoxin levels :: Monitor
+food:
+- Potassium-rich foods / "low sodium" salt substitutes (KCl) :: Risk of hyperkalaemia :: Avoid excessive intake and salt substitutes
+- Food :: Increases absorption :: Take consistently with food
+preg: Avoid (anti-androgenic effects on male fetus).
+lact: Metabolite (canrenone) in milk — generally considered compatible, use with caution.
+renal: Avoid if eGFR <30; reduce dose/monitor closely if 30–50.
+monitor:
+- K+ and creatinine before starting, at 1 and 4 weeks, then every 3–6 months
+- Stop or halve dose if K+ >5.5 mmol/L
+advice:
+- Avoid salt substitutes and potassium supplements
+- Report breast swelling or tenderness, muscle weakness, irregular heartbeat
+- Take with food at the same time daily
+storage: Below 25°C.
+pearls:
+- Classic pair in cirrhotic ascites: spironolactone 100 mg + furosemide 40 mg (keeps K+ balanced)
+- Eplerenone is an alternative without gynaecomastia (level S)
+
+=== drug: enalapril
+name: Enalapril
+class: Angiotensin-converting enzyme (ACE) inhibitor
+group: Cardiovascular
+nemlit: C (tablet 2.5 mg, 5 mg); captopril B, lisinopril C
+forms: Tablet 2.5 mg, 5 mg (10 mg, 20 mg in some brands)
+moa: Pro-drug converted to enalaprilat; blocks conversion of angiotensin I to angiotensin II and breakdown of bradykinin → vasodilatation, ↓ aldosterone, ↓ cardiac remodelling and intraglomerular pressure.
+uses:
+- Hypertension, particularly with diabetes, CKD, heart failure, LVH or post-MI
+- Heart failure with reduced EF (mortality benefit)
+- Diabetic nephropathy / proteinuric CKD (renoprotection)
+- Secondary prevention after MI and stroke
+dose:
+- Hypertension: start 5 mg once daily (2.5 mg if on diuretic, elderly or renal impairment); usual 10–20 mg daily; STG lists 10 mg twice daily
+- Heart failure: 2.5 mg twice daily, titrate every 2 weeks to 10–20 mg twice daily
+ci:
+- Pregnancy (fetotoxic: renal failure, oligohydramnios, skull defects)
+- History of angioedema (with any ACE inhibitor) or hereditary angioedema
+- Bilateral renal artery stenosis (or stenosis in a single kidney)
+- Combination with an ARB or aliskiren
+se:
+- Dry persistent cough (~10%, bradykinin-mediated)
+- First-dose hypotension, dizziness
+- Hyperkalaemia, rise in creatinine (accept up to 30%)
+- Angioedema (rare but life-threatening — more common in Black patients), rash, taste disturbance
+ddi:
+- Spironolactone / K+ supplements / potassium-sparing diuretics :: Hyperkalaemia :: Monitor K+; avoid KCl supplements
+- NSAIDs :: Reduced antihypertensive effect; AKI ("triple whammy" with diuretic) :: Avoid NSAIDs
+- ARBs :: Dual RAAS blockade — hyperkalaemia, AKI, no extra benefit :: Never combine
+- Lithium :: Raised lithium levels :: Monitor levels
+- Diuretics :: Profound first-dose hypotension :: Start low, take first dose at bedtime
+- Co-trimoxazole :: Hyperkalaemia :: Monitor K+
+food:
+- Potassium-rich foods / salt substitutes :: Hyperkalaemia :: Avoid salt substitutes
+- Alcohol :: Additive hypotension :: Limit
+preg: CONTRAINDICATED — switch to methyldopa, labetalol or nifedipine before conception or as soon as pregnancy is confirmed.
+lact: Enalapril and captopril are considered acceptable during breastfeeding.
+renal: Reduce starting dose (2.5 mg) if eGFR <30; monitor K+ and creatinine.
+monitor:
+- BP; serum creatinine and K+ before starting and 1–2 weeks after each dose increase
+- Stop if creatinine rises >30% or K+ >6 mmol/L
+advice:
+- Take the first dose at bedtime; rise slowly
+- A tickly dry cough is common — report it (an ARB can replace it)
+- Seek urgent care for swelling of lips, tongue, face or difficulty breathing
+- Women: use effective contraception; tell your clinician immediately if pregnant
+- Avoid painkillers like ibuprofen/diclofenac without advice
+storage: Below 25°C, dry place.
+pearls:
+- If cough → switch to ARB (losartan); if angioedema → never rechallenge with any ACE inhibitor
+- ACE inhibitors are renoprotective in diabetes even when normotensive with microalbuminuria
+
+=== drug: captopril
+name: Captopril
+class: ACE inhibitor (short-acting)
+group: Cardiovascular
+nemlit: B (tablet 12.5 mg, 25 mg)
+forms: Tablet 12.5 mg, 25 mg
+moa: Directly acting ACE inhibitor (not a pro-drug); short half-life needing 2–3 doses per day.
+uses:
+- Hypertension; hypertensive urgency (oral, gradual reduction)
+- Heart failure; post-MI; diabetic nephropathy
+dose:
+- Hypertension: 6.25–25 mg every 8 hours (STG 7th Ed.); max 50 mg 8–12 hourly
+- Heart failure: test dose 6.25 mg, then titrate to 25–50 mg three times daily
+ci:
+- Pregnancy; angioedema history; bilateral renal artery stenosis; combination with ARB
+se:
+- Cough, first-dose hypotension, hyperkalaemia, taste disturbance (metallic), rash, neutropenia (rare), angioedema
+ddi:
+- Spironolactone / K+ supplements :: Hyperkalaemia :: Monitor K+
+- NSAIDs :: Reduced effect, AKI :: Avoid
+- Lithium :: Lithium toxicity :: Monitor levels
+- Diuretics :: First-dose hypotension :: Start low
+food:
+- Food :: Reduces absorption by ~30–40% :: Take 1 hour before meals
+- Salt substitutes (KCl) :: Hyperkalaemia :: Avoid
+preg: CONTRAINDICATED.
+lact: Compatible.
+renal: Reduce dose and frequency; monitor K+/creatinine.
+monitor:
+- BP, K+, creatinine; FBC in renal impairment or collagen disease (neutropenia)
+advice:
+- Take on an empty stomach, 1 hour before food
+- Same cough/angioedema/pregnancy counselling as other ACE inhibitors
+storage: Below 25°C; may smell faintly of sulphur (normal).
+pearls:
+- Only ACE inhibitor that must be taken on an empty stomach and has a sulfhydryl group (taste disturbance, rash)
+
+=== drug: losartan
+name: Losartan
+class: Angiotensin II receptor blocker (ARB)
+group: Cardiovascular
+nemlit: C (tablet 50 mg; fixed combination with HCTZ); candesartan, telmisartan, irbesartan S
+forms: Tablet 25 mg, 50 mg, 100 mg; losartan/HCTZ 50/12.5 mg
+moa: Blocks angiotensin II at AT1 receptors → vasodilatation and ↓ aldosterone; does not raise bradykinin (no cough).
+uses:
+- Hypertension (alternative when ACE inhibitor not tolerated)
+- Diabetic nephropathy, proteinuric CKD; heart failure (when ACE inhibitor not tolerated); LVH
+dose:
+- Hypertension: 50 mg once daily (25 mg in elderly/volume depletion), max 100 mg once daily
+- Heart failure: 12.5–25 mg once daily, titrate to 50–150 mg
+ci:
+- Pregnancy; bilateral renal artery stenosis; combination with ACE inhibitor or aliskiren
+se:
+- Dizziness, hypotension, hyperkalaemia, raised creatinine; angioedema (much rarer than ACE inhibitors)
+ddi:
+- ACE inhibitors :: Dual RAAS blockade — never combine :: Avoid
+- Spironolactone / K+ supplements :: Hyperkalaemia :: Monitor K+
+- NSAIDs :: AKI and reduced effect :: Avoid
+- Lithium :: Lithium toxicity :: Monitor levels
+- Rifampicin / fluconazole :: Rifampicin lowers, fluconazole raises active metabolite levels :: Monitor BP
+food:
+- Salt substitutes / high-potassium diet :: Hyperkalaemia :: Avoid salt substitutes
+- Grapefruit juice :: May alter losartan metabolism :: Avoid large amounts
+preg: CONTRAINDICATED.
+lact: Avoid (limited data) — prefer enalapril.
+renal: No dose change needed but monitor K+/creatinine.
+hepatic: Start with 25 mg in hepatic impairment.
+monitor:
+- BP, K+, creatinine at baseline and 1–2 weeks after starting/titrating
+advice:
+- Can be taken with or without food, at the same time each day
+- Rise slowly; avoid potassium supplements and salt substitutes
+- Effective contraception; stop and report if pregnant
+storage: Below 25°C.
+pearls:
+- Losartan has a mild uricosuric effect — useful in hypertensive patients with gout
+- Never combine ARB + ACE inhibitor (ONTARGET)
+
+=== drug: amlodipine
+name: Amlodipine
+class: Calcium channel blocker (dihydropyridine, long-acting)
+group: Cardiovascular
+nemlit: C (tablet 5 mg, 10 mg)
+forms: Tablet 5 mg, 10 mg
+moa: Blocks L-type calcium channels in vascular smooth muscle → arteriolar vasodilatation and ↓ peripheral resistance; minimal effect on cardiac conduction.
+uses:
+- Hypertension (preferred in elderly and isolated systolic hypertension)
+- Chronic stable angina
+dose:
+- Adults: 5 mg once daily, increase to 10 mg once daily after 1–2 weeks
+- Elderly/hepatic impairment: start 2.5 mg
+ci:
+- Cardiogenic shock, severe aortic stenosis, unstable angina (as monotherapy)
+se:
+- Ankle (peripheral) oedema — dose-related, not due to fluid retention (does not respond to diuretics)
+- Flushing, headache, palpitations, dizziness
+- Gingival hyperplasia (long-term), fatigue
+ddi:
+- Simvastatin :: CYP3A4 inhibition raises simvastatin → myopathy :: Limit simvastatin to 20 mg/day or use atorvastatin
+- CYP3A4 inhibitors (clarithromycin, ritonavir, itraconazole) :: Raised amlodipine levels → hypotension, oedema :: Monitor; reduce dose
+- CYP3A4 inducers (rifampicin, carbamazepine, phenytoin) :: Reduced amlodipine effect :: Monitor BP; dose may need increase
+- Other antihypertensives :: Additive hypotension :: Monitor
+food:
+- Grapefruit juice :: Modest increase in levels (less than with felodipine/nifedipine) :: Avoid large quantities
+- Alcohol :: Additive hypotension :: Limit
+preg: Limited data; nifedipine is preferred in pregnancy.
+lact: Small amounts in milk; generally acceptable.
+hepatic: Start 2.5 mg; titrate slowly.
+monitor:
+- BP, heart rate, ankle swelling
+advice:
+- Once daily at the same time, with or without food
+- Ankle swelling is common — report if troublesome (dose change or adding ACE inhibitor helps)
+- Maintain good oral hygiene (gum overgrowth)
+storage: Below 25°C, protect from light.
+pearls:
+- Long half-life (35–50 h): a missed dose has little effect; steady state after 7–8 days
+- CCB oedema improves when an ACE inhibitor/ARB is added (venodilatation)
+
+=== drug: nifedipine
+name: Nifedipine
+class: Calcium channel blocker (dihydropyridine)
+group: Cardiovascular
+nemlit: B (slow-release 10 mg, 20 mg; immediate-release 10 mg, 20 mg)
+forms: Slow-release (retard) tablet 10 mg, 20 mg (also 30–90 mg once-daily forms); immediate-release capsule 10 mg
+moa: L-type calcium channel blocker → arteriolar vasodilatation; also relaxes uterine smooth muscle (tocolysis).
+uses:
+- Hypertension, including in pregnancy (slow-release) and severe hypertension in pregnancy (oral)
+- Angina (slow-release only)
+- Tocolysis in preterm labour; Raynaud's phenomenon
+dose:
+- Hypertension: slow-release 10–20 mg twice daily (max 40 mg twice daily) or once-daily form 30–90 mg
+- Severe hypertension in pregnancy: 10 mg orally, repeat after 30 min if needed (STG/WHO)
+- Tocolysis: 20 mg orally, then 10–20 mg every 6–8 h
+ci:
+- Cardiogenic shock; within 1 month of MI; unstable angina
+- Immediate-release forms for chronic hypertension or angina (reflex tachycardia, ischaemia)
+se:
+- Headache, flushing, palpitations/reflex tachycardia, ankle oedema, dizziness, gum hyperplasia
+ddi:
+- Magnesium sulfate :: Profound hypotension and neuromuscular blockade :: Use together only with close monitoring
+- CYP3A4 inhibitors (clarithromycin, ritonavir, azoles) :: Raised nifedipine levels :: Monitor/avoid
+- Rifampicin, phenytoin, carbamazepine :: Markedly reduced effect :: Avoid; choose another agent
+- Beta-blockers :: Additive hypotension (but useful combination) :: Monitor
+food:
+- Grapefruit juice :: Marked increase in nifedipine levels → hypotension :: Avoid grapefruit
+- Alcohol :: Additive hypotension :: Avoid
+preg: Used for hypertension and tocolysis in pregnancy (avoid in first trimester if possible).
+lact: Compatible.
+monitor:
+- BP, heart rate, ankle oedema
+advice:
+- Swallow slow-release tablets whole — do not crush or chew
+- Never bite a capsule under the tongue (sublingual use causes dangerous BP drops)
+- Avoid grapefruit juice
+storage: Protect from light (light-sensitive).
+pearls:
+- Sublingual nifedipine is NOT recommended for hypertensive emergencies (uncontrolled fall in BP → stroke/MI)
+
+=== drug: atenolol
+name: Atenolol
+class: Beta-1 selective adrenoceptor blocker
+group: Cardiovascular
+nemlit: B (tablet 50 mg)
+forms: Tablet 25 mg, 50 mg, 100 mg
+moa: Competitively blocks cardiac β1 receptors → ↓ heart rate, contractility and renin release; water-soluble, renally excreted.
+uses:
+- Hypertension (with compelling indication: angina, post-MI, tachyarrhythmia)
+- Angina; rate control in atrial fibrillation; migraine prophylaxis; anxiety symptoms
+dose:
+- Hypertension: 25–50 mg once daily (max 100 mg)
+- Angina: 50–100 mg daily
+ci:
+- Asthma (bronchospasm), 2nd/3rd degree heart block, sick sinus syndrome
+- Bradycardia (<50/min), cardiogenic shock, decompensated heart failure
+- Severe peripheral arterial disease; untreated phaeochromocytoma
+se:
+- Bradycardia, fatigue, cold extremities, dizziness
+- Bronchospasm (less than non-selective), sleep disturbance, erectile dysfunction
+- Masks symptoms of hypoglycaemia (tremor, palpitations)
+ddi:
+- Verapamil / diltiazem :: Severe bradycardia, heart block, asystole :: Never combine (especially IV verapamil)
+- Insulin / sulfonylureas :: Masked hypoglycaemia warning signs :: Educate patient; monitor glucose
+- Amiodarone / digoxin :: Additive bradycardia :: Monitor heart rate
+- NSAIDs :: Reduced antihypertensive effect :: Avoid regular use
+- Clonidine :: Rebound hypertension if clonidine stopped while on β-blocker :: Stop β-blocker first
+food:
+- Orange/apple juice :: Can reduce atenolol absorption :: Take with water
+- Alcohol :: Additive hypotension :: Limit
+preg: Avoid (fetal growth restriction) — labetalol is preferred in pregnancy.
+lact: Accumulates in breast milk — avoid; prefer propranolol or labetalol.
+renal: Reduce dose if eGFR <35 (renally cleared).
+monitor:
+- Heart rate (hold if <50–55/min), BP, signs of heart failure
+advice:
+- Never stop suddenly — rebound angina, tachycardia, or MI; taper over 1–2 weeks
+- Diabetics: sweating may be the only warning of low sugar — check glucose
+- May cause tiredness and cold hands
+storage: Below 25°C.
+pearls:
+- Beta-blockers are no longer first-line for uncomplicated hypertension (less stroke protection)
+
+=== drug: bisoprolol
+name: Bisoprolol
+class: Beta-1 selective adrenoceptor blocker
+group: Cardiovascular
+nemlit: S (tablet 5 mg, 10 mg)
+forms: Tablet 1.25 mg, 2.5 mg, 5 mg, 10 mg
+moa: Highly β1-selective blocker; reduces heart rate, myocardial oxygen demand and neurohormonal activation in heart failure.
+uses:
+- Chronic heart failure with reduced EF (mortality benefit) — once stable
+- Hypertension (with compelling indication), angina, AF rate control
+dose:
+- Heart failure: 1.25 mg once daily, double every 2–4 weeks as tolerated to 10 mg once daily ("start low, go slow")
+- Hypertension/angina: 2.5–10 mg once daily (STG)
+ci:
+- Acute decompensated heart failure, cardiogenic shock, symptomatic bradycardia, 2nd/3rd degree AV block, severe asthma
+se:
+- Bradycardia, hypotension, fatigue, transient worsening of heart failure on initiation, dizziness, cold extremities
+ddi:
+- Verapamil / diltiazem :: Heart block, severe bradycardia :: Avoid
+- Amiodarone / digoxin :: Bradycardia :: Monitor heart rate
+- Insulin / sulfonylureas :: Masked hypoglycaemia :: Monitor glucose
+- NSAIDs :: Reduced effect :: Avoid
+food:
+- Alcohol :: Additive hypotension :: Limit
+preg: Use only if benefit outweighs risk (fetal growth restriction); labetalol preferred.
+lact: Avoid (no data).
+monitor:
+- Heart rate, BP, weight and symptoms of heart failure during titration
+advice:
+- In heart failure you may feel more tired for the first weeks — this improves; do not stop
+- Weigh daily; report weight gain >2 kg in 3 days
+- Never stop suddenly
+storage: Below 25°C.
+pearls:
+- Evidence-based β-blockers for HFrEF: bisoprolol, carvedilol, metoprolol succinate (not atenolol)
+
+=== drug: carvedilol
+name: Carvedilol
+class: Non-selective beta-blocker with alpha-1 blocking activity
+group: Cardiovascular
+nemlit: C (tablet 6.25 mg, 12.5 mg)
+forms: Tablet 3.125 mg, 6.25 mg, 12.5 mg, 25 mg
+moa: Blocks β1, β2 and α1 receptors → ↓ heart rate and vasodilatation; antioxidant effects.
+uses:
+- Heart failure with reduced EF (with ACE inhibitor + diuretic)
+- Hypertension; post-MI LV dysfunction
+dose:
+- Heart failure: 3.125 mg twice daily, double every 2 weeks to target 25 mg twice daily (50 mg BD if >85 kg)
+- Hypertension: 6.25–12.5 mg once or twice daily (STG), max 25 mg twice daily
+ci:
+- Asthma/bronchospasm, decompensated HF needing IV inotropes, severe bradycardia, AV block, severe hepatic impairment
+se:
+- Dizziness, postural hypotension, bradycardia, fatigue, weight gain/oedema, bronchospasm, hyperglycaemia masking
+ddi:
+- Verapamil / diltiazem :: Heart block :: Avoid
+- Digoxin :: Raised digoxin levels and bradycardia :: Monitor
+- Insulin / sulfonylureas :: Masked hypoglycaemia :: Monitor glucose
+- Rifampicin :: Reduced carvedilol levels :: Monitor BP/HR
+food:
+- Food :: Slows absorption and reduces postural hypotension :: Take with food
+- Alcohol :: Additive hypotension :: Limit
+preg: Use only if essential; labetalol preferred.
+lact: Avoid.
+hepatic: Contraindicated in severe hepatic impairment.
+monitor:
+- HR, BP (lying/standing), weight, symptoms during titration
+advice:
+- Take with food to reduce dizziness; rise slowly
+- Do not stop suddenly
+storage: Below 25°C, protect from moisture.
+pearls:
+- Alpha-blockade makes postural hypotension more likely than with selective β-blockers
+
+=== drug: propranolol
+name: Propranolol
+class: Non-selective beta-blocker (lipophilic)
+group: Cardiovascular
+nemlit: A (tablet 40 mg)
+forms: Tablet 10 mg, 40 mg, 80 mg
+moa: Blocks β1 and β2 receptors; lipophilic (crosses blood–brain barrier); reduces portal pressure via ↓ cardiac output and splanchnic vasoconstriction.
+uses:
+- Primary and secondary prophylaxis of variceal bleeding in portal hypertension
+- Thyrotoxicosis symptoms (and thyroid storm), migraine prophylaxis, essential tremor, anxiety (somatic symptoms)
+- Hypertension (STG 40 mg OD), angina, arrhythmias; infantile haemangioma
+dose:
+- Portal hypertension: 20–40 mg twice daily, titrate to reduce resting HR by 25% (or to ~55–60/min)
+- Thyrotoxicosis: 10–40 mg three to four times daily
+- Migraine prophylaxis: 40 mg two to three times daily (80–160 mg/day)
+- Hypertension: 40 mg once to twice daily (max 160 mg twice daily)
+ci:
+- Asthma or history of bronchospasm (absolute), COPD with reversibility
+- Bradycardia, AV block, cardiogenic shock, decompensated HF, severe peripheral vascular disease, Prinzmetal angina
+se:
+- Bronchospasm, bradycardia, cold extremities, fatigue, vivid dreams/nightmares, depression, erectile dysfunction
+- Masks hypoglycaemia; worsens peripheral vascular disease
+ddi:
+- Verapamil / diltiazem :: Heart block, asystole :: Avoid
+- Insulin / sulfonylureas :: Prolonged and masked hypoglycaemia :: Monitor glucose
+- Salbutamol :: Antagonises bronchodilator effect :: Avoid in asthma
+- Rifampicin :: Reduced propranolol levels :: Monitor
+- Lidocaine :: Raised lidocaine levels :: Monitor
+food:
+- Food :: Increases bioavailability :: Take consistently with meals
+- Alcohol :: Additive hypotension and CNS effects :: Limit
+preg: Can be used (e.g. thyrotoxicosis) but may cause fetal growth restriction and neonatal bradycardia/hypoglycaemia.
+lact: Compatible.
+hepatic: High first-pass metabolism — reduce dose in cirrhosis.
+monitor:
+- Heart rate, BP; in portal hypertension aim for HR ~55–60/min
+advice:
+- Never stop suddenly (rebound tachycardia/angina, variceal bleed risk)
+- Tell any prescriber you have asthma — propranolol must not be used
+- May cause vivid dreams and cold hands
+storage: Below 25°C, protect from light.
+pearls:
+- Drug of choice for symptoms of thyrotoxicosis (also blocks peripheral T4→T3 conversion)
+
+=== drug: labetalol
+name: Labetalol
+class: Combined alpha-1 and non-selective beta blocker
+group: Cardiovascular
+nemlit: C (tablet 100 mg, 200 mg; injection 5 mg/mL)
+forms: Tablet 100 mg, 200 mg; injection 5 mg/mL
+moa: α1 blockade (vasodilatation) plus β blockade (prevents reflex tachycardia); β:α ratio ~3:1 orally, ~7:1 IV.
+uses:
+- Hypertension in pregnancy (first-line oral) and severe pre-eclampsia (IV)
+- Hypertensive emergencies, including aortic dissection
+dose:
+- Pregnancy (oral): 100 mg twice daily, increase to 200–400 mg twice to three times daily (max 2.4 g/day)
+- Hypertensive emergency/severe pre-eclampsia: 20 mg IV over 2 min, then 40 mg, then 80 mg every 10 min (max 300 mg); or infusion 1–2 mg/min
+ci:
+- Asthma; 2nd/3rd degree AV block; cardiogenic shock; severe bradycardia; decompensated HF
+se:
+- Postural hypotension, dizziness, scalp tingling, fatigue, bronchospasm, rarely hepatotoxicity
+ddi:
+- Verapamil / diltiazem :: Heart block :: Avoid
+- Insulin :: Masked hypoglycaemia :: Monitor
+- Magnesium sulfate :: Additive hypotension :: Monitor BP
+food:
+- Food :: Increases bioavailability :: Take with food
+preg: Preferred antihypertensive in pregnancy; may cause neonatal bradycardia/hypoglycaemia — monitor baby.
+lact: Compatible.
+hepatic: Rare severe hepatocellular injury — stop if jaundice.
+monitor:
+- BP every 5–15 minutes during IV use; HR; keep patient supine during IV dosing and for 3 h after
+advice:
+- Take with food; rise slowly from lying/sitting
+- Avoid in asthma
+storage: Below 25°C; protect injection from light.
+pearls:
+- In aortic dissection, give the beta-blocker (labetalol) BEFORE any vasodilator
+
+=== drug: methyldopa
+name: Methyldopa
+class: Centrally acting alpha-2 adrenergic agonist
+group: Cardiovascular
+nemlit: A (tablet 250 mg)
+forms: Tablet 250 mg
+moa: Converted to α-methylnoradrenaline, which stimulates central α2 receptors → ↓ sympathetic outflow and peripheral resistance.
+uses:
+- Hypertension in pregnancy (long safety record) — chronic and gestational hypertension
+dose:
+- 250 mg two to three times daily, increase every 2 days; usual 250–500 mg three to four times daily (max 3 g/day)
+ci:
+- Active liver disease; depression; phaeochromocytoma; porphyria
+- History of methyldopa-associated haemolytic anaemia
+se:
+- Sedation, drowsiness, depression, dry mouth, nasal congestion
+- Positive Coombs' test (up to 20%), haemolytic anaemia (rare), hepatitis
+- Postural hypotension, fluid retention; gynaecomastia, galactorrhoea
+ddi:
+- Iron salts (ferrous sulfate) :: Reduce methyldopa absorption → ↑ BP :: Separate by 2 hours
+- MAO inhibitors :: Hypertensive reaction :: Avoid
+- Lithium :: Lithium toxicity :: Monitor
+- Other CNS depressants / alcohol :: Additive sedation :: Caution
+food:
+- Alcohol :: Increased sedation and hypotension :: Avoid
+- Iron-containing foods/supplements :: Reduced absorption :: Separate from iron tablets
+preg: Drug of choice for chronic hypertension in pregnancy; switch to another agent after delivery (risk of postnatal depression).
+lact: Compatible, but avoid postpartum if possible because of depression risk.
+monitor:
+- BP, FBC/Coombs' test if anaemia, LFTs in first 6–12 weeks
+advice:
+- Drowsiness common in the first days — avoid driving until you know how it affects you
+- Report yellow eyes, dark urine, unusual tiredness or low mood
+- Take iron tablets at least 2 hours apart
+storage: Below 25°C.
+pearls:
+- Pregnant women on methyldopa who also take ferrous sulfate — separate the doses
+
+=== drug: hydralazine
+name: Hydralazine
+class: Direct arteriolar vasodilator
+group: Cardiovascular
+nemlit: B (tablet 25 mg); C (20 mg injection)
+forms: Tablet 25 mg; powder for injection 20 mg
+moa: Relaxes arteriolar smooth muscle (mechanism unclear; ↓ intracellular calcium) → ↓ afterload; triggers reflex tachycardia and fluid retention.
+uses:
+- Severe hypertension in pregnancy / severe pre-eclampsia and eclampsia (IV)
+- Hypertensive emergency; heart failure (with nitrates) when ACE inhibitor/ARB not possible
+dose:
+- Severe pre-eclampsia: 5 mg IV slowly, repeat every 20–30 min (max 20 mg); keep diastolic 90–100
+- Oral hypertension: 25 mg every 8 hours (STG), max 50 mg 8 hourly
+ci:
+- SLE; severe tachycardia; high-output heart failure; dissecting aortic aneurysm (without β-blocker)
+se:
+- Headache, tachycardia, palpitations, flushing, fluid retention
+- Drug-induced lupus (dose >100 mg/day, slow acetylators), peripheral neuropathy (pyridoxine deficiency)
+ddi:
+- Other antihypertensives / MgSO4 :: Additive hypotension :: Monitor BP closely
+- NSAIDs :: Reduced effect :: Avoid
+food:
+- Food :: Increases bioavailability :: Take consistently with food
+preg: Used IV for severe hypertension in pregnancy; may cause maternal hypotension → fetal distress (give slowly, monitor fetal heart).
+lact: Compatible.
+monitor:
+- BP and pulse every 5 min for 20 min after each IV dose; fetal heart rate
+advice:
+- Report joint pains, rash, fever (lupus-like syndrome)
+storage: Protect from light.
+pearls:
+- Often combined with a β-blocker and diuretic to blunt reflex tachycardia and fluid retention
+
+=== drug: glyceryl-trinitrate
+name: Glyceryl trinitrate (GTN, nitroglycerin)
+class: Organic nitrate vasodilator
+group: Cardiovascular
+nemlit: C (sublingual spray 400 mcg); S (IV infusion)
+forms: Sublingual spray 400 mcg/dose; sublingual tablet 0.5 mg; IV infusion
+moa: Releases nitric oxide → ↑ cGMP → venodilatation (↓ preload) and coronary dilatation; at higher doses arteriolar dilatation.
+uses:
+- Acute relief and prophylaxis of angina; acute coronary syndrome
+- Acute pulmonary oedema (if systolic BP >90–100 mmHg); hypertensive emergency with pulmonary oedema/ACS
+dose:
+- Angina: 1–2 sprays (400–800 mcg) or 0.5 mg tablet under the tongue; repeat every 5 min, max 3 doses in 15 min
+- IV: 5–10 mcg/min, titrate every 3–5 min to response (max ~200 mcg/min)
+ci:
+- Systolic BP <90 mmHg; hypovolaemia; right ventricular infarction
+- PDE-5 inhibitors (sildenafil within 24 h, tadalafil within 48 h)
+- Severe aortic stenosis, hypertrophic obstructive cardiomyopathy, raised intracranial pressure
+se:
+- Throbbing headache (very common), flushing, dizziness, postural hypotension, reflex tachycardia
+- Tolerance with continuous use; methaemoglobinaemia (high doses)
+ddi:
+- Sildenafil / tadalafil :: Severe, potentially fatal hypotension :: Absolutely contraindicated
+- Antihypertensives / alcohol :: Additive hypotension :: Caution
+food:
+- Alcohol :: Marked hypotension, fainting :: Avoid
+preg: Use only if clearly needed.
+lact: Unknown; use with caution.
+monitor:
+- BP and HR before and after each dose; pain score
+advice:
+- Sit down before using; spray under the tongue, do not inhale
+- If pain not relieved 5 minutes after the first dose, call for emergency help
+- Headache is common and usually settles
+- Never take with sildenafil-type medicines
+storage: Tablets in original glass bottle, tightly closed, away from heat; discard 8 weeks after opening. Spray: do not puncture.
+pearls:
+- Nitrate-free interval (8–12 h/day) prevents tolerance with long-acting nitrates (isosorbide dinitrate)
+
+=== drug: digoxin
+name: Digoxin
+class: Cardiac glycoside
+group: Cardiovascular
+nemlit: D (tablet 0.25 mg; injection)
+forms: Tablet 62.5 mcg, 125 mcg, 250 mcg; injection 250 mcg/mL; paediatric elixir 50 mcg/mL
+moa: Inhibits Na+/K+-ATPase → ↑ intracellular Ca2+ (positive inotropy); increases vagal tone → slows AV conduction (rate control).
+uses:
+- Rate control in atrial fibrillation, especially with heart failure
+- Symptomatic heart failure with reduced EF despite optimal therapy (reduces hospitalisation, not mortality)
+dose:
+- AF rapid loading: 0.75–1.5 mg orally in divided doses over 24 h; maintenance 125–250 mcg once daily
+- Heart failure: 62.5–125 mcg once daily (elderly/renal impairment: 62.5 mcg)
+ci:
+- 2nd/3rd degree heart block, ventricular tachycardia/fibrillation, WPW with AF
+- Hypertrophic obstructive cardiomyopathy; hypokalaemia (correct first)
+se:
+- Narrow therapeutic index; toxicity: nausea, vomiting, anorexia, diarrhoea
+- Visual disturbance (yellow-green halos, xanthopsia), confusion, fatigue
+- Arrhythmias (any; classically bidirectional VT, AV block, atrial tachycardia with block); gynaecomastia
+ddi:
+- Amiodarone :: Doubles digoxin levels :: Halve digoxin dose; monitor levels
+- Verapamil / diltiazem :: Raised digoxin levels + AV block :: Reduce dose; monitor
+- Loop/thiazide diuretics :: Hypokalaemia/hypomagnesaemia → toxicity :: Monitor and correct K+/Mg2+
+- Clarithromycin / erythromycin :: Raised digoxin levels :: Monitor
+- Calcium (IV) :: Arrhythmias :: Avoid IV calcium in digitalised patients
+food:
+- High-fibre meals / bran :: Reduced absorption :: Take at the same time daily, consistently
+- Liquorice :: Hypokalaemia → toxicity :: Avoid
+preg: Safe at usual doses.
+lact: Compatible.
+renal: Renally cleared — reduce dose significantly; monitor levels.
+monitor:
+- Heart rate (hold if <60/min), K+, creatinine, digoxin level (6+ h post-dose; 0.5–1 ng/mL in HF)
+- Signs of toxicity
+advice:
+- Check your pulse daily; do not take the dose if below 60/min and inform your clinician
+- Report nausea, loss of appetite, visual changes (yellow/green vision), palpitations
+- Do not switch brands without advice
+storage: Below 25°C, protect from light.
+pearls:
+- Antidote for life-threatening toxicity: digoxin-specific antibody fragments (Fab)
+- Hypokalaemia, hypomagnesaemia, hypercalcaemia, hypothyroidism and renal failure all predispose to toxicity
+
+=== drug: amiodarone
+name: Amiodarone
+class: Class III antiarrhythmic (potassium channel blocker; also class I, II, IV actions)
+group: Cardiovascular
+nemlit: S (injection 30 mg/mL; tablet 100 mg)
+forms: Tablet 100 mg, 200 mg; injection 50 mg/mL (30 mg/mL in NEMLIT)
+moa: Prolongs action potential duration and refractory period; non-competitive α and β blockade; slows AV conduction.
+uses:
+- Ventricular fibrillation/pulseless VT in cardiac arrest (after 3rd shock)
+- Ventricular and supraventricular tachyarrhythmias; AF rhythm/rate control, especially with heart failure
+dose:
+- Cardiac arrest: 300 mg IV bolus after the 3rd shock; 150 mg after the 5th shock
+- Stable tachyarrhythmia: 300 mg IV over 20–60 min (central line preferred), then 900 mg over 24 h
+- Oral loading: 200 mg three times daily for 1 week, twice daily for 1 week, then 100–200 mg daily
+ci:
+- Sinus bradycardia, sinoatrial block, AV block (without pacemaker)
+- Thyroid dysfunction; iodine sensitivity; pregnancy and breastfeeding
+se:
+- Thyroid dysfunction (hypo- or hyperthyroidism; contains iodine)
+- Pulmonary fibrosis/pneumonitis; hepatotoxicity; corneal microdeposits
+- Photosensitivity and blue-grey skin discolouration; peripheral neuropathy
+- Bradycardia, QT prolongation; IV phlebitis
+ddi:
+- Warfarin :: Inhibits warfarin metabolism → raised INR, bleeding :: Reduce warfarin dose by 30–50%; monitor INR
+- Digoxin :: Doubles digoxin levels :: Halve digoxin dose
+- Simvastatin :: Myopathy :: Max simvastatin 20 mg
+- QT-prolonging drugs (haloperidol, erythromycin, quinine, fluoroquinolones) :: Torsades de pointes :: Avoid
+- Beta-blockers / verapamil :: Bradycardia, AV block :: Monitor
+food:
+- Grapefruit juice :: Raises amiodarone levels :: Avoid
+- Food :: Increases absorption :: Take consistently with food
+preg: Avoid (neonatal thyroid dysfunction, bradycardia).
+lact: Contraindicated (iodine in milk).
+hepatic: Monitor LFTs; stop if severe hepatotoxicity.
+monitor:
+- TFTs and LFTs before and every 6 months; chest X-ray and lung function baseline; ECG; eye exam if visual symptoms
+advice:
+- Protect skin from sun (cover up, high-SPF sunscreen) during treatment and for months after stopping
+- Report breathlessness, cough, visual changes, weight change, palpitations
+storage: Below 25°C, protect from light.
+pearls:
+- Extremely long half-life (~50 days) — effects and interactions persist for months after stopping
+
+=== drug: atorvastatin
+name: Atorvastatin
+class: HMG-CoA reductase inhibitor (statin)
+group: Cardiovascular
+nemlit: B (tablet 10, 20, 40 mg); rosuvastatin S
+forms: Tablet 10 mg, 20 mg, 40 mg, 80 mg
+moa: Inhibits HMG-CoA reductase (rate-limiting step in cholesterol synthesis) → up-regulates hepatic LDL receptors → ↓ LDL-C; plaque stabilisation.
+uses:
+- Primary prevention in high cardiovascular risk (e.g. diabetes ≥40 years, high 10-year risk)
+- Secondary prevention after MI, ACS, ischaemic stroke/TIA, peripheral arterial disease
+- Dyslipidaemia
+dose:
+- Primary prevention: 10–20 mg once daily
+- After ACS/stroke (high intensity): 40–80 mg once daily
+ci:
+- Active liver disease or unexplained persistently raised transaminases
+- Pregnancy and breastfeeding
+se:
+- Myalgia, myopathy; rarely rhabdomyolysis (dark urine, severe muscle pain)
+- Raised liver enzymes; GI upset, headache; small increase in diabetes risk
+ddi:
+- Clarithromycin / erythromycin / itraconazole / ritonavir (CYP3A4 inhibitors) :: Raised statin → myopathy :: Suspend statin during macrolide course or limit dose
+- Fibrates (gemfibrozil) :: Rhabdomyolysis :: Avoid gemfibrozil; caution with fenofibrate
+- Rifampicin :: Reduced atorvastatin levels :: Monitor lipids
+- Warfarin :: Small INR rise :: Monitor INR when starting
+food:
+- Grapefruit juice (large amounts) :: Raises atorvastatin levels → myopathy :: Avoid large quantities
+- Alcohol (heavy) :: Liver injury :: Limit
+preg: CONTRAINDICATED (cholesterol needed for fetal development) — stop 3 months before planned conception.
+lact: Contraindicated.
+hepatic: Avoid in active liver disease.
+monitor:
+- Lipid profile at baseline and 3 months; ALT at baseline and 3 months; CK if muscle symptoms
+advice:
+- Can be taken at any time of day (long half-life) — same time daily
+- Report unexplained muscle pain, weakness or dark urine immediately
+- Avoid large amounts of grapefruit juice; continue a low-fat diet
+storage: Below 25°C.
+pearls:
+- Simvastatin (short half-life) should be taken at night; atorvastatin/rosuvastatin any time
+
+=== drug: simvastatin
+name: Simvastatin
+class: HMG-CoA reductase inhibitor (statin)
+group: Cardiovascular
+nemlit: Not listed in NEMLIT 2021 (atorvastatin B is the listed statin)
+forms: Tablet 10 mg, 20 mg, 40 mg
+moa: Statin; pro-drug with short half-life, heavily CYP3A4-metabolised.
+uses:
+- Hyperlipidaemia; cardiovascular risk reduction
+dose:
+- 20–40 mg once daily at night
+ci:
+- Active liver disease; pregnancy/breastfeeding; strong CYP3A4 inhibitors (clarithromycin, itraconazole, ritonavir)
+se:
+- Myalgia, myopathy, rhabdomyolysis; raised transaminases
+ddi:
+- Clarithromycin / itraconazole / ritonavir-boosted PIs :: Very high simvastatin levels → rhabdomyolysis :: Contraindicated
+- Amlodipine / amiodarone / diltiazem :: Raised levels :: Max simvastatin 20 mg daily
+- Warfarin :: INR rise :: Monitor
+food:
+- Grapefruit juice :: Large rise in levels :: Avoid completely
+preg: Contraindicated.
+lact: Contraindicated.
+monitor:
+- Lipids, ALT; CK if symptoms
+advice:
+- Take in the evening; avoid grapefruit
+- Report muscle pain or dark urine
+storage: Below 25°C.
+pearls:
+- Patients on ritonavir-boosted ART need atorvastatin (low dose) or rosuvastatin — never simvastatin
+
+=== drug: aspirin
+name: Acetylsalicylic acid (aspirin)
+class: Antiplatelet (irreversible COX-1 inhibitor); NSAID at high dose
+group: Cardiovascular
+nemlit: A (tablet 75 mg, 100 mg, 300 mg)
+forms: Tablet 75 mg, 100 mg (low dose, may be enteric-coated), 300 mg
+moa: Irreversibly acetylates platelet COX-1 → ↓ thromboxane A2 for the platelet's lifespan (7–10 days); higher doses are analgesic, antipyretic and anti-inflammatory.
+uses:
+- Acute coronary syndrome (300 mg chewed loading), secondary prevention of MI, stroke/TIA, PAD
+- Acute ischaemic stroke (after haemorrhage excluded by CT)
+- Pre-eclampsia prevention in high-risk pregnancy (75–150 mg nightly from 12 weeks)
+- Analgesia/antipyresis in adults (300–600 mg); acute rheumatic fever (high dose)
+dose:
+- Antiplatelet: 75–100 mg once daily; ACS loading 300 mg chewed
+- Acute ischaemic stroke: 300 mg daily for 14 days, then 75–100 mg daily
+- Analgesic: 300–900 mg every 4–6 hours (max 4 g/day)
+ci:
+- Children <16 years (Reye's syndrome) except specialist indications (e.g. Kawasaki)
+- Active peptic ulcer or GI bleeding, haemophilia and bleeding disorders
+- Aspirin/NSAID-induced asthma; third trimester (analgesic doses)
+se:
+- Dyspepsia, peptic ulcer, GI bleeding
+- Bleeding (bruising, epistaxis); bronchospasm in sensitive asthmatics
+- Tinnitus and salicylism at high doses; hypersensitivity
+ddi:
+- Warfarin / heparin / clopidogrel :: Increased bleeding risk :: Use only where indicated; add PPI
+- NSAIDs (ibuprofen) :: Ibuprofen blocks aspirin's antiplatelet effect; ↑ GI bleeding :: Take aspirin 30 min before ibuprofen or avoid NSAIDs
+- Methotrexate :: Reduced methotrexate excretion → toxicity :: Avoid (anti-inflammatory doses)
+- Corticosteroids / SSRIs :: Increased GI bleeding :: Consider PPI
+- ACE inhibitors / diuretics :: High doses reduce their effect :: Monitor
+food:
+- Alcohol :: Increased GI bleeding :: Avoid
+- Food :: Reduces stomach irritation :: Take after food
+preg: Low dose is used for pre-eclampsia prevention; avoid analgesic doses, especially in the third trimester (premature closure of ductus arteriosus, bleeding).
+lact: Avoid regular analgesic doses (Reye's syndrome risk in infant); occasional low dose acceptable.
+renal: Avoid high doses in renal impairment.
+monitor:
+- Signs of GI bleeding (black stools), bruising
+advice:
+- Take after food with water; do not chew enteric-coated tablets (except loading dose)
+- Report black/tarry stools, vomiting blood, unusual bruising
+- Tell your dentist/surgeon you take aspirin
+- Do not give to children
+storage: Dry place below 25°C; discard if strong vinegar smell (hydrolysis).
+pearls:
+- Antiplatelet effect lasts the platelet's lifetime — stop 7 days before elective surgery if bleeding risk high
+- Overdose: see salicylate poisoning (sodium bicarbonate, urine alkalinisation)
+
+=== drug: clopidogrel
+name: Clopidogrel
+class: Antiplatelet (P2Y12 ADP receptor antagonist)
+group: Cardiovascular
+nemlit: D (tablet 75 mg, 300 mg)
+forms: Tablet 75 mg, 300 mg
+moa: Pro-drug activated by CYP2C19; irreversibly blocks platelet P2Y12 ADP receptors.
+uses:
+- Acute coronary syndrome and after PCI (dual antiplatelet therapy with aspirin)
+- Secondary prevention of stroke/MI/PAD when aspirin not tolerated
+dose:
+- ACS: 300–600 mg loading, then 75 mg once daily (with aspirin) for 12 months
+- Secondary prevention: 75 mg once daily
+ci:
+- Active bleeding (peptic ulcer, intracranial haemorrhage); severe hepatic impairment
+se:
+- Bleeding, bruising, dyspepsia, diarrhoea, rash; rarely TTP, neutropenia
+ddi:
+- Omeprazole / esomeprazole :: Inhibit CYP2C19 → reduced activation of clopidogrel :: Use pantoprazole if a PPI is needed
+- Warfarin / NSAIDs / aspirin :: Increased bleeding :: Monitor; use only when indicated
+- Fluconazole / fluoxetine :: Reduced activation (CYP2C19) :: Avoid if possible
+food:
+- Alcohol :: GI bleeding :: Limit
+preg: Avoid unless essential.
+lact: Avoid.
+monitor:
+- Bleeding signs; FBC if symptoms
+advice:
+- Do not stop without speaking to your cardiologist (especially after a stent)
+- Stop 5–7 days before planned surgery only on advice
+- Report black stools or unusual bleeding
+storage: Below 25°C.
+pearls:
+- Pantoprazole is the preferred PPI with clopidogrel
+
+=== drug: warfarin
+name: Warfarin
+class: Oral anticoagulant (vitamin K antagonist)
+group: Cardiovascular
+nemlit: C (tablet 1 mg, 2 mg, 5 mg)
+forms: Tablet 1 mg (brown), 3 mg (blue), 5 mg (pink) — colours vary by brand
+moa: Inhibits vitamin K epoxide reductase → ↓ synthesis of factors II, VII, IX, X and proteins C and S; full effect takes 3–5 days.
+uses:
+- Treatment and secondary prevention of DVT and pulmonary embolism
+- Stroke prevention in atrial fibrillation and with mechanical heart valves / rheumatic mitral stenosis
+dose:
+- Start 5 mg daily (lower in elderly, liver disease, low weight) overlapping with heparin/LMWH for ≥5 days AND until INR in range on 2 consecutive days
+- Maintenance adjusted by INR: target 2.0–3.0 (2.5–3.5 for mechanical mitral valves)
+ci:
+- Pregnancy (especially 1st trimester and near term), active bleeding, haemorrhagic stroke
+- Severe uncontrolled hypertension, severe liver disease, recent major surgery
+- Patients unable to attend INR monitoring
+se:
+- Bleeding (minor to life-threatening)
+- Skin necrosis (early, protein C depletion — reason for heparin bridging); purple toe syndrome; hair loss
+ddi:
+- Metronidazole / fluconazole / co-trimoxazole :: Inhibit metabolism → ↑ INR, bleeding :: Avoid or reduce warfarin, check INR in 3–5 days
+- Amiodarone :: Large INR increase :: Reduce warfarin 30–50%
+- Erythromycin / clarithromycin / ciprofloxacin :: ↑ INR :: Monitor INR
+- Rifampicin / carbamazepine / phenytoin / phenobarbital :: Enzyme induction → ↓ INR, clotting :: Increase dose with frequent INR checks
+- Aspirin / NSAIDs / clopidogrel :: Increased bleeding (pharmacodynamic) :: Avoid NSAIDs; paracetamol preferred
+- Paracetamol (regular >2 g/day) :: Raises INR :: Monitor INR
+food:
+- Vitamin K-rich foods (spinach, sukuma wiki, cabbage, broccoli, avocado, liver) :: Reduce warfarin effect :: Keep intake CONSISTENT rather than avoiding
+- Alcohol (binge) :: Raises INR; chronic heavy use lowers it :: Avoid binge drinking
+- Herbal products (garlic, ginger, ginkgo) :: Increased bleeding :: Avoid
+- Cranberry/grapefruit juice :: Raise INR :: Avoid large amounts
+preg: CONTRAINDICATED in first trimester (warfarin embryopathy) and near term; use LMWH.
+lact: Compatible.
+hepatic: Increased sensitivity — lower doses, close INR monitoring.
+monitor:
+- INR daily/alternate days on initiation, then weekly until stable, then every 4–12 weeks
+- Haemoglobin; signs of bleeding
+advice:
+- Take at the same time each day (usually 6 pm); never double a missed dose
+- Carry an anticoagulant card; tell every health worker and dentist
+- Keep your diet steady — do not suddenly change amounts of green leafy vegetables
+- Avoid aspirin, ibuprofen, diclofenac and herbal remedies unless approved
+- Report bleeding gums, nosebleeds, blood in urine/stool, severe headache
+storage: Below 25°C, protect from light; keep different strengths clearly separate.
+pearls:
+- Reversal: vitamin K (phytomenadione) ± FFP/prothrombin complex concentrate
+- Narrow therapeutic index — interactions are a classic exam topic
+
+=== drug: heparin
+name: Heparin (unfractionated)
+class: Parenteral anticoagulant (indirect thrombin and factor Xa inhibitor)
+group: Cardiovascular
+nemlit: B (injection 1,000 IU/mL; under specialist supervision)
+forms: Injection 1,000 IU/mL, 5,000 IU/mL, 25,000 IU/mL
+moa: Binds antithrombin III, greatly accelerating inactivation of thrombin (IIa) and factor Xa.
+uses:
+- Treatment of DVT/PE (especially if renal failure, high bleeding risk, possible thrombolysis)
+- Acute coronary syndrome; VTE prophylaxis (SC 5,000 IU 8–12 hourly)
+- Bridging when starting warfarin
+dose:
+- Treatment: 80 IU/kg IV bolus (or 5,000 IU), then 18 IU/kg/hour infusion adjusted to APTT 1.5–2.5 × control
+- Prophylaxis: 5,000 IU SC every 8–12 hours
+ci:
+- Active major bleeding, haemophilia, severe thrombocytopenia, history of heparin-induced thrombocytopenia (HIT)
+- Recent intracranial haemorrhage; severe uncontrolled hypertension
+se:
+- Bleeding; HIT (platelet fall 50% after 5–10 days, with thrombosis)
+- Hyperkalaemia (aldosterone suppression); osteoporosis with long-term use; injection-site haematoma
+ddi:
+- Aspirin / NSAIDs / clopidogrel / warfarin :: Increased bleeding :: Monitor; avoid NSAIDs
+- ACE inhibitors / spironolactone :: Hyperkalaemia :: Monitor K+
+food:
+- None significant
+preg: Does not cross the placenta — safe (LMWH usually preferred).
+lact: Compatible.
+renal: Preferred anticoagulant in severe renal impairment.
+monitor:
+- APTT 6 hours after start and after each change; platelets at baseline and every 2–3 days from day 5; Hb
+advice:
+- Report bleeding, bruising; do not rub SC injection site
+storage: Below 25°C.
+pearls:
+- Antidote: protamine sulfate (1 mg neutralises ~100 IU heparin; max 50 mg)
+
+=== drug: enoxaparin
+name: Enoxaparin
+class: Low molecular weight heparin (LMWH)
+group: Cardiovascular
+nemlit: Not found in the NEMLIT 2021 extract (unfractionated heparin B is listed) — check your facility list
+forms: Pre-filled syringes 20 mg, 40 mg, 60 mg, 80 mg, 100 mg (100 mg = 10,000 IU)
+moa: Binds antithrombin → preferential inhibition of factor Xa (anti-Xa:anti-IIa ≈ 4:1); predictable dose response.
+uses:
+- Treatment of DVT and PE (including in pregnancy and cancer)
+- VTE prophylaxis in surgical/medical inpatients; unstable angina/NSTEMI
+dose:
+- Treatment: 1 mg/kg SC every 12 hours (or 1.5 mg/kg once daily)
+- Prophylaxis: 40 mg SC once daily (20 mg in moderate-risk surgery)
+- eGFR <30: treatment 1 mg/kg once daily; prophylaxis 20 mg daily
+ci:
+- Active major bleeding; history of HIT; acute bacterial endocarditis; recent haemorrhagic stroke
+- Spinal/epidural anaesthesia within 12 h (prophylactic) or 24 h (treatment dose)
+se:
+- Bleeding, injection-site bruising/haematoma, thrombocytopenia (HIT less than with UFH), hyperkalaemia, raised LFTs
+ddi:
+- Aspirin / NSAIDs / clopidogrel / warfarin :: Increased bleeding :: Monitor
+- ACE inhibitors / spironolactone :: Hyperkalaemia :: Monitor K+
+food:
+- None significant
+preg: Anticoagulant of choice in pregnancy.
+lact: Compatible.
+renal: Accumulates — dose reduce if eGFR <30 (or use UFH).
+monitor:
+- Platelets at baseline and day 5–7; renal function; anti-Xa in pregnancy, obesity or renal failure
+advice:
+- Inject into the abdomen (5 cm from navel), alternating sides; do not expel the air bubble; do not rub
+- Report unusual bleeding or bruising
+storage: Below 25°C; do not freeze.
+pearls:
+- Protamine only partially reverses LMWH
+
+=== drug: alteplase
+name: Alteplase (rt-PA)
+class: Thrombolytic (recombinant tissue plasminogen activator)
+group: Cardiovascular
+nemlit: S (powder for injection 50 mg); streptokinase S
+forms: Powder for injection 10 mg, 20 mg, 50 mg
+moa: Binds fibrin and converts plasminogen to plasmin at the clot surface → fibrinolysis.
+uses:
+- Acute ischaemic stroke within 4.5 hours of onset (after CT excludes haemorrhage)
+- STEMI when PCI is not available within 120 minutes; massive PE with haemodynamic instability
+dose:
+- Ischaemic stroke: 0.9 mg/kg (max 90 mg): 10% IV bolus over 1 min, remainder over 60 min
+- Massive PE: 100 mg IV over 2 hours
+ci:
+- Any previous intracranial haemorrhage; ischaemic stroke in past 3 months (except within 4.5 h)
+- Active bleeding; recent major surgery/trauma/head injury (≤3 weeks); aortic dissection
+- Uncontrolled hypertension (>185/110 mmHg for stroke); bleeding disorder; brain tumour
+se:
+- Bleeding (including intracranial haemorrhage), angioedema (especially with ACE inhibitors), reperfusion arrhythmias
+ddi:
+- Anticoagulants / antiplatelets :: Major bleeding :: Avoid antiplatelets for 24 h after stroke thrombolysis
+- ACE inhibitors :: Orolingual angioedema :: Monitor airway
+food:
+- Not applicable
+preg: Use only for life-threatening conditions.
+lact: Unknown.
+monitor:
+- Neurological observations and BP every 15 min for 2 h, then every 30 min for 6 h; keep BP <180/105
+advice:
+- Not applicable (hospital use); counsel family on bleeding signs
+storage: Below 25°C; reconstitute with supplied water, swirl gently — do not shake.
+pearls:
+- "Time is brain": door-to-needle time target <60 minutes

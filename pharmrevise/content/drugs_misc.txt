@@ -1,0 +1,1096 @@
+# Drug monographs — obstetrics/reproductive, haematology, musculoskeletal, urology, antidotes & emergency, allergy, dermatology, oncology.
+
+=== drug: oxytocin
+name: Oxytocin
+class: Uterotonic (posterior pituitary hormone)
+group: Obstetric
+nemlit: A (injection 10 IU/mL)
+forms: Injection 10 IU/mL (1 mL ampoule)
+moa: Stimulates oxytocin receptors in myometrium → rhythmic contractions; also milk ejection.
+uses:
+- Active management of the third stage of labour (prevention of PPH) — drug of choice
+- Treatment of postpartum haemorrhage; induction/augmentation of labour; incomplete abortion
+dose:
+- AMTSL: 10 IU IM within 1 minute of delivery of the baby
+- PPH treatment: 10 IU IV/IM, then 20–40 IU in 1 L normal saline/Ringer's at 60 drops/min
+- Induction: 2.5 IU in 500 mL saline, start 10 drops/min, increase by 10 drops every 30 min until 3 contractions in 10 min lasting >40 s
+ci:
+- Obstructed labour, fetal distress, cephalopelvic disproportion, malpresentation, placenta praevia (for induction)
+- Hypertonic uterine contractions
+se:
+- Uterine hyperstimulation, fetal distress, uterine rupture
+- Water intoxication/hyponatraemia (large volumes of dextrose, high doses), hypotension with rapid IV bolus
+ddi:
+- Prostaglandins (misoprostol) :: Potentiate uterotonic effect → hyperstimulation :: Avoid simultaneous use for induction
+food:
+- Not applicable
+preg: Used only in labour/postpartum.
+lact: Compatible.
+monitor:
+- Contractions and fetal heart rate every 30 min during infusion; uterine tone and blood loss postpartum; fluid balance
+advice:
+- Explain purpose of injection after birth (prevents heavy bleeding)
+storage: Cold chain 2–8°C (heat-sensitive — loses potency); do not freeze.
+pearls:
+- Heat-stable carbetocin is an alternative where cold chain is poor
+
+=== drug: misoprostol
+name: Misoprostol
+class: Prostaglandin E1 analogue
+group: Obstetric
+nemlit: A (tablet 200 mcg)
+forms: Tablet 200 mcg
+moa: PGE1 agonist → uterine contraction and cervical ripening; reduces gastric acid and increases mucus.
+uses:
+- Prevention of PPH where oxytocin is unavailable; treatment of PPH (adjunct)
+- Incomplete abortion/miscarriage management; cervical ripening and induction (specialist, low dose)
+- NSAID ulcer prevention (rarely used)
+dose:
+- PPH prevention: 600 mcg orally once after delivery of the baby
+- PPH treatment: 800 mcg sublingually
+- Incomplete abortion (<13 weeks): 600 mcg orally or 400 mcg sublingually single dose
+ci:
+- Pregnancy where continuation is desired (abortifacient, teratogenic — Möbius syndrome)
+- Previous caesarean scar for induction at term (rupture risk)
+se:
+- Shivering, fever (transient), diarrhoea, nausea, abdominal cramps
+- Uterine hyperstimulation/rupture
+ddi:
+- Oxytocin :: Additive effect :: Do not give both simultaneously for induction
+- Magnesium-containing antacids :: Worsen diarrhoea :: Avoid
+food:
+- Food :: Reduces diarrhoea (oral use for ulcer) :: —
+preg: Contraindicated in desired pregnancy.
+lact: Compatible after single postpartum dose.
+monitor:
+- Bleeding, temperature, uterine tone
+advice:
+- Shivering and fever after the dose are common and settle within hours
+storage: Below 25°C, keep dry in blister (moisture degrades it).
+pearls:
+- Community-based distribution for home births reduces PPH
+
+=== drug: magnesium-sulfate
+name: Magnesium sulfate
+class: Anticonvulsant (for eclampsia); electrolyte
+group: Obstetric
+nemlit: A (injection 50% — 500 mg/mL in 10 mL)
+forms: Injection 50% (5 g/10 mL); 20% for IV use
+moa: Calcium antagonist at NMDA receptors and neuromuscular junction; cerebral vasodilator — raises seizure threshold.
+uses:
+- Prevention and treatment of seizures in severe pre-eclampsia and eclampsia (drug of choice)
+- Fetal neuroprotection before preterm birth <32 weeks
+- Acute severe asthma (single IV dose); torsades de pointes; hypomagnesaemia
+dose:
+- Pritchard (IM) regimen: loading 4 g IV (20% solution) over 5–10 min PLUS 10 g IM (5 g of 50% deep IM in each buttock with 1 mL 2% lidocaine); maintenance 5 g IM every 4 hours in alternate buttocks for 24 h after delivery or last seizure
+- Zuspan (IV) regimen: 4 g IV over 5–10 min, then 1 g/hour infusion for 24 h
+- Recurrent seizure: further 2 g IV over 5 min
+- Acute asthma: 1.2–2 g IV over 20 minutes
+ci:
+- Myasthenia gravis; heart block; severe renal impairment (reduce doses)
+se:
+- Flushing, warmth, nausea, injection pain
+- Toxicity: loss of patellar reflex (>7 mmol/L), respiratory depression (>10 mmol/L), cardiac arrest
+ddi:
+- Nifedipine :: Profound hypotension and neuromuscular blockade :: Use cautiously, monitor
+- Neuromuscular blockers / aminoglycosides :: Prolonged blockade :: Caution
+- Labetalol / other antihypertensives :: Hypotension :: Monitor
+food:
+- Not applicable
+preg: Safe and life-saving in eclampsia.
+lact: Compatible.
+renal: Accumulates — if urine output <30 mL/h, withhold maintenance dose.
+monitor:
+- Before each dose: patellar reflexes present, respiratory rate ≥16/min, urine output ≥30 mL/hour (≥100 mL in 4 h)
+- If respiratory arrest: ventilate and give calcium gluconate
+advice:
+- Explain the warm, flushing feeling on IV injection
+storage: Below 25°C.
+pearls:
+- Antidote: calcium gluconate 10% 10 mL (1 g) IV over 10 minutes
+- 50% solution must be diluted to 20% before IV injection
+
+=== drug: ergometrine
+name: Ergometrine
+class: Ergot alkaloid uterotonic
+group: Obstetric
+nemlit: C (injection 0.5 mg/mL)
+forms: Injection 0.5 mg/mL (also 0.2 mg); oxytocin/ergometrine combination
+moa: α-adrenergic and serotonergic stimulation → sustained tetanic uterine contraction.
+uses:
+- Treatment of PPH due to uterine atony (second line after oxytocin)
+dose:
+- 0.2–0.5 mg IM or slow IV; may repeat after 15 min (max 1 mg)
+ci:
+- Hypertension, pre-eclampsia/eclampsia, heart disease, peripheral vascular disease
+- First and second stages of labour; retained placenta (relative)
+se:
+- Hypertension, nausea, vomiting, headache, chest pain, vasospasm
+ddi:
+- Ritonavir / clarithromycin / azoles (CYP3A4 inhibitors) :: Ergotism (severe vasospasm) :: Contraindicated
+food:
+- Not applicable
+preg: Postpartum only.
+lact: Avoid repeated doses (suppresses lactation).
+monitor:
+- BP before and after; uterine tone
+advice:
+- Hospital use
+storage: Cold chain 2–8°C, protect from light.
+pearls:
+- NEVER give ergometrine to a hypertensive or pre-eclamptic woman
+
+=== drug: ferrous-sulfate
+name: Ferrous sulfate (± folic acid)
+class: Oral iron supplement
+group: Haematology
+nemlit: A (ferrous 200 mg sulfate or fumarate; oral liquid)
+forms: Tablet 200 mg ferrous sulfate (65 mg elemental iron); ferrous sulfate + folic acid (antenatal); syrup
+moa: Replaces iron for haemoglobin synthesis; absorbed as Fe2+ in duodenum.
+uses:
+- Treatment of iron deficiency anaemia; prevention in pregnancy (with folic acid)
+- After deworming in hookworm anaemia; prophylaxis in low birth weight infants
+dose:
+- Treatment adults: 200 mg (65 mg elemental) two to three times daily; continue 3 months after Hb normalises
+- Antenatal prevention: 60 mg elemental iron + 400 mcg folic acid daily
+- Children: 3–6 mg/kg/day elemental iron in divided doses
+ci:
+- Haemochromatosis, haemosiderosis; anaemia not due to iron deficiency (e.g. thalassaemia) without iron deficiency; repeated transfusions
+se:
+- Nausea, epigastric pain, constipation or diarrhoea, black stools (harmless), teeth staining (liquids)
+ddi:
+- Ciprofloxacin / doxycycline / levothyroxine / dolutegravir / methyldopa :: Chelation → reduced absorption :: Separate by 2–4 hours
+- Antacids / PPIs / calcium :: Reduced iron absorption :: Separate
+- Zinc :: Mutual reduced absorption :: Separate
+food:
+- Tea, coffee, milk, calcium, eggs, cereals/bran :: Reduce absorption :: Avoid within 1–2 hours of the dose
+- Vitamin C (orange juice, fruit) :: Enhances absorption :: Take with a vitamin C source
+- Food :: Reduces GI upset but also absorption :: Empty stomach is best; take with food if not tolerated
+preg: Recommended.
+lact: Compatible.
+monitor:
+- Hb after 2–4 weeks (expect rise ~1 g/dL per 2–3 weeks); reticulocytes at 7–10 days; ferritin
+advice:
+- Stools will turn black — this is normal
+- Take with orange juice or fruit, not with tea, coffee or milk
+- Keep out of reach of children — iron overdose can kill a child
+- Constipation: drink more water, eat vegetables and fruits
+storage: Below 25°C in child-resistant containers.
+pearls:
+- Iron overdose antidote: deferoxamine
+
+=== drug: folic-acid
+name: Folic acid
+class: Vitamin (B9)
+group: Haematology
+nemlit: A (tablet 5 mg; 400 mcg in antenatal combination)
+forms: Tablet 5 mg; 400 mcg (with iron)
+moa: Converted to tetrahydrofolate, needed for purine/thymidine synthesis and DNA replication.
+uses:
+- Prevention of neural tube defects (400 mcg daily pre-conception to 12 weeks; 5 mg if high risk: antiepileptics, previous NTD, diabetes, sickle cell)
+- Megaloblastic anaemia due to folate deficiency; haemolytic states (sickle cell disease — lifelong), methotrexate rescue (folinic acid used for high dose)
+dose:
+- Folate deficiency: 5 mg daily for 4 months
+- Sickle cell disease: 5 mg daily lifelong (some guidelines 1 mg)
+- Pregnancy prevention: 400 mcg daily (5 mg if high risk)
+ci:
+- Undiagnosed megaloblastic anaemia (may mask B12 deficiency and allow neurological damage)
+se:
+- Rare (GI upset, allergic reactions)
+ddi:
+- Sulfadoxine-pyrimethamine :: High-dose (5 mg) folic acid antagonises SP efficacy :: Use 400 mcg in IPTp
+- Phenytoin / phenobarbital :: Folic acid may lower anticonvulsant levels :: Monitor
+- Methotrexate :: Antagonism (weekly folic acid used to reduce toxicity in RA) :: Give on a different day from methotrexate
+food:
+- None significant
+preg: Recommended.
+lact: Compatible.
+monitor:
+- Hb, MCV; check B12 before treating macrocytic anaemia
+advice:
+- Take daily; in sickle cell it must be taken every day for life
+storage: Below 25°C.
+pearls:
+- Always exclude/treat B12 deficiency before giving folic acid alone for megaloblastic anaemia
+
+=== drug: hydroxyurea
+name: Hydroxyurea (hydroxycarbamide)
+class: Antimetabolite (ribonucleotide reductase inhibitor); disease-modifying in sickle cell disease
+group: Haematology
+nemlit: S (capsule 500 mg)
+forms: Capsule 500 mg; oral solution (paediatric)
+moa: Inhibits ribonucleotide reductase; induces fetal haemoglobin (HbF) which inhibits HbS polymerisation; lowers neutrophils and adhesion.
+uses:
+- Sickle cell disease (≥9 months): reduces pain crises, acute chest syndrome, transfusion and mortality; stroke prevention
+- CML and myeloproliferative disorders (specialist)
+dose:
+- SCD: start 15–20 mg/kg once daily, increase by 5 mg/kg every 8–12 weeks to maximum tolerated dose (≤35 mg/kg/day) keeping ANC >2 × 10⁹/L and platelets >80 × 10⁹/L
+ci:
+- Severe bone marrow suppression; pregnancy; breastfeeding
+se:
+- Myelosuppression (neutropenia, thrombocytopenia), macrocytosis (expected), GI upset, skin/nail hyperpigmentation, leg ulcers, reduced sperm count
+ddi:
+- Zidovudine / other myelosuppressives :: Additive marrow toxicity :: Monitor FBC
+- Live vaccines :: Infection risk :: Avoid
+food:
+- None significant
+preg: CONTRAINDICATED (teratogenic) — effective contraception for men and women.
+lact: Avoid.
+renal: Reduce dose if eGFR <60.
+monitor:
+- FBC every 2–4 weeks during titration, then every 2–3 months; HbF, renal and liver function
+advice:
+- Take at the same time daily; continue even when well
+- Use reliable contraception; tell your clinician before planning pregnancy
+- Caregivers: wear gloves when handling capsules; wash hands
+- Report fever, unusual bleeding or bruising
+storage: Below 25°C; cytotoxic — handle with care, keep away from children.
+pearls:
+- Rising MCV is a sign of adherence
+
+=== drug: hydroxocobalamin
+name: Hydroxocobalamin (vitamin B12)
+class: Vitamin B12
+group: Haematology
+nemlit: C (injection 1 mg/mL)
+forms: Injection 1 mg/mL
+moa: Coenzyme for methionine synthase and methylmalonyl-CoA mutase — DNA synthesis and myelin maintenance.
+uses:
+- Pernicious anaemia and B12 deficiency (malabsorption, ileal disease, vegan diet, long-term metformin/PPI)
+- Cyanide poisoning (high-dose IV form)
+dose:
+- Without neurological signs: 1 mg IM three times a week for 2 weeks, then 1 mg every 3 months
+- With neurological signs: 1 mg IM on alternate days until no further improvement, then every 2 months
+ci:
+- Hypersensitivity
+se:
+- Injection-site pain, pruritus, hypokalaemia in early treatment of severe anaemia; pink urine
+ddi:
+- Chloramphenicol :: Reduced response :: Avoid
+food:
+- None
+preg: Safe.
+lact: Safe.
+monitor:
+- Hb, reticulocytes (day 5–7), K+ during initial treatment of severe anaemia
+advice:
+- Pernicious anaemia needs lifelong injections every 3 months
+storage: Protect from light.
+pearls:
+- Oral B12 does not work when the problem is intrinsic factor deficiency
+
+=== drug: vitamin-k
+name: Phytomenadione (vitamin K1)
+class: Vitamin K
+group: Haematology
+nemlit: B (injection 1 mg/0.5 mL, 2 mg/mL; neonatal 1 mg)
+forms: Injection 1 mg/0.5 mL (neonatal), 10 mg/mL; oral
+moa: Cofactor for γ-carboxylation of clotting factors II, VII, IX, X and proteins C, S.
+uses:
+- Prophylaxis of haemorrhagic disease of the newborn (all newborns)
+- Reversal of warfarin over-anticoagulation; vitamin K deficiency bleeding (malabsorption, liver disease)
+dose:
+- Newborn: 1 mg IM at birth (0.5 mg if <1.5 kg)
+- Warfarin: INR 5–8 no bleeding — withhold 1–2 doses; INR >8 — 1–5 mg orally; major bleeding — 5–10 mg slow IV with prothrombin complex/FFP
+ci:
+- Hypersensitivity
+se:
+- Anaphylactoid reactions with rapid IV injection; injection-site reactions
+ddi:
+- Warfarin :: Reverses effect (resistance for days after high doses) :: Use minimal effective dose
+food:
+- Not applicable
+preg: Safe.
+lact: Safe.
+monitor:
+- INR at 24 h
+advice:
+- Explain to new mothers why the baby gets the injection
+storage: Protect from light.
+pearls:
+- IV vitamin K: give slowly (risk of anaphylaxis)
+
+=== drug: tranexamic-acid
+name: Tranexamic acid
+class: Antifibrinolytic
+group: Haematology
+nemlit: C (injection 100 mg/mL; tablet 500 mg; syrup)
+forms: Tablet 500 mg; injection 100 mg/mL (5 mL)
+moa: Blocks lysine-binding sites on plasminogen → prevents fibrin degradation.
+uses:
+- PPH (within 3 hours of birth — WOMAN trial), trauma with major bleeding (CRASH-2, within 3 h)
+- Menorrhagia, dental extraction in haemophilia, epistaxis, hereditary angioedema
+dose:
+- PPH/trauma: 1 g IV over 10 minutes; second 1 g if bleeding continues after 30 min (or recurs within 24 h)
+- Menorrhagia: 1–1.5 g three times daily for up to 4 days from start of menses
+ci:
+- Active thromboembolic disease; history of venous/arterial thrombosis; haematuria (clot retention); severe renal impairment
+se:
+- Nausea, diarrhoea; rarely thrombosis, visual disturbance, seizures (high doses)
+ddi:
+- Combined oral contraceptives :: Increased thrombosis risk :: Caution
+food:
+- None
+preg: Used for PPH.
+lact: Compatible.
+renal: Reduce dose.
+monitor:
+- Bleeding, signs of thrombosis
+advice:
+- Menorrhagia: take only during heavy bleeding days
+storage: Below 25°C.
+pearls:
+- Must be given within 3 hours — benefit falls with each 15-minute delay
+
+=== drug: iron-sucrose
+name: Iron sucrose (IV iron)
+class: Parenteral iron
+group: Haematology
+nemlit: D (injection 20 mg/mL)
+forms: Injection 20 mg/mL (5 mL = 100 mg)
+moa: Iron–sucrose complex taken up by the reticuloendothelial system, releasing iron to transferrin.
+uses:
+- Iron deficiency anaemia when oral iron fails, is not tolerated, or rapid repletion needed (late pregnancy, CKD on ESA)
+dose:
+- Total iron deficit (mg) = weight (kg) × (target Hb − actual Hb, g/dL) × 2.4 + iron stores (500 mg)
+- Give 100–200 mg per session by slow IV injection/infusion (max 200 mg per dose, up to 3 times weekly)
+ci:
+- Non-iron-deficiency anaemia, iron overload, first trimester, history of hypersensitivity to parenteral iron
+se:
+- Hypotension, metallic taste, headache, nausea; hypersensitivity/anaphylaxis (rare)
+ddi:
+- Oral iron :: Reduced absorption :: Stop oral iron 5 days before IV
+food:
+- Not applicable
+preg: Avoid in first trimester; used in 2nd/3rd.
+lact: Compatible.
+monitor:
+- Observe 30 minutes after each dose for reactions; Hb after 2–4 weeks; ferritin
+advice:
+- Report itching, breathlessness or dizziness during the infusion
+storage: Below 25°C; do not freeze.
+pearls:
+- Resuscitation facilities must be available when giving IV iron
+
+=== drug: allopurinol
+name: Allopurinol
+class: Xanthine oxidase inhibitor (urate-lowering therapy)
+group: Musculoskeletal
+nemlit: B (tablet 100 mg, 300 mg)
+forms: Tablet 100 mg, 300 mg
+moa: Inhibits xanthine oxidase → ↓ conversion of hypoxanthine/xanthine to uric acid.
+uses:
+- Chronic gout with recurrent attacks, tophi, urate nephropathy/stones (urate-lowering therapy)
+- Prevention of tumour lysis syndrome (start 1–2 days before chemotherapy)
+dose:
+- Gout: start 100 mg daily (50 mg in CKD), increase by 100 mg every 2–4 weeks to serum urate <0.36 mmol/L (6 mg/dL); usual 300 mg (max 900 mg)
+- TLS prophylaxis: 300 mg daily (or 100 mg/m² three times daily)
+ci:
+- Acute gout attack (do not START during an attack — but do not stop if already taking)
+- Previous severe hypersensitivity (HLA-B*5801 risk)
+se:
+- Rash (stop immediately — may progress to SJS/TEN/DRESS), acute gout flare on initiation
+- GI upset, hepatotoxicity, hypersensitivity syndrome (higher in renal impairment)
+ddi:
+- Azathioprine / mercaptopurine :: Allopurinol blocks their metabolism → fatal marrow toxicity :: Reduce azathioprine to 25% or avoid
+- Amoxicillin / ampicillin :: Increased rash :: Monitor
+- Warfarin :: Raised INR :: Monitor
+- Thiazides / loop diuretics :: Raise urate and hypersensitivity risk :: Review need for diuretic
+food:
+- Fluids :: Prevent urate stones :: Drink 2–3 L water daily
+- Alcohol (especially beer), red meat, organ meats, seafood, sugary drinks :: Raise urate :: Limit
+preg: Avoid.
+lact: Compatible (low amounts).
+renal: Start low (50–100 mg) and titrate slowly.
+monitor:
+- Serum urate every 2–4 weeks during titration; renal function, LFTs, rash
+advice:
+- Take after food with plenty of water, every day — it prevents attacks but does not treat an attack
+- Attacks may increase in the first months — continue it and take colchicine/NSAID cover as prescribed
+- Stop and seek advice at the first sign of a rash
+storage: Below 25°C.
+pearls:
+- Start 2 weeks after an acute flare settles, with colchicine/NSAID prophylaxis for 3–6 months
+
+=== drug: colchicine
+name: Colchicine
+class: Anti-gout (microtubule inhibitor)
+group: Musculoskeletal
+nemlit: Not found in NEMLIT 2021 extract (listed in STG gout chapter) — check facility list
+forms: Tablet 0.5 mg (500 mcg)
+moa: Binds tubulin → inhibits neutrophil migration and activation (NLRP3 inflammasome) at the joint.
+uses:
+- Acute gout flare (alternative to NSAIDs, e.g. in heart failure/anticoagulation)
+- Prophylaxis when starting urate-lowering therapy; familial Mediterranean fever; pericarditis
+dose:
+- Acute gout: 500 mcg two to four times daily until relief (max 6 mg per course; not repeated within 3 days) — low-dose regimen 1 mg then 0.5 mg after 1 hour
+- Prophylaxis: 500 mcg once or twice daily
+ci:
+- Severe renal or hepatic impairment; blood dyscrasias; with strong CYP3A4/P-gp inhibitors in renal/hepatic impairment
+se:
+- Diarrhoea, nausea, vomiting, abdominal pain (dose-limiting — first sign of toxicity)
+- Myopathy, neuropathy, bone marrow suppression in overdose
+ddi:
+- Clarithromycin / erythromycin / ritonavir / ketoconazole :: Colchicine toxicity (fatal) :: Avoid or greatly reduce dose
+- Statins :: Myopathy :: Monitor
+food:
+- Grapefruit juice :: Raises levels :: Avoid
+preg: Avoid.
+lact: Compatible.
+renal: Reduce dose; avoid if eGFR <10.
+monitor:
+- GI symptoms
+advice:
+- Start at the first sign of an attack; stop if diarrhoea or vomiting develop
+storage: Below 25°C.
+pearls:
+- Very narrow therapeutic index — never exceed maximum course dose
+
+=== drug: tamsulosin
+name: Tamsulosin
+class: Selective alpha-1A adrenoceptor blocker
+group: Urology
+nemlit: D (tablet/capsule 0.4 mg)
+forms: Modified-release capsule 0.4 mg
+moa: Relaxes prostatic and bladder neck smooth muscle (α1A) → improved urine flow.
+uses:
+- Lower urinary tract symptoms of benign prostatic hyperplasia
+- Medical expulsive therapy for distal ureteric stones
+dose:
+- 0.4 mg once daily after the same meal each day
+ci:
+- History of orthostatic hypotension; severe hepatic impairment
+se:
+- Dizziness, postural hypotension (first dose), abnormal/retrograde ejaculation, nasal congestion
+- Intra-operative floppy iris syndrome (cataract surgery)
+ddi:
+- Other antihypertensives / PDE-5 inhibitors (sildenafil) :: Additive hypotension :: Separate dosing, start low
+- Strong CYP3A4 inhibitors :: Raised levels :: Caution
+food:
+- Food :: Consistent absorption :: Take 30 minutes after the same meal daily
+preg: Not applicable.
+lact: Not applicable.
+monitor:
+- Symptom scores (IPSS), BP
+advice:
+- Swallow whole; first dose at bedtime; rise slowly
+- Tell your eye surgeon before cataract surgery
+storage: Below 25°C.
+pearls:
+- Alpha-blockers relieve symptoms within days; 5-ARIs shrink the prostate over 6 months
+
+=== drug: finasteride
+name: Finasteride
+class: 5-alpha reductase inhibitor
+group: Urology
+nemlit: D (tablet 5 mg)
+forms: Tablet 5 mg (1 mg for alopecia)
+moa: Inhibits type II 5α-reductase → ↓ DHT → prostate shrinkage (~20–30% over 6 months).
+uses:
+- BPH with enlarged prostate (alone or with tamsulosin)
+dose:
+- 5 mg once daily (benefit after 3–6 months)
+ci:
+- Women and children; women who are or may become pregnant must not handle crushed/broken tablets
+se:
+- Reduced libido, erectile dysfunction, ejaculatory disorder, gynaecomastia; reduces PSA by ~50%
+ddi:
+- Few significant interactions
+food:
+- None
+preg: Contraindicated (feminisation of male fetus).
+lact: Not applicable.
+monitor:
+- Symptoms; double the measured PSA when interpreting
+advice:
+- Takes months to work; pregnant women should not touch broken tablets; use condoms if partner is pregnant
+storage: Below 25°C.
+pearls:
+- PSA halves on finasteride — multiply by 2 for cancer screening
+
+=== drug: sildenafil
+name: Sildenafil
+class: Phosphodiesterase-5 (PDE-5) inhibitor
+group: Urology
+nemlit: S (tablet 50 mg)
+forms: Tablet 25 mg, 50 mg, 100 mg
+moa: Inhibits PDE-5 → ↑ cGMP in corpus cavernosum (requires sexual stimulation) and pulmonary vasculature.
+uses:
+- Erectile dysfunction; pulmonary arterial hypertension (specialist)
+dose:
+- ED: 50 mg about 1 hour before sexual activity (25–100 mg), max once daily
+ci:
+- Nitrates (GTN, isosorbide) — life-threatening hypotension; recent stroke/MI, severe hypotension, unstable angina
+se:
+- Headache, flushing, dyspepsia, nasal congestion, visual disturbance (blue tinge), hypotension; priapism (rare); NAION
+ddi:
+- Nitrates (GTN, isosorbide dinitrate) :: Severe hypotension, death :: Absolutely contraindicated (24 h gap)
+- Alpha-blockers (tamsulosin, doxazosin) :: Hypotension :: Start low, separate
+- Ritonavir / clarithromycin :: Greatly increased levels :: Max 25 mg every 48 h
+food:
+- High-fat meal :: Delays onset :: Take on an empty stomach for faster action
+- Grapefruit :: Raises levels :: Avoid
+- Alcohol :: Hypotension :: Limit
+preg: Not applicable.
+lact: Not applicable.
+monitor:
+- Cardiovascular fitness for sexual activity
+advice:
+- Seek emergency help for an erection lasting more than 4 hours
+- Never use with chest-pain sprays or tablets (nitrates)
+storage: Below 25°C.
+pearls:
+- ED may be the first sign of cardiovascular disease or diabetes — screen
+
+=== drug: adrenaline
+name: Adrenaline (epinephrine)
+class: Sympathomimetic (α and β agonist)
+group: Emergency
+nemlit: A (injection 1 mg/mL [1:1000] in 1 mL ampoule)
+forms: Injection 1 mg/mL (1:1000); 1:10,000 (0.1 mg/mL) for IV in arrest; auto-injector 0.3 mg/0.15 mg
+moa: α1 vasoconstriction (raises BP, reduces oedema), β1 inotropy/chronotropy, β2 bronchodilation and mast-cell stabilisation.
+uses:
+- Anaphylaxis (first-line, life-saving)
+- Cardiac arrest (all rhythms); severe croup (nebulised); refractory hypotension/septic shock (infusion)
+dose:
+- Anaphylaxis: 0.5 mg (0.5 mL of 1:1000) IM into anterolateral thigh (adults); children 0.01 mg/kg (max 0.5 mg) — 6–12 years 0.3 mg; <6 years 0.15 mg; repeat every 5 minutes if needed
+- Cardiac arrest: 1 mg IV (10 mL of 1:10,000) every 3–5 minutes
+- Croup: 0.5 mL/kg of 1:1000 (max 5 mL) nebulised
+ci:
+- None in anaphylaxis/arrest (life-threatening situations)
+se:
+- Tachycardia, arrhythmias, hypertension, anxiety, tremor, headache, pallor
+- Tissue necrosis with extravasation; never inject into fingers/toes (1:1000)
+ddi:
+- Non-selective beta-blockers (propranolol) :: Unopposed α effect → severe hypertension, reduced response in anaphylaxis :: Glucagon if refractory
+- TCAs / MAOIs :: Hypertension, arrhythmias :: Caution
+- Halothane :: Arrhythmias :: Caution
+food:
+- Not applicable
+preg: Use in anaphylaxis/arrest without hesitation.
+lact: Compatible.
+monitor:
+- BP, HR, ECG, airway, SpO2
+advice:
+- Patients at risk: carry an adrenaline auto-injector; inject into the outer thigh through clothing and call for help
+storage: Protect from light (discard if pink/brown); below 25°C.
+pearls:
+- 1:1000 = 1 mg/mL (IM); 1:10,000 = 0.1 mg/mL (IV) — confusing them is a classic fatal error
+- IM thigh is preferred over SC in anaphylaxis (faster absorption)
+
+=== drug: dextrose-50
+name: Dextrose (glucose) 50% / 10%
+class: Carbohydrate / antihypoglycaemic
+group: Emergency
+nemlit: Listed under solutions (glucose 5%, 10%, 50%)
+forms: Injection 50% (50 mL), 10% (500 mL), 5% infusion
+moa: Rapidly raises blood glucose.
+uses:
+- Hypoglycaemia (unconscious or unable to swallow); hyperkalaemia (with insulin); DKA (add 5% dextrose when glucose ≈ 11–14 mmol/L)
+- Severe malaria hypoglycaemia; neonatal hypoglycaemia (10%)
+dose:
+- Adult hypoglycaemia: 25–50 mL of 50% IV (or 100–200 mL of 10%) — then recheck in 15 minutes
+- Children: 10% dextrose 2–5 mL/kg IV (never 50% in children — dilute)
+- Hyperkalaemia: 50 mL 50% with 10 units soluble insulin
+ci:
+- Hyperglycaemia; 50% via small peripheral vein in children (phlebitis, necrosis)
+se:
+- Phlebitis, tissue necrosis if extravasated (hypertonic), hyperglycaemia, hypokalaemia
+ddi:
+- Insulin :: Used together for hyperkalaemia :: Monitor glucose and K+
+food:
+- Follow with oral complex carbohydrate when conscious
+preg: Safe.
+lact: Safe.
+monitor:
+- Blood glucose 15 min after and hourly; K+ if with insulin
+advice:
+- Once awake, give a meal or snack to prevent recurrence (sulfonylurea hypoglycaemia can last 24–72 h)
+storage: Below 25°C.
+pearls:
+- In malnourished/alcohol-dependent patients give thiamine before or with glucose (Wernicke's)
+
+=== drug: naloxone
+name: Naloxone
+class: Opioid receptor antagonist
+group: Antidote
+nemlit: B (injection 0.4 mg/mL)
+forms: Injection 0.4 mg/mL; nasal spray (some settings)
+moa: Competitive antagonist at μ, κ, δ opioid receptors — reverses respiratory depression and sedation within 1–2 min (IV).
+uses:
+- Opioid overdose/poisoning (respiratory depression, pinpoint pupils, coma)
+- Reversal of post-operative opioid depression; neonatal respiratory depression from maternal opioids
+dose:
+- Overdose: 0.4–2 mg IV/IM/SC, repeat every 2–3 minutes (max 10 mg); titrated doses (0.1–0.2 mg) in opioid-dependent patients
+- Infusion: 2/3 of the initial effective dose per hour (long-acting opioids)
+- Neonates: 10 mcg/kg IV/IM
+ci:
+- None in emergency (caution in opioid dependence — precipitates withdrawal)
+se:
+- Acute withdrawal (agitation, vomiting, sweating, tachycardia) in dependent patients; pulmonary oedema; arrhythmias
+ddi:
+- Opioids :: Reverses analgesia too :: Titrate in palliative patients
+food:
+- Not applicable
+preg: Use when needed (may precipitate fetal withdrawal in dependent mothers).
+lact: Compatible.
+monitor:
+- Respiratory rate, consciousness for at least 6 hours (naloxone duration 30–90 min is shorter than most opioids — re-sedation)
+advice:
+- Family of people using opioids: call for help, give rescue breathing, use naloxone if available
+storage: Below 25°C, protect from light.
+pearls:
+- Watch for re-narcotisation, especially after methadone or slow-release morphine
+
+=== drug: acetylcysteine
+name: N-acetylcysteine (NAC)
+class: Antidote (glutathione precursor)
+group: Antidote
+nemlit: C (injection 200 mg/mL in 10 mL)
+forms: Injection 200 mg/mL (10 mL); effervescent tablets/granules (mucolytic)
+moa: Replenishes hepatic glutathione, which conjugates and detoxifies NAPQI (toxic paracetamol metabolite).
+uses:
+- Paracetamol poisoning (most effective within 8 hours, still useful up to 24 h+ in established toxicity)
+dose:
+- 21-hour IV regimen (total 300 mg/kg): 150 mg/kg in 200 mL 5% dextrose over 1 hour → 50 mg/kg in 500 mL over 4 hours → 100 mg/kg in 1 L over 16 hours
+- Oral (if IV unavailable): 140 mg/kg loading, then 70 mg/kg every 4 hours for 17 doses
+ci:
+- None absolute in paracetamol poisoning
+se:
+- Anaphylactoid reactions (flushing, rash, bronchospasm, hypotension) during first bag — slow or pause, give antihistamine, then restart
+- Nausea, vomiting
+ddi:
+- Activated charcoal :: Binds oral NAC :: Use IV NAC or separate
+food:
+- Not applicable
+preg: Use — protects mother and fetus.
+lact: Compatible.
+monitor:
+- Paracetamol level at 4 h post-ingestion (treatment nomogram); LFTs, INR, creatinine, glucose
+advice:
+- Explain the full 21-hour course is needed
+storage: Below 25°C.
+pearls:
+- If ingestion time unknown or staggered overdose → treat without waiting for levels
+
+=== drug: atropine
+name: Atropine
+class: Antimuscarinic (anticholinergic)
+group: Antidote
+nemlit: A (injection 1 mg/mL in 1 mL ampoule; 0.6 mg)
+forms: Injection 0.6 mg/mL, 1 mg/mL; eye drops 1%
+moa: Competitive antagonist at muscarinic receptors.
+uses:
+- Organophosphate and carbamate poisoning (reverses muscarinic effects)
+- Symptomatic bradycardia; pre-anaesthetic to reduce secretions; reversal of neuromuscular blockade (with neostigmine); mydriasis/cycloplegia (eye)
+dose:
+- Organophosphate: 1–2 mg IV (children 0.02 mg/kg), double the dose every 5 minutes until "atropinised" (clear chest, HR >80, SBP >80, dry axillae, pupils no longer pinpoint); then infusion 10–20% of loading dose per hour
+- Bradycardia: 0.5 mg IV every 3–5 min (max 3 mg)
+ci:
+- Angle-closure glaucoma, myasthenia gravis (relative), obstructive uropathy — not applicable in poisoning emergencies
+se:
+- Dry mouth, tachycardia, mydriasis, blurred vision, urinary retention, hyperthermia, agitation/delirium (atropine toxicity)
+ddi:
+- Other anticholinergics :: Additive toxicity :: Monitor
+food:
+- Not applicable
+preg: Use in emergencies.
+lact: Compatible.
+monitor:
+- Signs of atropinisation and toxicity (confusion, fever, absent bowel sounds) — reduce infusion if toxic
+advice:
+- Hospital use; for families: remove contaminated clothing, wash skin, bring pesticide container
+storage: Below 25°C.
+pearls:
+- Endpoint is drying of bronchial secretions, NOT pupil size; give pralidoxime (S) early where available
+
+=== drug: activated-charcoal
+name: Activated charcoal
+class: Adsorbent (gut decontamination)
+group: Antidote
+nemlit: Listed as non-specific antidote (powder/suspension)
+forms: Powder 50 g; suspension
+moa: Huge surface area adsorbs many drugs/toxins in the gut, preventing absorption.
+uses:
+- Recent (<1 hour) ingestion of a potentially toxic amount of an adsorbable poison (e.g. paracetamol, aspirin, TCAs, carbamazepine, theophylline, phenobarbital)
+- Multiple doses for carbamazepine, phenobarbital, quinine, theophylline, dapsone
+dose:
+- Adults 50 g; children 1 g/kg (max 50 g) orally or via NG tube, mixed with water
+ci:
+- Unprotected airway/reduced consciousness (aspiration), GI obstruction/perforation
+- Corrosives (acids/alkalis), petroleum products (kerosene), alcohols, iron, lithium, heavy metals (not adsorbed)
+se:
+- Vomiting, black stools, constipation, aspiration pneumonitis
+ddi:
+- Oral antidotes (NAC, methionine) and all oral medicines :: Adsorbed :: Separate or use IV routes
+food:
+- Not applicable
+preg: Safe.
+lact: Safe.
+monitor:
+- Airway; bowel sounds
+advice:
+- Do NOT induce vomiting at home; bring the poison container to hospital
+storage: Below 25°C, tightly closed (adsorbs gases).
+pearls:
+- "Kerosene, corrosives, iron and alcohols — charcoal doesn't help"
+
+=== drug: deferoxamine
+name: Deferoxamine (desferrioxamine)
+class: Iron chelator
+group: Antidote
+nemlit: D (injection 500 mg vial)
+forms: Powder for injection 500 mg
+moa: Binds free iron (ferric) forming ferrioxamine, excreted in urine (vin rosé colour).
+uses:
+- Severe acute iron poisoning (serum iron >90 µmol/L or severe symptoms, shock, acidosis)
+- Chronic iron overload from repeated transfusion (sickle cell, thalassaemia)
+dose:
+- Acute poisoning: 15 mg/kg/hour IV infusion (max 80 mg/kg/24 h)
+- Chronic overload: 20–40 mg/kg SC over 8–12 h, 5–7 nights/week
+ci:
+- Severe renal impairment (unless dialysis)
+se:
+- Hypotension with rapid infusion, red urine, ARDS (prolonged infusion), visual/auditory toxicity, Yersinia infections
+ddi:
+- Vitamin C :: Increases iron excretion but can worsen cardiac function at start :: Specialist use
+food:
+- Not applicable
+preg: Use in serious poisoning.
+lact: Unknown.
+monitor:
+- Iron levels, urine colour, BP, ferritin (chronic)
+advice:
+- Hospital use
+storage: Below 25°C.
+pearls:
+- Iron poisoning >60 mg/kg elemental iron is potentially fatal
+
+=== drug: calcium-gluconate
+name: Calcium gluconate 10%
+class: Calcium salt / antidote
+group: Emergency
+nemlit: A (injection 100 mg/mL in 10 mL)
+forms: Injection 10% (100 mg/mL, 10 mL ampoule = 2.2 mmol Ca2+)
+moa: Restores ionised calcium; stabilises cardiac cell membranes against hyperkalaemia; antagonises magnesium.
+uses:
+- Magnesium sulfate toxicity (respiratory depression, loss of reflexes)
+- Hyperkalaemia with ECG changes (cardioprotection); symptomatic hypocalcaemia/tetany; calcium channel blocker overdose
+dose:
+- MgSO4 toxicity: 1 g (10 mL of 10%) IV slowly over 10 minutes
+- Hyperkalaemia: 10–30 mL of 10% IV over 5–10 minutes, repeat if ECG changes persist
+- Hypocalcaemic tetany: 10–20 mL IV over 10 min, then infusion
+ci:
+- Hypercalcaemia; digoxin toxicity (relative)
+se:
+- Bradycardia, arrhythmias with rapid injection, tissue necrosis if extravasated, hot flushes
+ddi:
+- Digoxin :: Arrhythmias :: Give very slowly with ECG monitoring
+- Ceftriaxone :: Precipitation (neonates) :: Never mix/co-infuse
+- Sodium bicarbonate :: Precipitates :: Do not mix in same line
+food:
+- Not applicable
+preg: Safe.
+lact: Safe.
+monitor:
+- ECG during IV injection; serum calcium
+advice:
+- Hospital use
+storage: Below 25°C.
+pearls:
+- Calcium does NOT lower potassium — it only protects the heart (buy time for insulin-dextrose)
+
+=== drug: chlorphenamine
+name: Chlorphenamine (chlorpheniramine)
+class: Sedating H1 antihistamine
+group: Allergy
+nemlit: Listed (injection 10 mg/mL; tablet 4 mg)
+forms: Tablet 4 mg; syrup 2 mg/5 mL; injection 10 mg/mL
+moa: H1 receptor antagonist (inverse agonist); anticholinergic and sedating.
+uses:
+- Allergic rhinitis, urticaria, insect bites, drug rashes, pruritus (including chickenpox, scabies itch)
+- Adjunct in anaphylaxis (after adrenaline); blood transfusion reactions
+dose:
+- Adults: 4 mg every 4–6 hours (max 24 mg/day); IV/IM 10 mg (anaphylaxis adjunct)
+- Children 1–2 years 1 mg twice daily; 2–5 years 1 mg every 4–6 h; 6–12 years 2 mg every 4–6 h
+ci:
+- Children <1 year (oral); MAOI use; angle-closure glaucoma, urinary retention (caution)
+se:
+- Drowsiness, psychomotor impairment, dry mouth, blurred vision, urinary retention; paradoxical excitation in children
+ddi:
+- Alcohol / benzodiazepines / opioids :: Additive sedation :: Avoid
+- Anticholinergic drugs :: Additive effects :: Caution
+food:
+- Alcohol :: Sedation :: Avoid
+preg: Acceptable (avoid in third trimester near delivery).
+lact: Avoid (sedation, may reduce milk).
+monitor:
+- Sedation
+advice:
+- Causes drowsiness — avoid driving and alcohol
+storage: Below 25°C.
+pearls:
+- Non-sedating cetirizine/loratadine preferred for daytime allergic rhinitis
+
+=== drug: cetirizine
+name: Cetirizine
+class: Non-sedating (second-generation) H1 antihistamine
+group: Allergy
+nemlit: A (tablet 10 mg; oral solution 5 mg/5 mL)
+forms: Tablet 10 mg; oral solution 5 mg/5 mL
+moa: Selective peripheral H1 antagonist; little CNS penetration.
+uses:
+- Allergic rhinitis, allergic conjunctivitis, chronic urticaria, pruritus
+dose:
+- Adults and children >6 years: 10 mg once daily; 2–6 years: 2.5 mg twice daily
+ci:
+- Severe renal impairment (eGFR <10)
+se:
+- Mild drowsiness (some), headache, dry mouth, fatigue
+ddi:
+- Alcohol / sedatives :: Possible additive drowsiness :: Caution
+food:
+- None significant
+preg: Acceptable when needed (loratadine/cetirizine have most data).
+lact: Compatible.
+renal: Halve dose if eGFR 10–30.
+monitor:
+- Symptoms
+advice:
+- Once daily; can be taken any time
+storage: Below 25°C.
+pearls:
+- Allergic rhinitis: intranasal steroid is more effective than oral antihistamine for congestion
+
+=== drug: promethazine
+name: Promethazine
+class: Phenothiazine H1 antihistamine (sedating)
+group: Allergy
+nemlit: A (tablet 25 mg; injection 25 mg/mL; elixir 5 mg/5 mL)
+forms: Tablet 10 mg, 25 mg; elixir 5 mg/5 mL; injection 25 mg/mL
+moa: H1 antagonist with anticholinergic, antiemetic and sedative actions.
+uses:
+- Nausea and vomiting (including hyperemesis gravidarum, motion sickness), allergic reactions, sedation
+- Rapid tranquillisation (IM with haloperidol)
+dose:
+- Nausea/allergy: 25 mg at night or 10–25 mg two to three times daily; IM 25–50 mg
+- Hyperemesis: 25 mg every 8 hours
+ci:
+- Children <2 years (fatal respiratory depression); coma; CNS depression
+se:
+- Marked sedation, anticholinergic effects, EPS, respiratory depression, severe tissue injury with IV extravasation
+ddi:
+- CNS depressants / alcohol / opioids :: Respiratory depression :: Avoid
+- Anticholinergics :: Additive :: Caution
+food:
+- Alcohol :: Sedation :: Avoid
+preg: Commonly used for nausea in pregnancy.
+lact: Avoid regular use.
+monitor:
+- Sedation, respiratory rate
+advice:
+- Causes significant drowsiness the next day; no alcohol; do not drive
+storage: Protect from light.
+pearls:
+- Never give to children under 2 years
+
+=== drug: methotrexate
+name: Methotrexate
+class: Antimetabolite (folate antagonist); DMARD
+group: Musculoskeletal
+nemlit: S (tablet 2.5 mg; injection 50 mg/5 mL)
+forms: Tablet 2.5 mg (low dose); injection 25 mg/mL
+moa: Inhibits dihydrofolate reductase (high dose, cytotoxic); at low weekly doses increases adenosine (anti-inflammatory).
+uses:
+- Rheumatoid arthritis (anchor DMARD), psoriasis, psoriatic arthritis
+- Cancers (ALL, choriocarcinoma/gestational trophoblastic disease, breast, osteosarcoma — specialist); ectopic pregnancy (single IM dose)
+dose:
+- RA: 7.5 mg ONCE WEEKLY on the same day, increase by 2.5 mg every 2–4 weeks to 15–25 mg weekly; folic acid 5 mg once weekly on a different day
+- Ectopic pregnancy: 50 mg/m² IM single dose
+ci:
+- Pregnancy (teratogenic, abortifacient) and breastfeeding; significant renal impairment (eGFR <30), liver disease, alcohol abuse
+- Blood dyscrasias, active infection, immunodeficiency
+se:
+- Mouth ulcers, nausea, bone marrow suppression, hepatotoxicity/fibrosis, pneumonitis, infections, teratogenicity
+ddi:
+- Co-trimoxazole / trimethoprim :: Severe (fatal) marrow suppression :: Contraindicated
+- NSAIDs / aspirin (anti-inflammatory doses) / penicillins :: Reduced renal excretion → toxicity :: Avoid high doses; monitor
+- PPIs (high-dose MTX) :: Raised levels :: Caution
+- Live vaccines :: Infection :: Avoid
+food:
+- Alcohol :: Liver damage :: Avoid or minimise
+preg: CONTRAINDICATED — stop 3 months before conception (men and women).
+lact: Contraindicated.
+renal: Reduce dose; avoid if severe.
+hepatic: Avoid.
+monitor:
+- FBC, LFTs, creatinine at baseline, every 2 weeks until stable, then every 2–3 months; chest X-ray baseline
+advice:
+- Take ONCE A WEEK only, on the same day — taking it daily by mistake can be fatal
+- Take folic acid on another day of the week
+- Report sore throat, fever, mouth ulcers, bruising, cough or breathlessness
+- Avoid alcohol; use effective contraception
+storage: Below 25°C; cytotoxic — wash hands after handling.
+pearls:
+- Weekly vs daily dosing errors are a well-known cause of deaths — dispense with clear labelling
+
+=== drug: tamoxifen
+name: Tamoxifen
+class: Selective oestrogen receptor modulator (SERM)
+group: Oncology
+nemlit: D (tablet 20 mg)
+forms: Tablet 10 mg, 20 mg
+moa: Antagonist at breast oestrogen receptors (agonist in endometrium and bone); pro-drug activated by CYP2D6 to endoxifen.
+uses:
+- Hormone receptor-positive breast cancer: adjuvant therapy (5–10 years), metastatic disease; premenopausal women
+dose:
+- 20 mg once daily for 5–10 years
+ci:
+- Pregnancy; history of thromboembolism (relative)
+se:
+- Hot flushes, vaginal discharge/bleeding, menstrual irregularity
+- Venous thromboembolism, endometrial hyperplasia/cancer, cataracts
+ddi:
+- Fluoxetine / paroxetine (CYP2D6 inhibitors) :: Reduced active metabolite → lower efficacy :: Avoid; use venlafaxine or sertraline
+- Warfarin :: Raised INR :: Monitor closely
+food:
+- None significant
+preg: Contraindicated — use non-hormonal contraception.
+lact: Avoid.
+monitor:
+- Gynaecological symptoms (report abnormal bleeding), signs of DVT
+advice:
+- Take daily for the full 5–10 years; report any abnormal vaginal bleeding, calf pain or breathlessness
+- Use non-hormonal contraception
+storage: Below 25°C.
+pearls:
+- Aromatase inhibitors (letrozole, anastrozole) are used in postmenopausal women
+
+=== drug: dmpa
+name: Medroxyprogesterone acetate depot (DMPA)
+class: Injectable progestogen-only contraceptive
+group: Obstetric
+nemlit: A (injection 150 mg)
+forms: Depot injection 150 mg/mL IM; DMPA-SC 104 mg (Sayana Press — self-injection)
+moa: Suppresses ovulation (inhibits LH surge), thickens cervical mucus, thins endometrium.
+uses:
+- Long-acting reversible contraception (3 months); preferred method with enzyme inducers (rifampicin, efavirenz, anticonvulsants)
+dose:
+- 150 mg deep IM every 12 weeks (13 weeks; grace period up to 4 weeks late per WHO)
+- Start within first 7 days of the cycle (or any time if reasonably sure not pregnant, with 7 days back-up)
+ci:
+- Pregnancy, unexplained vaginal bleeding, current breast cancer, severe cirrhosis, multiple CV risk factors
+se:
+- Irregular bleeding then amenorrhoea, weight gain, delayed return of fertility (up to 10 months), headaches, reduced bone mineral density (reversible)
+ddi:
+- Enzyme inducers (rifampicin, carbamazepine) :: Minimal effect — DMPA remains effective :: Preferred method
+food:
+- None
+preg: Contraindicated.
+lact: Compatible (from 6 weeks postpartum).
+monitor:
+- Return date, BP, weight
+advice:
+- Return every 3 months; periods may become irregular or stop — this is normal and not harmful
+- Fertility may take several months to return after stopping
+- Does not protect against HIV/STIs — use condoms too
+storage: Below 25°C; shake well before injecting.
+pearls:
+- Classic exam point: best hormonal method for women on rifampicin or efavirenz
+
+=== drug: levonorgestrel-ec
+name: Levonorgestrel 1.5 mg (emergency contraception)
+class: Progestogen emergency contraceptive
+group: Obstetric
+nemlit: A (tablet 0.75 mg; implant 75 mg; low-dose combined pills)
+forms: Tablet 1.5 mg (or 2 × 0.75 mg); implant (Jadelle 2 × 75 mg rods)
+moa: Delays or prevents ovulation; does not disrupt an implanted pregnancy.
+uses:
+- Emergency contraception within 72 hours (up to 120 h, reduced efficacy) of unprotected intercourse or contraceptive failure; post-rape care
+dose:
+- 1.5 mg single dose as soon as possible (3 mg if on enzyme inducers or BMI >30 per some guidance)
+ci:
+- Established pregnancy (ineffective, not harmful)
+se:
+- Nausea, vomiting, headache, breast tenderness, irregular bleeding/next period earlier or later
+ddi:
+- Rifampicin / efavirenz / carbamazepine / phenytoin :: Reduced efficacy :: Use double dose or copper IUD
+food:
+- None
+preg: Not an abortifacient; no harm if pregnancy already exists.
+lact: Compatible.
+monitor:
+- Pregnancy test if period delayed >7 days
+advice:
+- Take as soon as possible; if you vomit within 3 hours, take another dose
+- Use condoms until next period; start a regular method
+- Copper IUD within 5 days is the most effective emergency method
+storage: Below 25°C.
+pearls:
+- Rape survivors: EC + HIV PEP + STI prophylaxis
+
+=== drug: combined-oral-contraceptive
+name: Combined oral contraceptive (ethinylestradiol + levonorgestrel)
+class: Combined hormonal contraceptive
+group: Obstetric
+nemlit: A (ethinylestradiol 30 mcg + levonorgestrel 150 mcg)
+forms: 21 active + 7 inactive (iron) tablets, 28-day packs
+moa: Oestrogen + progestogen suppress FSH/LH → ovulation inhibition; thicken cervical mucus.
+uses:
+- Contraception; dysmenorrhoea, menorrhagia, acne, PCOS cycle control
+dose:
+- One tablet daily at the same time; start on day 1–5 of the cycle (no back-up needed)
+ci:
+- Breastfeeding <6 months postpartum; <21 days postpartum (any)
+- Smoker ≥35 years; BP ≥160/100; history of VTE, stroke, ischaemic heart disease; migraine with aura; breast cancer; severe liver disease; diabetes with complications
+se:
+- Nausea, breast tenderness, breakthrough bleeding (first 3 months), headache, mood change
+- VTE, stroke, MI (rare), raised BP
+ddi:
+- Rifampicin / efavirenz / carbamazepine / phenytoin / phenobarbital / griseofulvin :: Contraceptive failure :: Use DMPA, IUD or condoms
+- Lamotrigine :: COC lowers lamotrigine levels :: Monitor seizures
+food:
+- None significant
+preg: Contraindicated.
+lact: Avoid in first 6 months (reduces milk) — use progestogen-only methods.
+monitor:
+- BP at start and every 6–12 months; migraine
+advice:
+- Take at the same time every day; if one pill is missed (>24 h late), take it as soon as remembered and continue; if 2+ missed, use condoms for 7 days
+- Vomiting within 2 hours or severe diarrhoea = missed pill
+- Seek help for severe chest pain, leg swelling, sudden headache or vision change
+storage: Below 25°C.
+pearls:
+- UK MEC 4 / WHO MEC category 4 conditions = absolute contraindications
+
+=== drug: permethrin
+name: Permethrin 5% / benzyl benzoate 25%
+class: Scabicide / pediculicide (topical)
+group: Dermatology
+nemlit: Benzyl benzoate 25% emulsion A (permethrin per facility availability)
+forms: Permethrin 5% cream, 1% lotion (lice); benzyl benzoate 25% emulsion
+moa: Permethrin disrupts sodium channels in arthropod nerve membranes → paralysis; benzyl benzoate is toxic to mites.
+uses:
+- Scabies (whole household); head and pubic lice
+dose:
+- Permethrin 5%: apply to whole body from neck down (including under nails, genitals, soles), wash off after 8–12 hours; repeat after 7 days
+- Benzyl benzoate 25%: apply from neck down, leave 24 hours, repeat once (dilute 1:1 for children, 1:3 for infants; avoid in <2 years)
+ci:
+- Broken/infected skin (treat infection first); benzyl benzoate in infants (dilute) and pregnancy (prefer permethrin)
+se:
+- Burning, stinging, itching (itch may persist 2–4 weeks after successful treatment)
+ddi:
+- None significant
+food:
+- Not applicable
+preg: Permethrin is preferred in pregnancy.
+lact: Permethrin compatible.
+monitor:
+- New burrows after 2 weeks = treatment failure
+advice:
+- Treat everyone in the house at the same time even without itching
+- Wash clothes, towels and bedding in hot water and dry in the sun (or seal in a bag for 3 days)
+- Itch may continue for a few weeks — this does not mean the treatment failed
+storage: Below 25°C.
+pearls:
+- Crusted (Norwegian) scabies needs oral ivermectin plus topical treatment
